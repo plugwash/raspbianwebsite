@@ -16,6 +16,9 @@ Interesting starting points:
   - [The Repository](http://debian.raspbian.com/): all the packages
     associated with the project
 
+  - [eLinux.org Wiki](http://elinux.org/Raspbian): additional Raspbian
+    port information
+
 ## How to use this site
 
 This Wiki is a collaborative site and everyone is encouraged to
