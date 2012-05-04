@@ -1,38 +1,30 @@
-# Raspbian Wiki
+# What is Raspbian?
 
-What is this wiki about?
+Raspbian is a project to create a hard float port of Debian Wheezy for
+the Raspberry Pi and similar devices which use ARMv6 processors with
+VFPv2.
+
+This project is just getting started so this site is rather skimpy right
+now.
 
 Interesting starting points:
 
-  - [RecentChanges](/RecentChanges): see where people are currently
-    working
+  - [Forum
+    Discussion](http://www.raspberrypi.org/forum/projects-and-collaboration-general/debian-hard-float-armhf-for-rpi):
+    the latest news and discussion of this project
 
-  - [WikiSandBox](/WikiSandBox): feel free to change this page and
-    experiment with editing
-
-  - [FindPage](/FindPage): find some content, explore the wiki
-
-  - [HelpOnMoinWikiSyntax](/HelpOnMoinWikiSyntax): quick access to wiki
-    markup
+  - [The Repository](http://debian.raspbian.com/): all the packages
+    associated with the project
 
 ## How to use this site
 
-A Wiki is a collaborative site, anyone can contribute and share:
+This Wiki is a collaborative site and everyone is encouraged to
+contribute and share. Unfortunately, Wikis of this type also are a
+magnet for spammers. If you would like to add or edit content on this
+site, please register your name and password. Then leave a message in
+the [Forum
+Discussion](http://www.raspberrypi.org/forum/projects-and-collaboration-general/debian-hard-float-armhf-for-rpi)
+and we'll add your name to the list of editors.
 
-  - Edit any page by pressing **Edit** at the top or the bottom of the
-    page
-
-  - Create a link to another page with joined capitalized words (like
-    [WikiSandBox](/WikiSandBox)) or with `[[words in brackets]]`
-
-  - Search for page titles or text within pages using the search box at
-    the top of any page
-
-  - See [HelpForBeginners](/HelpForBeginners) to get you going,
-    [HelpContents](/HelpContents) for all help pages.
-
-To learn more about what a [WikiWikiWeb](/WikiWikiWeb) is, read about
-[WhyWikiWorks](http://moinmo.in/WhyWikiWorks "MoinMoin") and the
-[WikiNature](http://moinmo.in/WikiNature "MoinMoin").
-
-This wiki is powered by [MoinMoin](http://moinmo.in/).
+See [HelpForBeginners](/HelpForBeginners) to get you going,
+[HelpContents](/HelpContents) for all help pages.
