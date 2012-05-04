@@ -16,6 +16,9 @@ Interesting starting points:
   - [The Repository](http://archive.raspbian.org/): all the packages
     associated with the project
 
+  - [Bootable Image](HexxehImages): first bootable Raspbian image by
+    Hexxeh
+
   - [eLinux.org Wiki](http://elinux.org/Raspbian): additional Raspbian
     port information
 
