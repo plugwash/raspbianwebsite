@@ -13,7 +13,7 @@ Interesting starting points:
     Discussion](http://www.raspberrypi.org/forum/projects-and-collaboration-general/debian-hard-float-armhf-for-rpi):
     the latest news and discussion of this project
 
-  - [The Repository](http://debian.raspbian.com/): all the packages
+  - [The Repository](http://archive.raspbian.org/): all the packages
     associated with the project
 
   - [eLinux.org Wiki](http://elinux.org/Raspbian): additional Raspbian
