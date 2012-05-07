@@ -9,6 +9,9 @@ now.
 
 Interesting starting points:
 
+  - [Raspbian FAQ](RaspbianFAQ): your questions concerning Raspbian
+    might be answered here
+
   - [Forum
     Discussion](http://www.raspberrypi.org/forum/projects-and-collaboration-general/debian-hard-float-armhf-for-rpi):
     the latest news and discussion of this project
