@@ -77,13 +77,21 @@ the text file linked below:
 
 <http://archive.raspbian.org/raspbian/dists/wheezy/main/binary-armhf/Packages>
 
-### Is it just the repository? Or, you will provide any customization?
+### Any plans to include contrib and/or non-free in the repository?
 
-The "main" area of the Raspbian repository will be kept as close to
-Debian Wheezy as possible with changes limited to those we deem
-essential so that a given package functions on Raspberry Pi hardware.
-This approach will appeal to fans of Debian who simply want the optimal
-Debian experience on the Raspberry Pi.
+At this time we are just concentrating on 'main' packages as that is the
+core of the system, but it's very likely we'll include much of 'contrib'
+and 'non-free' once the initial rebuild of main is complete. What's
+uncertain is how much effort would be put into fixing 'contrib' and
+'non-free' packages that might have build problems.
+
+### Is it just the repository? Or, will you provide any customization?
+
+In general, the Raspbian repository will be kept as close to Debian
+Wheezy as possible with changes limited to those we deem essential so
+that a given package functions on Raspberry Pi hardware. This approach
+will appeal to fans of Debian who simply want the optimal Debian
+experience on Raspberry Pi hardware.
 
 It is likely other extra areas of the Raspbian repository will be
 created over time which will contain Raspberry Pi specific packages that
