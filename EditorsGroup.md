@@ -4,3 +4,5 @@ EditorsGroup configured as described
   - [MikeThompson](/MikeThompson)
 
   - Hexxeh
+
+  - grantek
