@@ -10,6 +10,22 @@ for ARMv7-A CPUs and higher. The Raspberry Pi, having an ARMv6 CPU,
 cannot run such code and requires a full rebuild of all Debian armhf
 packages.
 
+### What is Debian?
+
+Debian is a free operating system for your computer and includes the
+basic set of programs and utilities that make your computer run. Debian
+has a reputation within the Linux community for being very high-quality,
+stable and scalable. Debian also has an extensive and friendly user
+community that can help new users with support for practically any
+problem. This makes Debian an ideal operating system for the Raspberry
+Pi that will be used children and many others using Linux for the first
+time.
+
+Further information about what Debian is can be found
+[here](http://en.wikipedia.org/wiki/Debian),
+[here](http://www.debian.org/intro/about), and
+[here](http://d-i.alioth.debian.org/manual/en.i386/ch01s03.html).
+
 ### How much of Debian Wheezy armhf will Raspbian support?
 
 At a minimum, the intention is for Raspbian to be at parity with Debian
@@ -19,6 +35,23 @@ Raspbian once the port building process is complete. How this will work
 in practice is still unknown, but experience is showing that 95% or more
 of the Debian Wheezy armhf packages are rebuilding for the Raspberry Pi
 without an problems.
+
+### How fast will Raspbian be?
+
+As the developers of Raspbian don't yet have hardware, this is a hard
+question to answer at this moment. For general application usage, it is
+anticipated that Raspbian will run about as fast as a common desktop
+computer from about 1998. This is back when a common desktop system had
+a CPU running at about 128MHz and had 64MB to 128MB of memory. This may
+sound slow by today's standards, but the Raspberry Pi is a $35 device
+and this is more than sufficient for the Raspberry Pi's primary role of
+being an educational computer.
+
+Where Raspbian will shine compared to other Linux distributions is with
+regards to hardware floating point operations and having the vast Debian
+repository of applications built for optimal performance on the Rasberry
+Pi hardware. We hope these two factors will make Raspbian the number one
+operating system of choice for users of the Raspberry Pi.
 
 ### Will Raspbian work with non-Raspberry Pi systems?
 
@@ -62,14 +95,6 @@ hundred packages a day. It can be found at the following link:
 
 <http://archive.raspbian.org/>
 
-If you are planning on using the repository packages with apt-get, you
-will want to install the Raspbian public in your apt-get keyring using
-the following command:
-
-``` 
-    wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
-```
-
 ### Do you have a list of all the packages in the Raspian repository?
 
 The current list of packages in the Raspbian repository can be found in
@@ -77,7 +102,19 @@ the text file linked below:
 
 <http://archive.raspbian.org/raspbian/dists/wheezy/main/binary-armhf/Packages>
 
-### Any plans to include contrib and/or non-free in the repository?
+### What do I need in my sources.list file to access the Raspbian repository?
+
+Your **/etc/apt/sources.list** file should looks as follows:
+
+    deb http://archive.raspbian.org/raspbian wheezy main
+    deb-src http://archive.raspbian.org/raspbian wheezy main
+
+When using apt-get, you will will want to install the Raspbian public in
+your apt-get keyring. This can be done with following command:
+
+    wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
+
+### Are there plans to include contrib and/or non-free in the repository?
 
 At this time we are just concentrating on 'main' packages as that is the
 core of the system, but it's very likely we'll include much of 'contrib'
