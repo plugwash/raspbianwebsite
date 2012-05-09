@@ -25,6 +25,9 @@ Interesting starting points:
   - [eLinux.org Wiki](http://elinux.org/Raspbian): additional Raspbian
     port information
 
+  - [Autobuild System](AutoBuilders): information related to Raspbian
+    automated package build system
+
 ## How to use this site
 
 This Wiki is a collaborative site and everyone is encouraged to
