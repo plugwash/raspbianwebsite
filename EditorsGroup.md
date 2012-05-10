@@ -6,3 +6,5 @@ EditorsGroup configured as described
   - Hexxeh
 
   - grantek
+
+  - john.mills
