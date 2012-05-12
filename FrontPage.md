@@ -12,7 +12,8 @@ Interesting starting points:
   - [Raspbian FAQ](RaspbianFAQ): your questions concerning Raspbian
     might be answered here
 
-  - [www.raspberrypi.org/phpBB3/viewtopic.php?f=9\&t=4256](/www.raspberrypi.org/phpBB3/viewtopic.php%3Ff%3D9%26t%3D4256):
+  - [Forum
+    Discussion](/www.raspberrypi.org/phpBB3/viewtopic.php%3Ff%3D9%26t%3D4256):
     the latest news and discussion of this project
 
   - [The Repository](http://archive.raspbian.org/): all the packages
