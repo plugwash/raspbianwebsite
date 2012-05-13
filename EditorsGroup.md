@@ -8,3 +8,5 @@ EditorsGroup configured as described
   - grantek
 
   - john.mills
+
+  - [PaulKnoxKennedy](/PaulKnoxKennedy)
