@@ -11,7 +11,7 @@ Anyone hosting a Raspbian repository mirror should plan on devoting
 about 100GB to the mirror to handle SD images and future growth of the
 repository.
 
-## Mirrored Raspbian repositories
+### Mirrored Raspbian repositories
 
 |               |             |            |                         |
 | ------------- | ----------- | ---------- | ----------------------- |
