@@ -16,8 +16,10 @@ Interesting starting points:
     Discussion](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=9&t=4256):
     the latest news and discussion of this project
 
-  - [The Repository](http://archive.raspbian.org/): all the packages
-    associated with the project
+  - [Raspbian Repository](http://archive.raspbian.org/): all the
+    packages associated with the project
+
+  - [Raspbian Mirrors](Mirrors): mirrors of the Raspbian repository
 
   - [Bootable Image](HexxehImages): first bootable Raspbian image by
     Hexxeh
