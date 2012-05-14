@@ -1,17 +1,32 @@
 # Bootable Raspbian Images by Hexxeh
 
-[Hexxeh](http://hexxeh.net/) has produced the first publicly available
-SD image of Raspbian that is bootable on Raspberry Pi hardware.
+[Hexxeh](http://hexxeh.net/) has produced a publicly available SD image
+of Raspbian that is bootable on Raspberry Pi hardware.
 
-Because the majority of Raspbian packages are still being built, this
-image provides only a very minimal install of Raspbian that will boot to
-a command prompt. However, it is an excellent tool to use for testing
-hard float compilations, running benchmarks and debugging packages that
-are having problems building on the Raspbian autobuilders. Once booted,
-you can log into the 'root' account with the password 'hexxeh'.
+Because Raspbian packages are still being built, this image provides
+only minimal install of Raspbian that will boot to a command prompt.
+However, it is an excellent tool to use for testing hard float
+compilations, running benchmarks and debugging packages that are having
+problems building on the Raspbian autobuilders.
+
+### Download the Image
 
 The 112 MB image can be downloaded from this link:
-[raspbian-r2.zip](http://distribution.hexxeh.net/raspbian/raspbian-r2.zip)
+[raspbian-r3.zip](/distribution.hexxeh.net/raspbian/raspbian-r3.zip)
+
+Once booted, log into the 'root' account with the password 'hexxeh'.
+
+Changes from the previous r2 image are as follows:
+
+  - SSH server included, launches on boot by default
+  - LXDE and Xorg server now included, type "startx" to launch this
+    after logging in
+  - Changed the sources.list to point to the new raspbian.org address
+  - rpi-update is included (as is Git, since rpi-update requires this)
+  - Updated to the latest Raspberry Pi firmware and kernel as of 13th
+    May
+
+### Using the Image
 
 To use an image file, you will need to unzip it and write it to a
 suitable SD card using the UNIX tool
