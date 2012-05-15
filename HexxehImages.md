@@ -26,6 +26,15 @@ Changes from the previous r2 image are as follows:
   - Updated to the latest Raspberry Pi firmware and kernel as of 13th
     May
 
+Some notes concerning this image:
+
+  - Icons for LXDE are missing so run:
+      - `apt-get install lxde-icon-theme`
+  - rpi-update will only work after time has been set so run:
+      - `apt-get install ntpdate`
+  - after ntpdate has been installed run:
+      - `ntpdate uk.pool.ntp.org`
+
 ### Using the Image
 
 To use an image file, you will need to unzip it and write it to a
