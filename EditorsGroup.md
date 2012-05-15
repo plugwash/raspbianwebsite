@@ -10,3 +10,5 @@ EditorsGroup configured as described
   - john.mills
 
   - [PaulKnoxKennedy](/PaulKnoxKennedy)
+
+  - [ChrisOstler](/ChrisOstler)
