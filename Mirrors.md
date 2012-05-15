@@ -11,9 +11,11 @@ Anyone hosting a Raspbian repository mirror should plan on devoting
 about 100GB to the mirror to handle SD images and future growth of the
 repository.
 
-### Mirrored Raspbian repositories
+### Raspbian Repository Mirrors
 
-|               |             |            |                                                            |
-| ------------- | ----------- | ---------- | ---------------------------------------------------------- |
-| **CONTINENT** | **COUNTRY** | **MIRROR** | **DEB/DEB-SRC ADDRESS**                                    |
-| North America | USA         | Hexxeh     | <http://distribution.hexxeh.net/raspbian/archive/raspbian> |
+|               |             |            |                                                               |
+| ------------- | ----------- | ---------- | ------------------------------------------------------------- |
+| **CONTINENT** | **COUNTRY** | **MIRROR** | **DEB/DEB-SRC ADDRESS**                                       |
+| Europe        | \---        | \---       | <http://raspbian.lag.re/raspbian>                             |
+| Europe        | Germany     | Hexxeh     | Coming Soon...                                                |
+| North America | USA         | Hexxeh     | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian> |
