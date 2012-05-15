@@ -13,9 +13,7 @@ repository.
 
 ### Mirrored Raspbian repositories
 
-|               |             |            |                         |
-| ------------- | ----------- | ---------- | ----------------------- |
-| **CONTINENT** | **COUNTRY** | **MIRROR** | **DEB/DEB-SRC ADDRESS** |
-|               |             |            |                         |
-
-No mirrors available at this time, but hopefully soon.
+|               |             |            |                                                            |
+| ------------- | ----------- | ---------- | ---------------------------------------------------------- |
+| **CONTINENT** | **COUNTRY** | **MIRROR** | **DEB/DEB-SRC ADDRESS**                                    |
+| North America | USA         | Hexxeh     | <http://distribution.hexxeh.net/raspbian/archive/raspbian> |
