@@ -18,6 +18,6 @@ repository.
 |               |             |            |                                                               |
 | ------------- | ----------- | ---------- | ------------------------------------------------------------- |
 | **CONTINENT** | **COUNTRY** | **MIRROR** | **DEB/DEB-SRC ADDRESS**                                       |
-| Europe        | \---        | \---       | <http://raspbian.lag.re/raspbian>                             |
+| Europe        | Germany     | Repvik     | <http://raspbian.lag.re/raspbian>                             |
 | Europe        | Germany     | Hexxeh     | Coming Soon...                                                |
 | North America | USA         | Hexxeh     | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian> |
