@@ -30,12 +30,10 @@ Changes from the previous r2 image are as follows:
 
 Some notes concerning this image:
 
-  - Icons for LXDE are missing so run:
+  - Icons for LXDE are missing, so run:
       - `apt-get install lxde-icon-theme`
-  - rpi-update will only work after time has been set so run:
-      - `apt-get install ntpdate`
-  - after ntpdate has been installed run:
-      - `ntpdate uk.pool.ntp.org`
+  - Time is not set, so run:
+      - `apt-get install ntp fake-hwclock`
 
 ### Using the Image
 
@@ -49,3 +47,24 @@ not clear on what to do, the community on the Raspberry Pi Wiki has
 written a [guide for
 beginners](http://elinux.org/RPi_Easy_SD_Card_Setup) on how to set up
 your SD card.
+
+### Keeping Up to Date
+
+You can use the standard Debian way to update your installation:
+
+  - `apt-get update && apt-get dist-upgrade`
+
+To get the newest kernel and firmware,
+[rpi-update](https://github.com/Hexxeh/rpi-update) is included in this
+image.
+
+Just run the following command:
+
+  - `rpi-update`
+
+rpi-update will only work after time has been set. Install ntp as
+descriped above or set the time with ntpdate:
+
+  - `apt-get install ntpdate`
+    
+    `ntpdate uk.pool.ntp.org`
