@@ -11,8 +11,10 @@ problems building on the Raspbian autobuilders.
 
 ### Download the Image
 
-The 112 MB image can be downloaded from this link:
+The 222 MB image can be downloaded from this link
 [raspbian-r3.zip](http://distribution.hexxeh.net/raspbian/raspbian-r3.zip)
+or by
+[torrent](http://dl.dropbox.com/u/4593149/raspbian-r3.zip.torrent).
 
 Once booted, log into the 'root' account with the password 'hexxeh'.
 
