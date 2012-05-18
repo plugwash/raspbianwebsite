@@ -34,6 +34,16 @@ Some notes concerning this image:
       - `apt-get install lxde-icon-theme`
   - Time is not set, so run:
       - `apt-get install ntp fake-hwclock`
+  - The image is quite minimal. To make the system look more like a
+    standard Linux installation issue the following command as root.
+    This will install about 100 additional "standard" Linux packages.
+      - `tasksel install standard`
+
+This will install packages with a "standard" priority which should make
+the system a bit more mature and look more like a standard Linux
+installation. On a minimal Debian Wheezy system it adds about 100 or so
+more packages. If it works and you're happy with the results, let me
+know and I'll add it to the wiki page.
 
 ### Using the Image
 
