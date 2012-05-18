@@ -39,12 +39,6 @@ Some notes concerning this image:
     This will install about 100 additional "standard" Linux packages.
       - `tasksel install standard`
 
-This will install packages with a "standard" priority which should make
-the system a bit more mature and look more like a standard Linux
-installation. On a minimal Debian Wheezy system it adds about 100 or so
-more packages. If it works and you're happy with the results, let me
-know and I'll add it to the wiki page.
-
 ### Using the Image
 
 To use an image file, you will need to unzip it and write it to a
