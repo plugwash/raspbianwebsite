@@ -35,9 +35,11 @@ Some notes concerning this image:
   - Time is not set, so run:
       - `apt-get install ntp fake-hwclock`
   - The image is quite minimal. To make the system look more like a
-    standard Linux installation issue the following command as root.
+    standard Linux installation issue the following commands as root.
     This will install about 100 additional "standard" Linux packages.
-      - `tasksel install standard`
+      - `apt-get install tasksel`
+        
+        `tasksel install standard`
 
 ### Using the Image
 
