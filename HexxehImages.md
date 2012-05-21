@@ -31,15 +31,31 @@ Changes from the previous r2 image are as follows:
 Some notes concerning this image:
 
   - Icons for LXDE are missing, so run:
+    
       - `apt-get install lxde-icon-theme`
+
   - Time is not set, so run:
+    
       - `apt-get install ntp fake-hwclock`
+
   - The image is quite minimal. To make the system look more like a
     standard Linux installation issue the following commands as root.
     This will install about 100 additional "standard" Linux packages.
+    
       - `apt-get install tasksel`
         
         `tasksel install standard`
+    
+    Some problems have been reported when using tasksel. If you see
+    encounter errors, add the following line to the file
+    */etc/sysctl.conf*, reboot and try running tasksel again:
+    
+      - `vm.min_free_kbytes = 8192`
+    
+    This tells the kernel to try and keep 8MB of RAM free at all times.
+    It's useful on swap-less machines, where you don’t want incoming
+    network traffic to overwhelm the kernel and force an OOM before it
+    has time to flush any buffers.
 
 ### Using the Image
 
