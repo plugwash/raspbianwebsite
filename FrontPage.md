@@ -11,9 +11,10 @@ format for easy installation on your Raspberry Pi.
 Raspbian is still under development. The initial build of all Debian
 packages, optimized for best performance on the Raspberry Pi, is
 anticipated to be complete by early June. However, for those eager to
-try Raspbian, early community supported images that can be run on the
-Raspberry Pi are available for download. Most packages are already built
-and a minimal, but functional, Raspbian system with a GUI can be run.
+try Raspbian, early [community supported images](HexxehImages) that can
+be run on the Raspberry Pi are available for download. Most packages are
+already built and a minimal, but functional, Raspbian system with a GUI
+can be run.
 
 ## About
 
