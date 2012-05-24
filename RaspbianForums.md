@@ -1,7 +1,7 @@
 # Raspbian Forums
 
-Raspbian Currently doesn't have a community forum. For now, the [Debian
-section of the Raspberry Pi
-Forum](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=9&t=4256) is
-serving as the temporary forum for Raspbian. Please visit this forum for
-the latest information and to ask questions about Raspbian.
+The Raspbian community forum can be found in the [Raspbian section of
+the Raspberry Pi
+Forum](http://www.raspberrypi.org/phpBB3/viewforum.php?f=66). Please
+visit this forum for to ask your questions about how to use Raspbian on
+your Raspberry Pi.
