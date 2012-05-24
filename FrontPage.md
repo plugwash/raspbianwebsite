@@ -1,34 +1,57 @@
-# What is Raspbian?
+# Welcome to Raspbian
 
-Raspbian is a project to create a hard float port of Debian Wheezy for
-the Raspberry Pi and similar devices which use ARMv6 processors with
-VFPv2.
+Rasbian is a free operating system based on Debian for the Raspberry Pi.
+An operating system is the set of basic programs and utilities that make
+your Rasberry Pi run.
 
-This project is just getting started so this site is rather skimpy right
-now.
+Rasbian provides more than a pure OS: when Raspbian is complete it will
+come with over 34,000 packages, precompiled software bundled in a nice
+format for easy installation on your Raspberry Pi.
 
-Interesting starting points:
+Raspbian is still under development. The initial build of all Debian
+packages, optimized for best performance on the Raspberry Pi, is
+anticipated to be complete by early June. However, for those eager to
+try Raspbian, early community supported images that can be run on the
+Raspberry Pi are available for download. Most packages are already built
+and a minimal, but functional, Raspbian system with a GUI can be run.
 
-  - [Raspbian FAQ](RaspbianFAQ): your questions concerning Raspbian
-    might be answered here
+## About
 
-  - [Forum
-    Discussion](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=9&t=4256):
-    the latest news and discussion of this project
+  - **[About](RaspbianAbout)**
 
-  - [Raspbian Repository](http://archive.raspbian.org/): all the
-    packages associated with the project
+  - **[Get Involved](/RaspbianGetInvolved)**
 
-  - [Raspbian Mirrors](Mirrors): mirrors of the Raspbian repository
+  - **[FAQ](RaspbianFAQ)**
 
-  - [Bootable Image](HexxehImages): first bootable Raspbian image by
-    Hexxeh
+  - **[Donors](/RaspbianDonors)**
 
-  - [eLinux.org Wiki](http://elinux.org/Raspbian): additional Raspbian
-    port information
+  - **[Teams](/RaspbianTeams)**
 
-  - [Autobuild System](AutoBuilders): information related to Raspbian
-    automated package build system
+  - **[Builders](RaspbianBuilders)**
+
+## Download
+
+  - **[Images](RaspbianImages)**
+
+  - **[Repository](RaspbianRepository)**
+
+  - **[Mirrors](RaspbianMirrors)**
+
+  - **[Documentation](RaspbianDocumentation)**
+
+## Community
+
+  - **[Blog](/RaspbianBlog)**
+
+  - **[Forums](RaspbianForums)**
+
+  - **[Bugs](RaspbianBugs)**
+
+  - **[IRC](RaspbianIRC)**
+
+  - **[eLinux](RaspbianELinux)**
+
+  
 
 ## How to use this site
 
@@ -37,7 +60,7 @@ contribute and share. Unfortunately, Wikis of this type also are a
 magnet for spammers. If you would like to add or edit content on this
 site, please register your name and password. Then leave a message in
 the [Forum
-Discussion](http://www.raspberrypi.org/forum/projects-and-collaboration-general/debian-hard-float-armhf-for-rpi)
+Discussion](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=9&t=4256)
 and we'll add your name to the list of editors.
 
 See [HelpForBeginners](/HelpForBeginners) to get you going,
