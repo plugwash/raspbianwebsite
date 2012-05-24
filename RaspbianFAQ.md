@@ -156,7 +156,7 @@ your apt-get keyring. This can be done with following command:
     wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
 
 Mirrors of Raspbian that may be more suitable for users in different
-geographic locations can be found [here](Mirrors).
+geographic locations can be found [here](RaspbianMirrors).
 
 ## Can I mix packages from the Debian repositories with Raspbian?
 
