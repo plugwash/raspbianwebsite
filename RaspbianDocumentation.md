@@ -6,3 +6,5 @@ enough documentation is gathered to be organized into some logical
 manner.
 
   - [Building Quake 3 in Raspbian](RaspbianQuake3)
+
+  - [Rasberry Pi Config.txt Options](RaspberryPiConfigTxt)
