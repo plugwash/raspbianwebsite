@@ -16,10 +16,10 @@ repository.
 
   - 
 
-|               |             |            |                                                                      |
-| ------------- | ----------- | ---------- | -------------------------------------------------------------------- |
-| **CONTINENT** | **COUNTRY** | **MIRROR** | **DEB/DEB-SRC ADDRESS**                                              |
-| Europe        | UK          | TBA        | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
-| Europe        | Germany     | Repvik     | <http://raspbian.lag.re/raspbian>                                    |
-| Europe        | Germany     | Hexxeh     | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
-| North America | USA         | Hexxeh     | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
+|               |             |                      |                                                                      |
+| ------------- | ----------- | -------------------- | -------------------------------------------------------------------- |
+| **CONTINENT** | **COUNTRY** | **MIRROR**           | **DEB/DEB-SRC ADDRESS**                                              |
+| Europe        | UK          | University of Oxford | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
+| Europe        | Germany     | Repvik               | <http://raspbian.lag.re/raspbian>                                    |
+| Europe        | Germany     | Hexxeh               | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
+| North America | USA         | Hexxeh               | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
