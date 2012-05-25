@@ -38,6 +38,22 @@ Some notes concerning this image:
     
       - `apt-get install ntp fake-hwclock`
 
+  - Choose your timezone:
+    
+      - `dpkg-reconfigure tzdata`
+
+  - Configure locale settings:
+    
+      - `apt-get install locales`
+        
+        `dpkg-reconfigure locales`
+
+  - Configure keyboard settings:
+    
+      - `apt-get install console-data`
+        
+        `dpkg-reconfigure console-data`
+
   - The image is quite minimal. To make the system look more like a
     standard Linux installation issue the following commands as root.
     This will install about 100 additional "standard" Linux packages.
