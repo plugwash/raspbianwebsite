@@ -16,3 +16,5 @@ EditorsGroup configured as described
   - [ChrisOstler](/ChrisOstler)
 
   - fjen
+
+  - bob\_binz
