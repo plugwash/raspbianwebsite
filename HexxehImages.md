@@ -62,7 +62,7 @@ Some notes concerning this image:
         
         `tasksel install standard`
     
-    Some problems have been reported when using tasksel. If you see
+    Some problems have been reported when using tasksel. If you
     encounter errors, add the following line to the file
     */etc/sysctl.conf*, reboot and try running tasksel again:
     
@@ -101,7 +101,7 @@ Just run the following command:
   - `rpi-update`
 
 rpi-update will only work after time has been set. Install ntp as
-descriped above or set the time with ntpdate:
+described above or set the time with ntpdate:
 
   - `apt-get install ntpdate`
     
