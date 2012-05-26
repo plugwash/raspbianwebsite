@@ -3,6 +3,8 @@ EditorsGroup configured as described
 
   - [MikeThompson](/MikeThompson)
 
+  - Plugwash
+
   - Hexxeh
 
   - grantek
