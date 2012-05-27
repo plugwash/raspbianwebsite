@@ -62,7 +62,7 @@ arithmetic operations.
 The port is necessary because the official Debian Wheezy armhf release
 is compatible only with versions of the ARM architecture later than the
 one used on the Raspberry Pi (ARMv7-A CPUs and higher, vs the Raspberry
-Pi's ARMv6).
+Pi's ARMv6 CPU).
 
 The official [Debian Squeeze
 image](http://www.raspberrypi.org/downloads) issued by the Raspberry Pi
@@ -71,7 +71,7 @@ to use the existing Debian port for less capable ARM devices due to time
 and resource constraints during development of the Raspberry Pi.
 Therefore, it does not use of the Pi's processor's floating point
 hardware - reducing the Pi's performance during floating point intensive
-applications.
+applications - or the advanced instructions of the ARMv6 CPU.
 
 ## What is Debian?
 
