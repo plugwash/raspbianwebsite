@@ -53,13 +53,25 @@ move it forward to a more polished state.
 
 ## What is Raspbian?
 
-Raspbian is an unofficial port of [Debian Wheezy
-armhf](http://wiki.debian.org/ArmHardFloatPort) with compilation
-settings adjusted to produce optimized hard float code that will run on
-the Raspberry Pi. The official Debian Wheezy armhf release is only meant
-for ARMv7-A CPUs and higher. The Raspberry Pi, having an ARMv6 CPU,
-cannot run such code and requires a full rebuild of all Debian armhf
-packages.
+Raspbian is an unofficial port of Debian Wheezy armhf with compilation
+settings adjusted to produce optimized "hard float" code that will run
+on the Raspberry Pi. This should provide significantly faster
+performance for applications that make heavy use of floating point
+arithmetic operations.
+
+The port is necessary because the official Debian Wheezy armhf release
+is compatible only with versions of the ARM architecture later than the
+one used on the Raspberry Pi (ARMv7-A CPUs and higher, vs the Raspberry
+Pi's ARMv6).
+
+The official [Debian Squeeze
+image](http://www.raspberrypi.org/downloads) issued by the Raspberry Pi
+foundation uses "soft float" settings. The foundation found it necessary
+to use the existing Debian port for less capable ARM devices due to time
+and resource constraints during development of the Raspberry Pi.
+Therefore, it does not use of the Pi's processor's floating point
+hardware - reducing the Pi's performance during floating point intensive
+applications.
 
 ## What is Debian?
 
