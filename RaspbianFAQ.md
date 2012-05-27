@@ -3,33 +3,53 @@
 Contents
 
 1.  [Raspbian FAQ](#Raspbian_FAQ)
-    1.  [What is Raspbian?](#What_is_Raspbian.3F)
-    2.  [What is Debian?](#What_is_Debian.3F)
-    3.  [Is there documentation available for
+    1.  [I'm new to Raspberry Pi and Raspbian. What should I
+        know?](#I.27m_new_to_Raspberry_Pi_and_Raspbian.__What_should_I_know.3F)
+    2.  [What is Raspbian?](#What_is_Raspbian.3F)
+    3.  [What is Debian?](#What_is_Debian.3F)
+    4.  [Is there documentation available for
         Raspbian?](#Is_there_documentation_available_for_Raspbian.3F)
-    4.  [How much of Debian Wheezy armhf will Raspbian
+    5.  [How much of Debian Wheezy armhf will Raspbian
         support?](#How_much_of_Debian_Wheezy_armhf_will_Raspbian_support.3F)
-    5.  [How fast will Raspbian be?](#How_fast_will_Raspbian_be.3F)
-    6.  [Will Raspbian work with non-Raspberry Pi
+    6.  [How fast will Raspbian be?](#How_fast_will_Raspbian_be.3F)
+    7.  [Will Raspbian work with non-Raspberry Pi
         systems?](#Will_Raspbian_work_with_non-Raspberry_Pi_systems.3F)
-    7.  [Are you planning to have an SD image for the Raspberry
+    8.  [Are you planning to have an SD image for the Raspberry
         Pi?](#Are_you_planning_to_have_an_SD_image_for_the_Raspberry_Pi.3F)
-    8.  [How can I use Raspbian packages until the SD image is
+    9.  [How can I use Raspbian packages until the SD image is
         ready?](#How_can_I_use_Raspbian_packages_until_the_SD_image_is_ready.3F)
-    9.  [What will be on the Raspbian SD
+    10. [What will be on the Raspbian SD
         image?](#What_will_be_on_the_Raspbian_SD_image.3F)
-    10. [Is the Raspbian repository live? If so, where can I find
+    11. [Is the Raspbian repository live? If so, where can I find
         it?](#Is_the_Raspbian_repository_live.3F__If_so.2C_where_can_I_find_it.3F)
-    11. [Do you have a list of all the packages in the Raspian
+    12. [Do you have a list of all the packages in the Raspian
         repository?](#Do_you_have_a_list_of_all_the_packages_in_the_Raspian_repository.3F)
-    12. [What do I need in my sources.list file to access the Raspbian
+    13. [What do I need in my sources.list file to access the Raspbian
         repository?](#What_do_I_need_in_my_sources.list_file_to_access_the_Raspbian_repository.3F)
-    13. [Can I mix packages from the Debian repositories with
+    14. [Can I mix packages from the Debian repositories with
         Raspbian?](#Can_I_mix_packages_from_the_Debian_repositories_with_Raspbian.3F)
-    14. [Are there plans to include contrib and/or non-free in the
+    15. [Are there plans to include contrib and/or non-free in the
         repository?](#Are_there_plans_to_include_contrib_and.2For_non-free_in_the_repository.3F)
-    15. [Is it just the repository? Or, will you provide any
+    16. [Is it just the repository? Or, will you provide any
         customization?](#Is_it_just_the_repository.3F__Or.2C_will_you_provide_any_customization.3F)
+
+## I'm new to Raspberry Pi and Raspbian. What should I know?
+
+First of all, you need to know that Raspbian is under active development
+and is not suitable at this point for someone new to Linux or small ARM
+based systems such as the Raspberry Pi. The intention is that Raspbian
+will become the leading OS of choice for all users of the Raspberry Pi,
+but this will take time and a lot of work to accomplish. While Raspbian
+is useable right now, there are many rough edges that need to be
+smoothed out and polished.
+
+At this time, [Debian Squeeze as released by the Raspberry Pi
+Foundation](http://www.raspberrypi.org/downloads) is best for people who
+simply want a working Linux Distribution and explore the capabilities of
+the Raspberry Pi. Raspbian, on the other hand, is really for those who
+either have immediate need for optimized, floating point operations on
+the Raspberry Pi or are willing brave Raspbian's rough edges and help
+move it forward to a more polished state.
 
 ## What is Raspbian?
 
