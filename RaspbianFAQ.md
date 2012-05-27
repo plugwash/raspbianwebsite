@@ -49,8 +49,8 @@ has a reputation within the Linux community for being very high-quality,
 stable and scalable. Debian also has an extensive and friendly user
 community that can help new users with support for practically any
 problem. This makes Debian an ideal operating system for the Raspberry
-Pi that will be used children and many others using Linux for the first
-time.
+Pi that will be used by children and many others using Linux for the
+first time.
 
 Further information about what Debian is can be found
 [here](http://en.wikipedia.org/wiki/Debian),
@@ -145,13 +145,13 @@ the text file linked below:
 
 ## What do I need in my sources.list file to access the Raspbian repository?
 
-Your **/etc/apt/sources.list** file should looks as follows:
+Your **/etc/apt/sources.list** file should look as follows:
 
     deb http://archive.raspbian.org/raspbian wheezy main
     deb-src http://archive.raspbian.org/raspbian wheezy main
 
-When using apt-get, you will will want to install the Raspbian public in
-your apt-get keyring. This can be done with following command:
+When using apt-get, you will will want to install the Raspbian public
+key in your apt-get keyring. This can be done with following command:
 
     wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
 
