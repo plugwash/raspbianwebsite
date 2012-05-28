@@ -18,4 +18,6 @@ Members of the Raspbian community have stepped forward to create their
 own Raspbian images which they are making available for other people to
 use. Below is a list of known unofficial Raspbian images.
 
+  - [Pisces Images](PiscesImages)
+
   - [Hexxeh Images](HexxehImages)
