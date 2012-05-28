@@ -11,3 +11,6 @@ further in the future.
 
   - [Optimizing fs on sd-card for Linux/Fedora on
     Dreamplug](http://blogofterje.wordpress.com/2012/01/14/optimizing-fs-on-sd-card/)
+
+  - [SD Card performance in R-Pi onboard
+    slot](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=2&t=5057)
