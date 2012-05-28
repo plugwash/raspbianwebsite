@@ -6,6 +6,9 @@ performance of the SD card media on the Raspberry Pi. For now, below is
 a collection of links that address this subject and will be explored
 further in the future.
 
+  - [Flash Memory Card
+    Design](https://wiki.linaro.org/WorkingGroups/Kernel/Projects/FlashCardSurvey?action=show&redirect=WorkingGroups%2FKernelConsolidation%2FProjects%2FFlashCardSurvey)
+
   - [Optimizing Linux for Flash
     Memory](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=9&t=850)
 
