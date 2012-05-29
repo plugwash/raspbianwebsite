@@ -34,6 +34,8 @@ can be run.
 
   - **[Images](RaspbianImages)**
 
+  - **[Installer](RaspbianInstaller)**
+
   - **[Repository](RaspbianRepository)**
 
   - **[Mirrors](RaspbianMirrors)**
