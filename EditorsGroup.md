@@ -18,3 +18,5 @@ EditorsGroup configured as described
   - fjen
 
   - bob\_binz
+
+  - jerry.tk
