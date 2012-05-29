@@ -39,9 +39,9 @@ something important, but this should be a helpful start.
       - **pak0.pk3, pak1.pk3, pak2.pk3, pak3.pk3, pak4.pk3, pak5.pk3,
         pak6.pk3, pak7.pk3, pak8.pk3**
 
-8.  As root: `usermod -a -G video [your_username]`, this will allow you
-    to run game as non-root. Works with other directFB/SDL based stuff,
-    too.
+8.  As root: `usermod -a -G video [your_username]`, log out, log back
+    in. This will allow you to run game as non-root. Works with other
+    directFB/SDL based stuff, too.
 
 9.  If you do not intend to keep Quake 3 source code, you may reorganize
     files as suggested by [this
@@ -51,7 +51,9 @@ something important, but this should be a helpful start.
 10. Depending on version of Raspbian you use, you may need to copy
     Broadcom libraries from /opt/vc/lib to /lib.
 
-11. Run **ioquake3.arm**. Shoot things.
+11. As root: `rpi-update 192`, reboot.
+
+12. Run **ioquake3.arm**. Shoot things.
 
 Highly non-scientific testing (i.e. having played a normal-Debian build
 a few days ago) suggests framerate is quite dramatically improved. Go
