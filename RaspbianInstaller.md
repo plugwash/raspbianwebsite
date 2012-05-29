@@ -19,7 +19,8 @@ Because of this slow performance, a minimal install of Raspbian can take
 environment** which includes 800 additional packages can take up to 8 to
 9 hours to complete. Performance will vary greatly based on the speed of
 the SD card installed to. Also, installation onto other media such as an
-attached USB hard drive should be much better.
+attached USB hard drive should be much better. See notes for external
+drive installation [here](/RaspbianInstaller#Installing_to_USB_disk).
 
 The files used to perform the install described below can be obtained
 from this link:
@@ -253,7 +254,7 @@ Choose software to install:
   - **Standard system utilities**
 
 Note: Selecting *Debian desktop environment* will install more than 800
-additional packages which could take 6 our more to setup.
+additional packages which could take 6 hours more to setup.
 
 -----
 
@@ -277,3 +278,20 @@ Post install:
 Add the Raspbian public key for apt-get to use:
 
 `wget http://archive.raspbian.org/raspbian.public.key -O - | apt-key add -`
+
+-----
+
+## Installing to USB disk
+
+It is also possible to use the installer to install Raspbian to external
+USB flash/hard drive. The external drive should be detected correctly by
+installer, but in this case you will have to prepare partitions
+manually. It is absolutely neccessary to keep [RasPi](/RasPi) boot
+partition on SD card, it has to be the first partition there, primary,
+bootable, FAT32 format. The installer will not allow you to mount this
+partition as ***/boot***, though. Mount the FAT32 partition as
+***/rpiboot*** instead, post-install script will rename it to /boot
+after installation automatically. Any other partitions can be placed to
+external drive. Remember the name of the root partition block device,
+you will need to edit cmdline.txt kernel options to point rootfs to this
+device after installation.
