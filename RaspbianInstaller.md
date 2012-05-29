@@ -22,7 +22,8 @@ the SD card installed to. Also, installation onto other media such as an
 attached USB hard drive should be much better.
 
 The files used to perform the install described below can be obtained
-**here**.
+from this link:
+[rpi\_installer\_05-27-12.zip](http://archive.raspbian.org/installer/rpi_installer_05-27-12.zip).
 
 ## Install Notes - 05/27/12
 
