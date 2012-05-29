@@ -39,7 +39,9 @@ The installer is a "network" installer. This means installer requires
 ethernet network connectivity to the Internet. When the installer first
 starts the DHCP server on the local LAN will be queried to provide an IP
 address, default route and name server required for network
-connectivity.
+connectivity. For best results please select Raspbian mirror
+geographically closest to you. See [full Raspbian mirror
+list](RaspbianMirrors).
 
 -----
 
