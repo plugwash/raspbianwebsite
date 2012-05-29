@@ -26,6 +26,9 @@ The files used to perform the install described below can be obtained
 from this link:
 [rpi\_installer\_05-27-12.zip](http://archive.raspbian.org/installer/rpi_installer_05-27-12.zip).
 
+Please remember to perform *rpi-update* to install Raspberry Pi specific
+libraries and firmware.
+
 ## Install Notes - 05/27/12
 
 Formatted an SD card with a single FAT32 partition and copied the
