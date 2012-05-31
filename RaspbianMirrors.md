@@ -16,11 +16,12 @@ repository.
 
   - 
 
-|               |             |                      |                                                                      |
-| ------------- | ----------- | -------------------- | -------------------------------------------------------------------- |
-| **CONTINENT** | **COUNTRY** | **MIRROR**           | **DEB/DEB-SRC ADDRESS**                                              |
-| Europe        | UK          | University of Oxford | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
-| Europe        | France      | Arnaud Boudou        | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
-| Europe        | Germany     | Repvik               | <http://raspbian.lag.re/raspbian>                                    |
-| Europe        | Germany     | Hexxeh               | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
-| North America | USA         | Hexxeh               | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
+|               |                |                      |                                                                      |
+| ------------- | -------------- | -------------------- | -------------------------------------------------------------------- |
+| **CONTINENT** | **COUNTRY**    | **MIRROR**           | **DEB/DEB-SRC ADDRESS**                                              |
+| Europe        | France         | Arnaud Boudou        | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
+| Europe        | Germany        | Repvik               | <http://raspbian.lag.re/raspbian>                                    |
+| Europe        | Germany        | Hexxeh               | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
+| Europe        | Norway         | TBA                  | <http://mirror.raspbian.paks.no/raspbian>                            |
+| Europe        | United Kingdom | University of Oxford | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
+| North America | USA            | Hexxeh               | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
