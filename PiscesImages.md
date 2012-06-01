@@ -39,15 +39,22 @@ Some notes concerning this image:
 
   - DHCP may fail on boot and the Raspberry Pi may not have network
     connectivity.
-      - To fix this, delete the last line in the file
+      - To fix this, delete all lines in the file
         '/etc/udev/rules.d/70-persistent-net.rules' and reboot. DHCP
         should then be functional and your Raspberry Pi should be
         assigned an IP address from the DHCP server on your local LAN.
+    
       - The problem is that ethernet address of the Raspberry Pi I
         created the image on differs from the ethernet address on your
         Raspberry Pi. The OS notices this and assigns the ethernet
         interface to device 'eth1' rather than 'eth0' which is
         configured to use DHCP in the '/etc/network/interfaces' file.
+    
+      - It has been reported that the fix above doesn't always work. An
+        alternate fix is to
+        
+        edit the */etc/network/interfaces* file and change eth0 to eth1
+        and reboot.
   - Configure your timezone:
       - `dpkg-reconfigure tzdata`
   - Configure locale settings:
