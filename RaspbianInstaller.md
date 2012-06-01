@@ -98,6 +98,18 @@ Continue the install without loading kernel modules?
 
 **\<Yes\>**
 
+<span class="small">The modules being complained about here are less
+used filesystems, crypto, etc. Currently some of this stuff is compiled
+straight into the installer kernel and some modules are really missing.
+It shouldn't give you much problems though, only maybe if you choose to
+install to encrypted partition - that will probably fail.</span>
+
+<span class="small">Currently there is no standard Raspberry Pi kernel
+installer package. This issue is worked around by including the current
+kernel.img into installer initramfs and copying it to the Raspberry Pi
+boot partition directly after the installer is done. This way your
+Raspberry Pi will boot after installation.</span>
+
 -----
 
 Set up users and passwords
@@ -165,7 +177,7 @@ Configure the clock
 
 Select your time zone:
 
-**Pacific**
+**\<Pacific\>**
 
 -----
 
@@ -280,9 +292,12 @@ because your specific architecture doesn't support a boot loader yet.
 
 Post install:
 
-Add the Raspbian public key for apt-get to use:
+  - Add the Raspbian public key for apt-get to use:
 
-`wget http://archive.raspbian.org/raspbian.public.key -O - | apt-key add -`
+  - `wget http://archive.raspbian.org/raspbian.public.key -O - | apt-key add -`
+
+  - Run *rpi-update* to install the latest kernel along with its modules
+    and Broadcom libraries.
 
 -----
 
