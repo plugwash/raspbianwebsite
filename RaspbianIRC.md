@@ -14,3 +14,6 @@ client for freenode
 
 Logs for the \#raspbian IRC channel can be found
 [here](http://daqatz.gotdns.com:8080/raspbian).
+
+Information on [registering a channel on
+freenode](http://blog.freenode.net/2008/04/registering-a-channel-on-freenode/).
