@@ -3,7 +3,7 @@ EditorsGroup configured as described
 
   - [MikeThompson](/MikeThompson)
 
-  - Plugwash
+  - [PlugWash](/PlugWash)
 
   - Hexxeh
 
