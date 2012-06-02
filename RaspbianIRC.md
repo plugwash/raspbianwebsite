@@ -11,3 +11,6 @@ discussion services for Free and Open Source Software communities. If
 you don't already have an IRC client, you may use a browser based IRC
 client for freenode
 [here](http://webchat.freenode.net/?channels=raspbian)
+
+Logs for the \#raspbian IRC channel can be found
+[here](http://daqatz.gotdns.com:8080/raspbian).
