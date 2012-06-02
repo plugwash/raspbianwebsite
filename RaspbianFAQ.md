@@ -192,14 +192,28 @@ geographic locations can be found [here](RaspbianMirrors).
 
 ## Can I mix packages from the Debian repositories with Raspbian?
 
-Absolutely not. If you attempt to run Debian armel or Debian armhf
-packages under Raspbian you will almost certainly end up with an
-unstable system, if it runs at all. The Debian armel repositories
-contain packages that utilize the soft float ABI which is incompatible
-with Raspbian which utilizes the hard float ABI. The Debian armhf
-repositories contain packages built for ARMv7 devices or higher and
-these packages will not function on the Raspberry Pi which is an ARMv6
-device.
+Debian armel packages use the soft float ABI which is incompatible with
+the hard float ABI used by Raspbian. In theory it should be possible to
+install Debian armel packages in parallel with Raspbian packages using
+[http://wiki.debian.org/Multiarch
+multiarch](http://wiki.debian.org/Multiarch%20multiarch). However
+multiarch setups conflict with a hack we had to make to support the
+videocore libraries and there are other potential issues too. As such we
+don't currently recommend or support multiarch configurations with
+Debian armel and Raspbian armhf.
+
+Debian armhf packages should be compatible with raspbian packages but a
+system with such a mixture WILL NOT RUN ON THE PI. Furthermore there may
+be corner cases where libraries build slightly differently on Raspbian.
+Such mixed systems can be useful for development (they were used heavily
+in the process of creating raspbian) but are not .
+
+Architecture independent ("arch all") packages are compatible between
+Debian and Raspbian. Source packages should in general be compatible
+though some may need modification to adjust compiler settings (most
+Debian packages just use the compiler defaults but some use their own
+settings for various reasons). A test script for testing packages for
+armv7 contamination is available at <http://pastebin.com/BtSdvrXM>.
 
 ## Are there plans to include contrib and/or non-free in the repository?
 
