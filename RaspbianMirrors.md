@@ -20,6 +20,7 @@ repository.
 | ------------- | -------------- | -------------------- | -------------------------------------------------------------------- |
 | **CONTINENT** | **COUNTRY**    | **MIRROR**           | **DEB/DEB-SRC ADDRESS**                                              |
 | Europe        | France         | Arnaud Boudou        | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
+| Europe        | France         | Sergio Conde         | <http://raspbian.sconde.net/raspbian>                                |
 | Europe        | Germany        | Repvik               | <http://raspbian.lag.re/raspbian>                                    |
 | Europe        | Germany        | Hexxeh               | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
 | Europe        | Norway         | PAKS Consulting DA   | <http://mirror.raspbian.paks.no/raspbian>                            |
