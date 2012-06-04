@@ -32,7 +32,8 @@ Contents
         repository?](#Are_there_plans_to_include_contrib_and.2For_non-free_in_the_repository.3F)
     16. [Is it just the repository? Or, will you provide any
         customization?](#Is_it_just_the_repository.3F__Or.2C_will_you_provide_any_customization.3F)
-    17. [How do I mount a directory from a Windows server? Where's
+2.  [How do I ...?](#How_do_I_....3F)
+    1.  [How do I mount a directory from a Windows server? Where's
         smbmount and
         smbfs?](#How_do_I_mount_a_directory_from_a_Windows_server.3F__Where.27s_smbmount_and_smbfs.3F)
 
@@ -240,9 +241,14 @@ are not part of Debian. What these extras might be will be an exercise
 left to the future after the initial port of Debian Wheezy armhf to the
 Raspberry Pi hardware is complete.
 
+# How do I ...?
+
 ## How do I mount a directory from a Windows server? Where's smbmount and smbfs?
 
 *smbfs* has been [replaced in
 Debian](http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=638162) (and
 Raspbian) by *cifs*. The utility *mount.cifs* is in the package
 [cifs-utils](http://packages.debian.org/wheezy/cifs-utils).
+
+Also, the kernel you are using must be built to support mounting
+SMB/CIFS volumes.
