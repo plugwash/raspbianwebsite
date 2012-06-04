@@ -4,9 +4,9 @@ Rasbian is a free operating system based on Debian for the Raspberry Pi.
 An operating system is the set of basic programs and utilities that make
 your Rasberry Pi run.
 
-Rasbian provides more than a pure OS: when Raspbian is complete it will
-come with over 34,000 packages, precompiled software bundled in a nice
-format for easy installation on your Raspberry Pi.
+Rasbian provides more than a pure OS: it comes with over 34,000
+packages, pre-compiled software bundled in a nice format for easy
+installation on your Raspberry Pi.
 
 Raspbian is still under development. The initial build of all Debian
 packages, optimized for best performance on the Raspberry Pi, is
@@ -56,6 +56,7 @@ can be run.
 
   
 
+  - 
 ## How to use this site
 
 This Wiki is a collaborative site and everyone is encouraged to
