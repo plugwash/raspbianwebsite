@@ -24,7 +24,9 @@ drive installation [here](/RaspbianInstaller#Installing_to_USB_disk).
 
 The files used to perform the install described below can be obtained
 from this link:
-[rpi\_installer\_05-27-12.zip](http://archive.raspbian.org/installer/rpi_installer_05-27-12.zip).
+[rpi\_installer\_05-27-12.zip](http://archive.raspbian.org/installer/rpi_installer_05-27-12.zip)
+or
+[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_installer_05-27-12.zip.torrent).
 
 Please remember to perform *rpi-update* to install Raspberry Pi specific
 libraries and firmware.
