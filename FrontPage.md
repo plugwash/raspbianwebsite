@@ -24,7 +24,7 @@ can be run.
 
   - **[FAQ](RaspbianFAQ)**
 
-  - **[Donors](/RaspbianDonors)**
+  - **[Donate](RaspbianDonate)**
 
   - **[Teams](/RaspbianTeams)**
 
