@@ -4,9 +4,9 @@
 
 Raspbian is free of cost to users and doesn't generate any direct income
 to support development. Up until now, financial costs related to
-development been funded out of pocket my Mike Thompson. It is hoped that
-much, if not all, of those costs can eventually be covered through
-donations by the community of Raspbian users.
+development been funded out of pocket by project leader Mike Thompson.
+It is hoped that much, if not all, of those costs can eventually be
+covered through donations by the community of Raspbian users.
 
 ## How is the money used?
 
