@@ -57,6 +57,13 @@ can be run.
   
 
   - 
+## Support Raspbian
+
+Raspbian is a community funded and supported free software effort.
+Although Raspbian is free software, the development costs associated it
+are not free. As a user of Raspbian, you can support ongoing development
+of Raspbian by making a [donation today](RaspbianDonate).
+
 ## How to use this site
 
 This Wiki is a collaborative site and everyone is encouraged to
