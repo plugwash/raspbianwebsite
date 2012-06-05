@@ -28,8 +28,8 @@ Contents
         repository?](#What_do_I_need_in_my_sources.list_file_to_access_the_Raspbian_repository.3F)
     14. [Can I mix packages from the Debian repositories with
         Raspbian?](#Can_I_mix_packages_from_the_Debian_repositories_with_Raspbian.3F)
-    15. [Are there plans to include contrib and/or non-free in the
-        repository?](#Are_there_plans_to_include_contrib_and.2For_non-free_in_the_repository.3F)
+    15. [Are 'contrib' and/or 'non-free' included the
+        repository?](#Are_.27contrib.27_and.2For_.27non-free.27_included_the_repository.3F)
     16. [Is it just the repository? Or, will you provide any
         customization?](#Is_it_just_the_repository.3F__Or.2C_will_you_provide_any_customization.3F)
     17. [What compilation options should be set Raspbian
@@ -185,8 +185,8 @@ the text file linked below:
 
 Your **/etc/apt/sources.list** file should look as follows:
 
-    deb http://archive.raspbian.org/raspbian wheezy main
-    deb-src http://archive.raspbian.org/raspbian wheezy main
+    deb http://archive.raspbian.org/raspbian wheezy main contrib non-free rpi
+    deb-src http://archive.raspbian.org/raspbian wheezy main contrib non-free rpi
 
 When using apt-get, you will will want to install the Raspbian public
 key in your apt-get keyring. This can be done with following command:
@@ -221,13 +221,18 @@ Debian packages just use the compiler defaults but some use their own
 settings for various reasons). A test script for testing packages for
 armv7 contamination is available at <http://pastebin.com/BtSdvrXM>.
 
-## Are there plans to include contrib and/or non-free in the repository?
+## Are 'contrib' and/or 'non-free' included the repository?
 
-At this time we are just concentrating on 'main' packages as that is the
-core of the system, but it's very likely we'll include much of 'contrib'
-and 'non-free' once the initial rebuild of main is complete. What's
-uncertain is how much effort would be put into fixing 'contrib' and
-'non-free' packages that might have build problems.
+Yes. However, at this point, we have only brought over the source code
+and the architecture 'all' packages. This should allow many USB devices
+to be supported as their firmware is often found in architecture 'all'
+packages. In the future, we'll be enabling compilation of the
+architecture specific 'armhf' packages, but this requires further
+tweaking of our autobuild infrastructure and it may take a while for us
+to get to as we are still trying to keep up with the constant updates
+being produced by the Debian Wheezy freeze that is coming up. This FAQ
+will be updated when the architecture specific 'armhf' packages are
+included in these sections.
 
 ## Is it just the repository? Or, will you provide any customization?
 
