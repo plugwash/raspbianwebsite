@@ -32,6 +32,8 @@ Contents
         repository?](#Are_there_plans_to_include_contrib_and.2For_non-free_in_the_repository.3F)
     16. [Is it just the repository? Or, will you provide any
         customization?](#Is_it_just_the_repository.3F__Or.2C_will_you_provide_any_customization.3F)
+    17. [What compilation options should be set Raspbian
+        code?](#What_compilation_options_should_be_set_Raspbian_code.3F)
 2.  [How do I ...?](#How_do_I_....3F)
     1.  [How do I mount a directory from a Windows server? Where's
         smbmount and
@@ -240,6 +242,25 @@ created over time which will contain Raspberry Pi specific packages that
 are not part of Debian. What these extras might be will be an exercise
 left to the future after the initial port of Debian Wheezy armhf to the
 Raspberry Pi hardware is complete.
+
+## What compilation options should be set Raspbian code?
+
+The compiler tools included in the Raspbian repository are, by default,
+pre-configured to produce code compatible with Raspbian. However, if you
+are looking to port compiler tools over to Raspbian, the settings
+required for most GNU tools are as follows:
+
+  - `-march=armv6`
+
+  - `-mfpu=vfp`
+
+  - `-mfloat-abi=hard`
+
+These settings produce code with armv6 specific instructions, vector
+floating point instructions and specify the ARM EABI where floating
+point values are to be passed in floating point registers. Additional
+information can be found in the [Debian hard float
+documents](http://wiki.debian.org/ArmHardFloatPort).
 
 # How do I ...?
 
