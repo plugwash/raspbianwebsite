@@ -39,8 +39,14 @@ Some notes concerning this release:
 
 Some notes concerning this image:
 
+  - Remember to reset 'root' and 'raspbian' passwords and [OpenSSH
+    server host
+    keys](http://www.cyberciti.biz/faq/howto-regenerate-openssh-host-keys/)
+    to avoid security issues.
+
   - DHCP may fail on boot and the Raspberry Pi may not have network
     connectivity.
+    
       - To fix this, delete all lines in the file
         '/etc/udev/rules.d/70-persistent-net.rules' and reboot. DHCP
         should then be functional and your Raspberry Pi should be
@@ -57,13 +63,19 @@ Some notes concerning this image:
         
         edit the */etc/network/interfaces* file and change eth0 to eth1
         and reboot.
+
   - Configure your timezone:
+    
       - `dpkg-reconfigure tzdata`
+
   - Configure locale settings:
+    
       - `apt-get install locales`
         
         `dpkg-reconfigure locales`
+
   - Configure keyboard settings:
+    
       - `apt-get install console-data`
         
         `dpkg-reconfigure console-data`
