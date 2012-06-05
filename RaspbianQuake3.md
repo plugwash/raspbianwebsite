@@ -49,7 +49,7 @@ something important, but this should be a helpful start.
     on [RasPi](/RasPi) Forum.
 
 10. Depending on version of Raspbian you use, you may need to copy
-    Broadcom libraries from /opt/vc/lib to /lib.
+    Broadcom libraries from /opt/vc/lib to /lib or add them to LDPATH.
 
 11. As root: `rpi-update 192`, reboot.
 
@@ -58,3 +58,33 @@ something important, but this should be a helpful start.
 Highly non-scientific testing (i.e. having played a normal-Debian build
 a few days ago) suggests framerate is quite dramatically improved. Go
 Raspbian\!
+
+## Troubleshooting
+
+  - If you get an error like "**failed to open vchiq instance**" you'll
+    need to:
+    
+        chmod a+rw /dev/vchiq
+
+  - If running as a non-root user and running from the console (non
+    X11), then quake3 may bomb out with an error message like
+    **'SDL\_Init()**' **'Unable to open mouse**'. You'll need to fix
+    permissions so that non-root user can access /dev/input/mice and
+    /dev/input/mouse0.
+    
+      - Create new file `/etc/udev/rules.d/99-input.rules`:
+    
+    <!-- end list -->
+    
+        # file /etc/udev/rules.d/99-input.rules
+        KERNEL=="mice", NAME="input/%k", MODE="664", GROUP="input"
+        KERNEL=="mouse*", NAME="input/%k", MODE="664", GROUP="input"
+    
+      - Add a new group and add your user(s) to it:
+    
+    <!-- end list -->
+    
+        groupadd input
+        usermod -a -G input [your_username]
+    
+      - Log out, log back in.
