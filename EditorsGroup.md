@@ -5,6 +5,8 @@ EditorsGroup configured as described
 
   - [PlugWash](/PlugWash)
 
+  - [DanielFenton](/DanielFenton)
+
   - [JoeUser](/JoeUser)
 
   - Hexxeh
