@@ -211,7 +211,8 @@ Debian armhf packages should be compatible with raspbian packages but a
 system with such a mixture WILL NOT RUN ON THE PI. Furthermore there may
 be corner cases where libraries build slightly differently on Raspbian.
 Such mixed systems can be useful for development (they were used heavily
-in the process of creating raspbian) but are not .
+in the process of creating raspbian) but are not reccomended for general
+use.
 
 Architecture independent ("arch all") packages are compatible between
 Debian and Raspbian. Source packages should in general be compatible
