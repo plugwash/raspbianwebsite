@@ -201,12 +201,11 @@ geographic locations can be found [here](RaspbianMirrors).
 Debian armel packages use the soft float ABI which is incompatible with
 the hard float ABI used by Raspbian. In theory it should be possible to
 install Debian armel packages in parallel with Raspbian packages using
-[http://wiki.debian.org/Multiarch
-multiarch](http://wiki.debian.org/Multiarch%20multiarch). However
-multiarch setups conflict with a hack we had to make to support the
-videocore libraries and there are other potential issues too. As such we
-don't currently recommend or support multiarch configurations with
-Debian armel and Raspbian armhf.
+[multiarch](http://wiki.debian.org/Multiarch). However multiarch setups
+conflict with a hack we had to make to support the videocore libraries
+and there are other potential issues too. As such we don't currently
+recommend or support multiarch configurations with Debian armel and
+Raspbian armhf.
 
 Debian armhf packages should be compatible with raspbian packages but a
 system with such a mixture WILL NOT RUN ON THE PI. Furthermore there may
