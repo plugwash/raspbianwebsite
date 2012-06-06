@@ -19,7 +19,6 @@ repository.
 |               |                |                      |                                                                      |
 | ------------- | -------------- | -------------------- | -------------------------------------------------------------------- |
 | **CONTINENT** | **COUNTRY**    | **MIRROR**           | **DEB/DEB-SRC ADDRESS**                                              |
-| Australia     | Australia      | AARNet               | <http://mirror.aarnet.edu.au/pub/raspbian>                           |
 | Europe        | France         | Arnaud Boudou        | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
 | Europe        | France         | Sergio Conde         | <http://raspbian.sconde.net/raspbian>                                |
 | Europe        | Germany        | Repvik               | <http://raspbian.lag.re/raspbian>                                    |
@@ -27,3 +26,5 @@ repository.
 | Europe        | Norway         | PAKS Consulting DA   | <http://mirror.raspbian.paks.no/raspbian>                            |
 | Europe        | United Kingdom | University of Oxford | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
 | North America | USA            | Hexxeh               | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
+
+<span class="comment" style="display:none">||Australia||Australia||AARNet||<http://mirror.aarnet.edu.au/pub/raspbian>||</span>
