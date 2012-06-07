@@ -48,18 +48,21 @@ something important, but this should be a helpful start.
     thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=63&t=6511&p=83593#p83593)
     on [RasPi](/RasPi) Forum.
 
-10. Depending on version of Raspbian you use, you may need to copy
-    Broadcom libraries from /opt/vc/lib to /lib or add them to LDPATH.
+10. As root: `rpi-update 192`, reboot.
 
-11. As root: `rpi-update 192`, reboot.
-
-12. Run **ioquake3.arm**. Shoot things.
+11. Run **ioquake3.arm**. Shoot things.
 
 Highly non-scientific testing (i.e. having played a normal-Debian build
 a few days ago) suggests framerate is quite dramatically improved. Go
 Raspbian\!
 
 ## Troubleshooting
+
+  - Game cannot find Broadcom libraries. As root do:
+    
+        cd /etc/ld.so.conf.d/
+        echo /opt/vc/lib >broadcomlib.conf
+        ldconfig
 
   - If you get an error like "**failed to open vchiq instance**" you'll
     need to:
