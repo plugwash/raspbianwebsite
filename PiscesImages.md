@@ -27,7 +27,20 @@ Once booted, log into one of the two existing accounts:
   - 
   
 
-Some notes concerning this release:
+### Image Install
+
+To install the image file, you will need to unzip it and write it to a
+suitable 4G or larger SD card using the UNIX tool
+[dd](http://en.wikipedia.org/wiki/Dd_\(Unix\)). Windows users should use
+[Win32DiskImager](http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml).
+Do not try to drag and drop or otherwise copy over the image without
+using dd or Win`  `32`  `Disk`  `Imager – it won’t work. If you’re still
+not clear on what to do, the community on the Raspberry Pi Wiki has
+written a [guide for
+beginners](http://elinux.org/RPi_Easy_SD_Card_Setup) on how to set up
+your SD card.
+
+### Image Notes
 
   - Typical Linux tools and editors are included
   - GNU C and C++ compilers included
@@ -64,19 +77,6 @@ Some notes concerning this image:
   - Install the Midori web browser:
     
       - `apt-get -s install midori`
-
-### Using the Image
-
-To use an image file, you will need to unzip it and write it to a
-suitable 4G or larger SD card using the UNIX tool
-[dd](http://en.wikipedia.org/wiki/Dd_\(Unix\)). Windows users should use
-[Win32DiskImager](http://www.softpedia.com/get/CD-DVD-Tools/Data-CD-DVD-Burning/Win32-Disk-Imager.shtml).
-Do not try to drag and drop or otherwise copy over the image without
-using dd or Win`  `32`  `Disk`  `Imager – it won’t work. If you’re still
-not clear on what to do, the community on the Raspberry Pi Wiki has
-written a [guide for
-beginners](http://elinux.org/RPi_Easy_SD_Card_Setup) on how to set up
-your SD card.
 
 ### Keeping Up to Date
 
