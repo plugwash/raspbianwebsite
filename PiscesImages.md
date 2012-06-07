@@ -9,12 +9,10 @@ of Raspbian and LXDE than the more minimal Hexxeh image. This image was
 created using the Debian installer so it reflects a minimal Debian
 installation with the LXDE packages added for a desktop.
 
-### Download the Image
+### Download the R2 Image
 
-The 466 MB image can be downloaded from this link
-[rpi\_pisces\_r1.zip](http://archive.raspbian.org/images/rpi_pisces_r1.zip)
-or
-[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_pisces_r1.zip.torrent).
+The 465 MB R2 image can be downloaded from this link
+[rpi\_pisces\_r2.zip](http://archive.raspbian.org/images/rpi_pisces_r2.zip).
 
 Once booted, log into one of the two existing accounts:
 
@@ -26,6 +24,12 @@ Once booted, log into one of the two existing accounts:
 | root         | raspbian     |
 | raspbian     | raspbian     |
 
+  - 
+<!-- end list -->
+
+  - 
+  
+
 Some notes concerning this release:
 
   - Typical Linux tools and editors are included
@@ -34,8 +38,8 @@ Some notes concerning this release:
   - Xorg and LXDE included, type "startx" to launch this after logging
     in
   - Hexxeh's rpi-update is included
-  - Updated to the latest Raspberry Pi firmware and kernel as of 27th
-    May
+  - Updated to the latest Raspberry Pi firmware and kernel as of 6th
+    June
 
 Some notes concerning this image:
 
@@ -43,26 +47,6 @@ Some notes concerning this image:
     server host
     keys](http://www.cyberciti.biz/faq/howto-regenerate-openssh-host-keys/)
     to avoid security issues.
-
-  - DHCP may fail on boot and the Raspberry Pi may not have network
-    connectivity.
-    
-      - To fix this, delete all lines in the file
-        '/etc/udev/rules.d/70-persistent-net.rules' and reboot. DHCP
-        should then be functional and your Raspberry Pi should be
-        assigned an IP address from the DHCP server on your local LAN.
-    
-      - The problem is that ethernet address of the Raspberry Pi I
-        created the image on differs from the ethernet address on your
-        Raspberry Pi. The OS notices this and assigns the ethernet
-        interface to device 'eth1' rather than 'eth0' which is
-        configured to use DHCP in the '/etc/network/interfaces' file.
-    
-      - It has been reported that the fix above doesn't always work. An
-        alternate fix is to
-        
-        edit the */etc/network/interfaces* file and change eth0 to eth1
-        and reboot.
 
   - Configure your timezone:
     
@@ -79,6 +63,10 @@ Some notes concerning this image:
       - `apt-get install console-data`
         
         `dpkg-reconfigure console-data`
+
+  - Install the Midori web browser:
+    
+      - `apt-get -s install midori`
 
 ### Using the Image
 
@@ -107,3 +95,31 @@ Verify the system time and date are set correctly and then run the
 following command:
 
   - `rpi-update`
+
+### Older R1 Image
+
+The older 466 MB R1 image can be downloaded from this link
+[rpi\_pisces\_r1.zip](http://archive.raspbian.org/images/rpi_pisces_r1.zip)
+or
+[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_pisces_r1.zip.torrent).
+
+Some notes concerning this image:
+
+  - DHCP may fail on boot and the Raspberry Pi may not have network
+    connectivity.
+      - To fix this, delete all lines in the file
+        '/etc/udev/rules.d/70-persistent-net.rules' and reboot. DHCP
+        should then be functional and your Raspberry Pi should be
+        assigned an IP address from the DHCP server on your local LAN.
+    
+      - The problem is that ethernet address of the Raspberry Pi I
+        created the image on differs from the ethernet address on your
+        Raspberry Pi. The OS notices this and assigns the ethernet
+        interface to device 'eth1' rather than 'eth0' which is
+        configured to use DHCP in the '/etc/network/interfaces' file.
+    
+      - It has been reported that the fix above doesn't always work. An
+        alternate fix is to
+        
+        edit the */etc/network/interfaces* file and change eth0 to eth1
+        and reboot.
