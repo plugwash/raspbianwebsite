@@ -12,7 +12,9 @@ installation with the LXDE packages added for a desktop.
 ### Download the R2 Image
 
 The 465 MB R2 image can be downloaded from this link
-[rpi\_pisces\_r2.zip](http://archive.raspbian.org/images/rpi_pisces_r2.zip).
+[rpi\_pisces\_r2.zip](http://archive.raspbian.org/images/rpi_pisces_r2.zip)
+or
+[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_pisces_r2.zip.torrent).
 
 Once booted, log into one of the two existing accounts:
 
