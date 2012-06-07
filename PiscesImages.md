@@ -78,7 +78,7 @@ Some notes concerning this image:
 
   - Install the Midori web browser:
     
-      - `apt-get -s install midori`
+      - `apt-get install midori`
 
   - Configure /etc/apt/sources.list to [pick-up 'contrib' and 'non-free'
     repositories](/RaspbianFAQ#What_do_I_need_in_my_sources.list_file_to_access_the_Raspbian_repository.3F).
