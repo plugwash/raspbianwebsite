@@ -80,6 +80,9 @@ Some notes concerning this image:
     
       - `apt-get -s install midori`
 
+  - Configure /etc/apt/sources.list to [pick-up 'contrib' and 'non-free'
+    repositories](/RaspbianFAQ#What_do_I_need_in_my_sources.list_file_to_access_the_Raspbian_repository.3F).
+
 ### Keeping Up to Date
 
 You can use the standard Debian way to update your installation:
