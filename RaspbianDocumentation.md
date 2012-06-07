@@ -10,3 +10,6 @@ manner.
   - [Rasberry Pi Config.txt Options](RaspberryPiConfigTxt)
 
   - [Rasberry Pi SD Card Performance](RaspberryPiSDPerformance)
+
+  - [Raspberry Pi Kernel Mailing
+    List](http://lists.infradead.org/mailman/listinfo/linux-rpi-kernel)
