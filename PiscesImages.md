@@ -25,9 +25,6 @@ Once booted, log into one of the two existing accounts:
 | raspbian     | raspbian     |
 
   - 
-<!-- end list -->
-
-  - 
   
 
 Some notes concerning this release:
