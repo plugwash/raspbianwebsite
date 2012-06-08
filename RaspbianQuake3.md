@@ -4,15 +4,14 @@ Documentation below pulled from the [Raspbian
 Forum](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=6473).
 Please update this page if errors in the build process are discovered.
 
-I'm about to go to work in a minute, so please enjoy some terribly
-condensed instructions on how to build a superpowered Quake 3 in
-Raspbian, using Hexxeh's SD card image as a base. I've probably missed
-something important, but this should be a helpful start.
-
 1.  Make sure you're up-to-date with everything (aptitude update;
     aptitude upgrade)
 
-2.  As root: **aptitude install gcc build-essential libsdl1.2-dev**
+2.  As root:
+    
+    ``` 
+        aptitude install git gcc build-essential libsdl1.2-dev
+    ```
 
 3.  Download the Quake 3 source code:
     
@@ -20,7 +19,7 @@ something important, but this should be a helpful start.
         git clone https://github.com/raspberrypi/quake3.git
     ```
 
-4.  Edit build.sh:
+4.  Edit *build.sh* in *quake3* directory:
     
     ``` 
         change line 8 to this: ARM_LIBS=/opt/vc/lib
@@ -58,6 +57,10 @@ Raspbian\!
 
 ## Troubleshooting
 
+  - Compiling fails, complaining about missing `vcos_platform_types.h`
+    file. See this issue in [RasPi](/RasPi) repository:
+    <https://github.com/raspberrypi/firmware/issues/34>
+
   - Game cannot find Broadcom libraries. As root do:
     
         cd /etc/ld.so.conf.d/
@@ -67,7 +70,9 @@ Raspbian\!
   - If you get an error like "**failed to open vchiq instance**" you'll
     need to:
     
+    ``` 
         chmod a+rw /dev/vchiq
+    ```
 
   - If running as a non-root user and running from the console (non
     X11), then quake3 may bomb out with an error message like
@@ -79,9 +84,11 @@ Raspbian\!
     
     <!-- end list -->
     
+    ``` 
         # file /etc/udev/rules.d/99-input.rules
         KERNEL=="mice", NAME="input/%k", MODE="664", GROUP="input"
         KERNEL=="mouse*", NAME="input/%k", MODE="664", GROUP="input"
+    ```
     
       - Add a new group and add your user(s) to it:
     
