@@ -72,9 +72,9 @@ Some notes concerning this image:
 
   - Configure keyboard settings:
     
-      - `apt-get install console-data`
+      - `apt-get install keyboard-configuration`
         
-        `dpkg-reconfigure console-data`
+        `dpkg-reconfigure keyboard-configuration`
 
   - Install the Midori web browser:
     
