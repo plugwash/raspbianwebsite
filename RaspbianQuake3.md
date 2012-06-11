@@ -68,7 +68,16 @@ Raspbian\!
         ldconfig
 
   - If you get an error like "**failed to open vchiq instance**" you'll
-    need to:
+    need to do as root:
+    
+    ``` 
+        echo 'SUBSYSTEM=="vchiq",GROUP="video",MODE="0660"' > /etc/udev/rules.d/10-vchiq-permissions.rules
+        usermod -a -G video [your_username]
+    ```
+    
+      - Or as one time temporary solution (until reboot):
+    
+    <!-- end list -->
     
     ``` 
         chmod a+rw /dev/vchiq
