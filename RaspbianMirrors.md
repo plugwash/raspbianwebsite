@@ -27,3 +27,6 @@ repository.
 | Europe        | United Kingdom | University of Oxford | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
 | North America | USA            | Hexxeh               | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
 | Australia     | Australia      | AARNet               | <http://mirror.aarnet.edu.au/pub/raspbian/raspbian>                  |
+
+<span class="comment" style="display:none">Mirror contacts are
+[here](RaspbianMirrorsContacts).</span>
