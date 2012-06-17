@@ -5,6 +5,8 @@ bits of information. Hopefully it will only be a little while until
 enough documentation is gathered to be organized into some logical
 manner.
 
+  - [Running MATE (Gnome 2) in Raspbian](RaspbianMate)
+
   - [Building Quake 3 in Raspbian](RaspbianQuake3)
 
   - [Rasberry Pi Config.txt Options](RaspberryPiConfigTxt)
