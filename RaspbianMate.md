@@ -92,6 +92,9 @@ Raspberry Pi are included below:
   - [Gnome 2.32: Tips, Tricks &
     Tweaks](http://pclosmag.com/html/Issues/201205/page08.html)
 
+  - [Reducing Gnome CPU
+    Usage](http://docs.oracle.com/cd/E19253-01/819-0918/performance-22/index.html)
+
 ## Additional Information
 
 I found the information on [using MATE on Arch
