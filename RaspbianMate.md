@@ -109,3 +109,28 @@ For MATE panel and MATE panel applets:
 Edit the file (create if necessary) `~/.gtkrc-2.0` and add the line:
 
     gtk-enable-tooltips = 0
+
+#### Enable Reduced Resources Mode
+
+The Marco window manager has a reduced resources mode which renders
+windows as wireframes when you move and resize windows. When reduced
+resources mode is enabled, only the outline of windows is displayed when
+you move and resize windows. The contents of the window do not need to
+be updated during the move or resize. The contents of the window are
+displayed when the move or resize is complete. When reduced resources
+mode is enabled, windows are not animated when you move and resize the
+windows.
+
+To enable reduced resources mode, execute the following command:
+
+    # mateconftool-2 --type bool --set /apps/marco/general/reduced_resources true 
+
+#### Turn Off Display of Icons in Menus
+
+Some items in menus display an icon beside the item. To turn off this
+feature and save CPU resources, execute the following command:
+
+    # mateconftool-2 --type bool --set /desktop/mate/interface/menus_have_icons false
+
+Alternatively, users can use the Menus & Toolbars preference tool to
+deselect the Show icons in menus option.
