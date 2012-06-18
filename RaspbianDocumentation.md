@@ -15,3 +15,6 @@ manner.
 
   - [Raspberry Pi Kernel Mailing
     List](http://lists.infradead.org/mailman/listinfo/linux-rpi-kernel)
+
+  - [ZRAM - Compressed Virtual Swap On Raspberry
+    Pi](http://raspberry.pi.gw.gd/t50-Using-ZRAM.html)
