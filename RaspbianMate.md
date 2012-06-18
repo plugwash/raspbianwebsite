@@ -4,8 +4,8 @@ Gnome 2 was the most popular Linux desktop, but it’s no longer
 available. MATE is a fork of Gnome 2 and provides an intuitive and
 attractive desktop to Linux users using traditional metaphors.
 
-{{attachment:mate\_screenshot.png|alt Mate
-Screenshot|align="middle"|width=480}}
+[![Mate Desktop](_attachments/RaspbianMate/mate_screenshot.png
+"Mate Desktop")](_attachments/RaspbianMate/mate_screenshot.png "{{attachment:mate_screenshot.png|Mate Desktop|width=480}}")
 
 ## About MATE
 
