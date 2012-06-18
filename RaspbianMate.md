@@ -96,3 +96,13 @@ Raspberry Pi are included below:
 
 I found the information on [using MATE on Arch
 Linux](https://wiki.archlinux.org/index.php/MATE) useful.
+
+## Miscellaneous Notes
+
+#### Disable Tool Tips
+
+For MATE panel and MATE panel applets:
+
+Edit the file (create if necessary) `~/.gtkrc-2.0` and add the line:
+
+    gtk-enable-tooltips = 0
