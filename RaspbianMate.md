@@ -28,7 +28,6 @@ Perform the following commands:
     sudo apt-get update
     sudo apt-get install mate-core
     sudo apt-get install mate-desktop-environment
-    sudo apt-get install mate-file-manager
 
 ## Starting MATE
 
