@@ -18,7 +18,9 @@ of the Raspberry Pi.
 ### Download the Pisces+MATE R1 Image
 
 The 700 MB image can be downloaded from this link
-[rpi\_pisces\_mate\_r1.zip](http://archive.raspbian.org/images/rpi_pisces_mate_r1.zip).
+[rpi\_pisces\_mate\_r1.zip](http://archive.raspbian.org/images/rpi_pisces_mate_r1.zip)
+or
+[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_pisces_mate_r1.zip.torrent).
 
 The following two user accounts are created on this image:
 
