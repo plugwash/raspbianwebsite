@@ -1,10 +1,5 @@
 # Bootable Raspbian "Pisces+MATE" Image by Mike Thompson
 
-**Coming Soon**
-
-This image is not yet available for download. This page will be updated
-once the image is available.
-
 Mike Thompson has produced a publicly available SD image of Raspbian
 that is bootable on Raspberry Pi hardware. This is called the "pisces"
 image as that is what Mike's Raspberry Pi system is named on his LAN.
