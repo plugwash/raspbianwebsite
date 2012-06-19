@@ -31,7 +31,7 @@ or
 Please remember to perform *rpi-update* to install Raspberry Pi specific
 libraries and firmware.
 
-## Install Notes - 05/27/12
+## Install Notes - 06/18/12
 
 Formatted an SD card with a single FAT32 partition and copied the
 installation files onto the top level directory. The partition and files
@@ -118,7 +118,7 @@ Set up users and passwords
 
 Root password:
 
-**raspbian**
+**raspbian** *\[or whatever password you want\]*
 
 **\<Continue\>**
 
@@ -128,7 +128,7 @@ Set up users and passwords
 
 Re-enter password to verify:
 
-**raspbian**
+**raspbian** *\[or whatever password you want\]*
 
 -----
 
@@ -139,7 +139,7 @@ account for non-administrative activities.
 
 Full name for the new user:
 
-**Raspbian User**
+**Raspbian User** *\[or whatever full name you want\]*
 
 **\<Continue\>**
 
@@ -149,7 +149,7 @@ Set up users and passwords
 
 Username for your account:
 
-**raspbian**
+**raspbian** *\[or whatever username you want\]*
 
 **\<Continue\>**
 
@@ -159,7 +159,7 @@ Set up users and passwords
 
 Choose a password for the new user:
 
-**raspbian**
+**raspbian** *\[or whatever password you want\]*
 
 **\<Continue\>**
 
@@ -169,7 +169,7 @@ Set up users and passwords
 
 Re-enter password to verify:
 
-**raspbian**
+**raspbian** *\[or whatever password you want\]*
 
 **\<Continue\>**
 
@@ -188,8 +188,10 @@ Partition disks
 MMC/SD card \#1 (mmcblk0) - 3.9 GB SD SA04G
 
   - \#1 primary 78.6 MB B f fat32 /rpiboot
-  - \#2 primary 3.6 GB f ext3 /
-  - \#5 primary 254.8 MB f swap swap
+  - \#2 primary 255.9 MB f swap swap
+  - \#3 primary 3.6 GB f ext3 /
+
+*Note: the details above will vary by the specifics of your SD card.*
 
 **\<Finish partitioning and write changes to disk\>**
 
@@ -204,12 +206,30 @@ The partition tables of the following devices are changed:
 The following partitions are going to be formatted:
 
   - partition \#1 of MMC/SD card \#1 (mmcblk0) as fat32
-  - partition \#2 of MMC/SD card \#1 (mmcblk0) as ext3
-  - partition \#3 of MMC/SD card \#1 (mmcblk0) as swap
+  - partition \#2 of MMC/SD card \#1 (mmcblk0) as swap
+  - partition \#3 of MMC/SD card \#1 (mmcblk0) as ext3
+
+*Note: the details above will vary by the specifics of your SD card.*
 
 Write the changes to disks?
 
 **\<Yes\>**
+
+-----
+
+Partitions formatting
+
+*This takes a while depending on the size of the SD card. Be patient.*
+
+-----
+
+Installing the base system
+
+*This takes a while. Be patient.*
+
+-----
+
+Configuring apt
 
 -----
 
@@ -272,14 +292,14 @@ Choose software to install:
 
   - **Standard system utilities**
 
-Note: Selecting *Debian desktop environment* will install more than 800
-additional packages which could take 6 hours more to setup.
+*Note: Selecting 'Debian desktop environment' will install more than 800
+additional packages which could take 6 hours more to setup.*
 
 -----
 
-DECnet node configuration
+Select and install software
 
-**\<skip and leave config as it is\>**
+*This takes a while. Be patient.*
 
 -----
 
@@ -289,6 +309,10 @@ No boot loader has been installed, either because you chose not to or
 because your specific architecture doesn't support a boot loader yet.
 
 **\<Continue\>**
+
+-----
+
+Finishing the installation
 
 -----
 
