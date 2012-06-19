@@ -18,6 +18,13 @@ using MATE.
 
 ## Installing MATE
 
+#### Raspbian & MATE SD Image
+
+A Raspbian image with MATE configured as the default desktop is
+[available here](PiscesMATEImages).
+
+#### Install MATE With apt-get
+
 For Raspbian, add the following repository to your
 "/etc/apt/sources.list":
 
