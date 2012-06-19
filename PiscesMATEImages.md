@@ -25,7 +25,7 @@ of the Raspberry Pi.
 The 700 MB image can be downloaded from this link
 [rpi\_pisces\_mate\_r1.zip](http://archive.raspbian.org/images/rpi_pisces_mate_r1.zip).
 
-Once booted, log into one of the two existing accounts:
+The following two user accounts are created on this image:
 
   - 
 
@@ -36,12 +36,10 @@ Once booted, log into one of the two existing accounts:
 | raspbian     | raspbian     |
 
   - 
+<!-- end list -->
+
+  - 
   
-
-Once logged into the 'raspbian' account, run the following command to
-start the MATE desktop.
-
-`startx`
 
 ### Image Install
 
@@ -58,20 +56,19 @@ your SD card.
 
 ### Image Notes
 
+#### Image Features
+
   - Typical Linux tools and editors are included
-  - GNU C and C++ compilers included
   - SSH server included, launches on boot by default
-  - Xorg and MATE included, type "startx" to launch this after logging
-    in
-  - Midori web browser
+  - Xorg and MATE desktop included
+  - Midori web browser is included
   - Hexxeh's rpi-update is included
   - Updated to the latest Raspberry Pi firmware and kernel as of June
     19th
 
-Some notes concerning this image:
+#### Additional Notes
 
-  - Remember to reset 'root' and 'raspbian' passwords and [OpenSSH
-    server host
+  - Reset 'root' and 'raspbian' passwords and [OpenSSH server host
     keys](http://www.cyberciti.biz/faq/howto-regenerate-openssh-host-keys/)
     to avoid security issues.
 
@@ -90,6 +87,29 @@ Some notes concerning this image:
       - `apt-get install keyboard-configuration`
         
         `dpkg-reconfigure keyboard-configuration`
+
+  - Install Gnu C/C++ compiler and tools:
+    
+      - `apt-get install build-essential`
+
+  - Launch MATE desktop from 'raspbian' user account
+    
+      - `startx`
+
+  - The major purpose of this image is to evaluate whether MATE can be a
+    viable desktop environment for the Raspberry Pi. Memory use of the
+    default MATE configuration without any applications running is:
+    
+      - ``` 
+        # free -h
+                     total       used       free     shared    buffers     cached
+        Mem:          215M       201M        14M         0B       9.9M       115M
+        -/+ buffers/cache:        75M       139M
+        Swap:         243M       6.3M       237M
+        ```
+
+  - This indicates that the Raspbian OS and MATE consume about 75M when
+    idle. Leaving 139M free for application use.
 
 ### Keeping Up to Date
 
