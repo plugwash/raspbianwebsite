@@ -13,6 +13,8 @@ manner.
 
   - [Rasberry Pi SD Card Performance](RaspberryPiSDPerformance)
 
+  - [Resize Partitions on an Image File](http://sirlagz.net/?p=487)
+
   - [Raspberry Pi Kernel Mailing
     List](http://lists.infradead.org/mailman/listinfo/linux-rpi-kernel)
 
