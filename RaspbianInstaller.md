@@ -8,7 +8,7 @@ thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=6532).
 
 Currently the installer is in a fairly primitive state and functions at
 a "proof of concept" level. The notes below document the use of the
-installer as it was configured on May 27th and will be useful to those
+installer as it was configured on June 18th and will be useful to those
 that would like to try the installer and give feedback.
 
 Note: the SD card media that installer works with to install Raspbian
@@ -24,12 +24,10 @@ drive installation [here](/RaspbianInstaller#Installing_to_USB_disk).
 
 The files used to perform the install described below can be obtained
 from this link:
-[rpi\_installer\_05-27-12.zip](http://archive.raspbian.org/installer/rpi_installer_05-27-12.zip)
-or
-[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_installer_05-27-12.zip.torrent).
+[rpi\_installer\_06-18-12.zip](http://archive.raspbian.org/installer/rpi_installer_06-18-12.zip).
 
-Please remember to perform *rpi-update* to install Raspberry Pi specific
-libraries and firmware.
+Please remember to perform *rpi-update* after the installation to
+install Raspberry Pi specific libraries and firmware.
 
 ## Install Notes - 06/18/12
 
