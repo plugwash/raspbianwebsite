@@ -316,10 +316,6 @@ Finishing the installation
 
 Post install:
 
-  - Add the Raspbian public key for apt-get to use:
-
-  - `wget http://archive.raspbian.org/raspbian.public.key -O - | apt-key add -`
-
   - Run *rpi-update* to install the latest kernel along with its modules
     and Broadcom libraries.
 
