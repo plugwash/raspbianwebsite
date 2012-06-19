@@ -20,4 +20,6 @@ use. Below is a list of known unofficial Raspbian images.
 
   - [Pisces Images](PiscesImages)
 
+  - [Pisces+MATE Images](PiscesMATEImages)
+
   - [Hexxeh Images](HexxehImages)
