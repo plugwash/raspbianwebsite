@@ -89,6 +89,15 @@ your SD card.
     
       - `apt-get install build-essential`
 
+  - Scrap Midori. I found it's just too slow on the Raspberry Pi.
+    
+      - `apt-get purge midori` `apt-get autoremove`
+
+  - Install Net`  `Surf, a fast, low-resource browser much more suited
+    to the Raspberry Pi.
+    
+      - `apt-get install netsurf-gtk`
+
   - Launch MATE desktop from 'raspbian' user account
     
       - `startx`
