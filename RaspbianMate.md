@@ -101,11 +101,6 @@ Raspberry Pi are included below:
   - [Reducing Gnome CPU
     Usage](http://docs.oracle.com/cd/E19253-01/819-0918/performance-22/index.html)
 
-## Additional Information
-
-I found the information on [using MATE on Arch
-Linux](https://wiki.archlinux.org/index.php/MATE) useful.
-
 ## Miscellaneous Notes
 
 #### Disable Tool Tips
@@ -140,3 +135,43 @@ feature and save CPU resources, execute the following command:
 
 Alternatively, users can use the Menus & Toolbars preference tool to
 deselect the Show icons in menus option.
+
+#### Additional Information
+
+I found the information on [using MATE on Arch
+Linux](https://wiki.archlinux.org/index.php/MATE) useful.
+
+## MATE Themes
+
+One of the nice things about MATE is that it can use the rich variety of
+Gnome 2 themes that are available all over the web to improve the look
+of the MATE Desktop. To demonstrate this, the [Bisigi
+Project](http://www.bisigi-project.org/?page_id=6&lang=en/) themes have
+been ported to MATE and are part of the MATE repository.
+
+Go [here to preview](http://www.bisigi-project.org/?page_id=6&lang=en)
+which themes are available and then use the following apt-get commands
+to install a specific theme. Remember to use `apt-get update` before
+attempting to install a theme to make sure your apt sources are current.
+
+  - ``` 
+    apt-get install airlines-theme
+    apt-get install aquadreams-theme
+    apt-get install balanzan-theme
+    apt-get install bamboo-zen-theme
+    apt-get install eco-theme
+    apt-get install ellanna-theme
+    apt-get install exotic-theme
+    apt-get install infinity-theme
+    apt-get install orange-theme
+    apt-get install showtime-theme
+    apt-get install split-theme
+    apt-get install step-into-freedom-theme
+    apt-get install tropical-theme
+    apt-get install ubuntu-sunrise-theme
+    apt-get install wild-shine-theme
+    ```
+
+Some of these themes include SVG files and other features that may slow
+down the MATE desktop. You'll have to use your own judgement as to
+whether the improved eye candy with the overhead.
