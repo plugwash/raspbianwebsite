@@ -13,6 +13,9 @@ manner.
 
   - [Rasberry Pi SD Card Performance](RaspberryPiSDPerformance)
 
+  - [How To Build a Debian
+    Packages](http://forums.debian.net/viewtopic.php?f=16&t=38976)
+
   - [Resize Partitions on an Image File](http://sirlagz.net/?p=487)
 
   - [Raspberry Pi Kernel Mailing
