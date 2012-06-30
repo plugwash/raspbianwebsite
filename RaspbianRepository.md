@@ -19,6 +19,6 @@ Raspbian repository. This file should contain the following information:
     deb-src http://archive.raspbian.org/raspbian wheezy main
 
 When using apt-get, you will want to install the Raspbian public key in
-your apt-get keyring. This can be done with following command:
+your apt-get keyring. This can be done with the following command:
 
     wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
