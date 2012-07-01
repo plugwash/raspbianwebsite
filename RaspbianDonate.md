@@ -17,8 +17,8 @@ work of the people behind it.
 ## How much should you give?
 
 Donations can range in between just a few dollars and several hundred
-dollars. The important thing for users of Raspbian to give something and
-to encourage other users of Raspbian to give something.
+dollars. The important thing is for users of Raspbian to give something
+and to encourage other users of Raspbian to give something.
 
 ## Donate in US Dollars
 
