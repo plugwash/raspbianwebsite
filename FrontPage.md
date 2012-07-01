@@ -2,7 +2,7 @@
 
 Raspbian is a free operating system based on Debian for the Raspberry
 Pi. An operating system is the set of basic programs and utilities that
-make your Rasberry Pi run.
+make your Raspberry Pi run.
 
 Raspbian provides more than a pure OS: it comes with over 34,000
 packages, pre-compiled software bundled in a nice format for easy
@@ -60,14 +60,14 @@ GUI can be run.
 ## Support Raspbian
 
 Raspbian is a community funded and supported free software effort.
-Although Raspbian is free software, the development costs associated it
-are not free. As a user of Raspbian, you can support ongoing development
-of Raspbian by making a [donation today](RaspbianDonate).
+Although Raspbian is free software, the development costs associated
+with it are not free. As a user of Raspbian, you can support ongoing
+development of Raspbian by making a [donation today](RaspbianDonate).
 
 ## How to use this site
 
 This Wiki is a collaborative site and everyone is encouraged to
-contribute and share. Unfortunately, Wikis of this type also are a
+contribute and share. Unfortunately, Wikis of this type are also a
 magnet for spammers. If you would like to add or edit content on this
 site, please register your name and password. Then leave a message in
 the [Forum
