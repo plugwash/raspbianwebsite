@@ -58,8 +58,8 @@ server deamon on this image. This can be a big problem for people who
 are running their Raspberry Pi headless and can't plug in a monitor and
 keyboard to fix the issue by reinstalling the openssh-server package.
 Until this problem is understood and resolved, it would be best to avoid
-using "tasksel" on a headless Raspberry Pi and use "apt-get" to install
-the required packages.
+using "tasksel" on a headless Raspberry Pi running this image and use
+"apt-get" to install the required packages.
 
   - Some problems have been reported when using tasksel not being able
     to install packages. If you encounter errors, add the following line
