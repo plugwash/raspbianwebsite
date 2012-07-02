@@ -61,10 +61,19 @@ Some notes concerning this image:
       - `apt-get install tasksel`
         
         `tasksel install standard`
+        
+        **Tasksel can kill SSH**
+        
+        It has been reported that using tasksel can kill the ssh server
+        on this image. This can be a big problem for people who are
+        running their Raspberry Pi headless and can't plug in a monitor
+        and keyboard to fix the issue. This problem will be investigated
+        further.
     
-    Some problems have been reported when using tasksel. If you
-    encounter errors, add the following line to the file
-    */etc/sysctl.conf*, reboot and try running tasksel again:
+    Some problems have been reported when using tasksel not being able
+    to install packages. If you encounter errors, add the following line
+    to the file */etc/sysctl.conf*, reboot and try running tasksel
+    again:
     
       - `vm.min_free_kbytes = 8192`
     
