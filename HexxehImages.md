@@ -31,38 +31,37 @@ Changes from the previous r2 image are as follows:
 Some notes concerning this image:
 
   - Icons for LXDE are missing, so run:
-    
       - `apt-get install lxde-icon-theme`
-
   - Time is not set, so run:
-    
       - `apt-get install ntp fake-hwclock`
-
   - Choose your timezone:
-    
       - `dpkg-reconfigure tzdata`
-
   - Configure locale settings:
-    
       - `apt-get install locales`
         
         `dpkg-reconfigure locales`
-
   - Configure keyboard settings:
-    
       - `apt-get install console-data`
         
         `dpkg-reconfigure console-data`
-
   - The image is quite minimal. To make the system look more like a
     standard Linux installation issue the following commands as root.
     This will install about 100 additional "standard" Linux packages.
-    
       - `apt-get install tasksel`
         
         `tasksel install standard`
-    
-    Some problems have been reported when using tasksel not being able
+
+**WARNING: Tasksel can kill SSH**
+
+It has been reported that the above "tasksel" command can kill the ssh
+server deamon on this image. This can be a big problem for people who
+are running their Raspberry Pi headless and can't plug in a monitor and
+keyboard to fix the issue by reinstalling the openssh-server package.
+Until this problem is understood and resolved, it would be best to avoid
+using "tasksel" on a headless Raspberry Pi and use "apt-get" to install
+the required packages.
+
+  - Some problems have been reported when using tasksel not being able
     to install packages. If you encounter errors, add the following line
     to the file */etc/sysctl.conf*, reboot and try running tasksel
     again:
