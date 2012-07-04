@@ -44,9 +44,9 @@ Some notes concerning this image:
       - `apt-get install console-data`
         
         `dpkg-reconfigure console-data`
-  - The image is quite minimal. To make the system look more like a
-    standard Linux installation issue the following commands as root.
-    This will install about 100 additional "standard" Linux packages.
+  - The image is quite minimal. If you want a load of old-fassioned unix
+    style cruft installed issue the following commands as root. This
+    will install about 100 additional "standard" Linux packages.
       - `apt-get install tasksel`
         
         `tasksel install standard`
