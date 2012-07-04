@@ -5,9 +5,7 @@ bits of information. Hopefully it will only be a little while until
 enough documentation is gathered to be organized into some logical
 manner.
 
-  - [Running MATE (Gnome 2) in Raspbian](RaspbianMate)
-
-  - [Building Quake 3 in Raspbian](RaspbianQuake3)
+## General
 
   - [Rasberry Pi Config.txt Options](RaspberryPiConfigTxt)
 
@@ -23,3 +21,13 @@ manner.
 
   - [ZRAM - Compressed Virtual Swap On Raspberry
     Pi](http://raspberry.pi.gw.gd/t50-Using-ZRAM.html)
+
+## X and GUI
+
+  - [Running MATE (Gnome 2) in Raspbian](RaspbianMate)
+
+## Multimedia & Games
+
+  - [OMXPlayer builds for Raspbian](http://omxplayer.sconde.net/)
+
+  - [Building Quake 3 in Raspbian](RaspbianQuake3)
