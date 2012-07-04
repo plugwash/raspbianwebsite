@@ -30,6 +30,9 @@ Changes from the previous r2 image are as follows:
 
 Some notes concerning this image:
 
+  - Before starting to install stuff update the package lists in apt
+    (otherwise you are likely to get a load of file not found errors)
+      - `apt-get update`
   - Icons for LXDE are missing, so run:
       - `apt-get install lxde-icon-theme`
   - Time is not set, so run:
@@ -41,9 +44,9 @@ Some notes concerning this image:
         
         `dpkg-reconfigure locales`
   - Configure keyboard settings:
-      - `apt-get install console-data`
+      - `apt-get install console-setup keyboard-configuration`
         
-        `dpkg-reconfigure console-data`
+        `dpkg-reconfigure keyboard-configuration`
   - The image is quite minimal. If you want a load of old-fassioned unix
     style cruft installed issue the following commands as root. This
     will install about 100 additional "standard" Linux packages.
