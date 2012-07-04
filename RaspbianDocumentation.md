@@ -22,6 +22,9 @@ manner.
   - [ZRAM - Compressed Virtual Swap On Raspberry
     Pi](http://raspberry.pi.gw.gd/t50-Using-ZRAM.html)
 
+  - [Linux Force fsck on the Next Reboot or Boot
+    Sequence](http://www.cyberciti.biz/faq/linux-force-fsck-on-the-next-reboot-or-boot-sequence/)
+
 ## X and GUI
 
   - [Running MATE (Gnome 2) in Raspbian](RaspbianMate)
