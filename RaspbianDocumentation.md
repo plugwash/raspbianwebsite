@@ -35,4 +35,4 @@ manner.
 
   - [Building Quake 3 in Raspbian](RaspbianQuake3)
 
-  - [Building XMBC in Raspbian](RaspbianXMBC)
+  - [Building XBMC in Raspbian](RaspbianXBMC)
