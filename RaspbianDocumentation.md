@@ -34,3 +34,5 @@ manner.
   - [OMXPlayer builds for Raspbian](http://omxplayer.sconde.net/)
 
   - [Building Quake 3 in Raspbian](RaspbianQuake3)
+
+  - [Building XMBC in Raspbian](RaspbianXMBC)
