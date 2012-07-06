@@ -49,10 +49,6 @@ The first place to look is the official [FrontPage](FrontPage).
 The [RaspbianFAQ](RaspbianFAQ) page has lots of useful information and
 links and is required reading for anyone interested in Raspbian.
 
-[RaspbianDonate](RaspbianDonate) - The project has cost about $3000 to
-Mike "mpthompson" Thompson personally already. Understandably donations
-would be gratefully received to help fund further development.
-
 ### Raspbian on the Raspberry Pi Forums
 
 [Debian Hard Float (armhf) for
@@ -64,9 +60,7 @@ others to bring Raspian to life.
 Raspbian.](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=8438)
 - MATE is a fork of the Gnome 2 desktop environment.
 
-![http://www.raspbian.org/static/applets/FCKeditor/editor/images/spacer.gif](http://www.raspbian.org/static/applets/FCKeditor/editor/images/spacer.gif
-"http://www.raspbian.org/static/applets/FCKeditor/editor/images/spacer.gif")
-And mpthompson's[original forum
+mpthompson's[original forum
 thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?p=47787) about
 what would later become Raspian.
 
@@ -92,3 +86,13 @@ If you're already experienced with Debian on the Raspberry Pi (or any
 Linux on other small ARM systems) then you can get Raspbian-specific
 help on the Raspbian subforum on the main Raspberry Pi forums
 [here](http://www.raspberrypi.org/phpBB3/viewforum.php?f=66).
+
+## How can I help?
+
+[RaspbianDonate](RaspbianDonate) - The project has cost about $3000 to
+Mike "mpthompson" Thompson personally already. Understandably donations
+would be gratefully received to help fund further development.
+
+Once you're up to speed with Raspbian, sharing your experiences and
+helping others on the [Raspbian subforum of the main Raspberry Pi
+forum](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66).
