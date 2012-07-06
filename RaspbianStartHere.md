@@ -5,18 +5,20 @@
 The short answer is "It's an unofficial version (‘port’) of the upcoming
 ‘wheezy’ Debian Linux that is optimised for the Raspberry Pi."
 
-Raspberry Pi Foundation's Debian port is based on the Debian “squeeze”
-distribution's "armel" port. It doesn't take advantage of some of the
-features of Raspberry Pi's processor. The new Debian “wheezy”
-distribution's "armhf" port requires features that the Raspberry Pi's
-processor doesn't have. Raspbian uses the features the Raspberry Pi does
-have, but doesn't use the features that are missing.
+  - Raspberry Pi Foundation's Debian port is based on the Debian
+    “squeeze” distribution's "armel" port. It doesn't take advantage
+    of some of the features of Raspberry Pi's processor.
+  - The new Debian “wheezy” distribution's "armhf" port requires
+    features that the Raspberry Pi's processor doesn't have.
+  - Raspbian is an unofficial Debian "wheezy" port uses the features the
+    Raspberry Pi does have, but doesn't use the features that are
+    missing.
 
 Technical differences between Raspian and the Raspbery Pi Foundation's
 Debian port mean some programs will experience a very noticeable
 performance improvement on Raspian. A bigger and better explanation,
 along with a more technical details for those who want them, can be
-found on the RaspbianFAQ page.
+found on the [RaspbianFAQ](RaspbianFAQ)page.
 
 ## Who is Raspbian for?
 
@@ -32,7 +34,9 @@ This forum is for Raspbian specific information.
 ## What isn't this wiki for?
 
 It's not for general Linux help or general Debian questions. You'd be
-better posting them in Using the Raspberry Pi or Debian.
+better posting them in [Using the Raspberry
+Pi](http://www.raspberrypi.org/phpBB3/viewforum.php?f=12) or
+[Debian](http://www.raspberrypi.org/phpBB3/viewforum.php?f=50).
 
 ## What information is already available?
 
@@ -67,7 +71,7 @@ list.](http://lists.debian.org/debian-arm/2012/03/threads.html#00002)
 
 ## Where can I get it to try?
 
-After you've read the Raspbian FAQ page, head to the
+After you've read the RaspbianFAQ; page, head to the
 [RaspbianImages](RaspbianImages) page and select from one of the images
 available. Pisces is a good place to start\!
 
@@ -75,8 +79,9 @@ available. Pisces is a good place to start\!
 
 The first things to check are "Have I made sure my Raspbian system is
 up-to-date?" and "Does the same issue happen on the official Debian
-"squeeze" distribution?" If you're already experienced with Debian on
-the Raspberry Pi (or any Linux on other small ARM systems) then you can
-get Raspbian-specific help on the Raspbian subforum on the main
-Raspberry Pi forums
+'squeeze' distribution?"
+
+If you're already experienced with Debian on the Raspberry Pi (or any
+Linux on other small ARM systems) then you can get Raspbian-specific
+help on the Raspbian subforum on the main Raspberry Pi forums
 [here](http://www.raspberrypi.org/phpBB3/viewforum.php?f=66).
