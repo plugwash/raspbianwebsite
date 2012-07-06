@@ -11,14 +11,25 @@ The master Raspbian repository can be found at the following link:
 Mirrors of the Raspbian repository that may be more suitable for users
 in different geographic locations can be found [here](RaspbianMirrors).
 
+## Repository sources.list File
+
 The **/etc/apt/sources.list** file contains the information needed to
 install additional software packages on your Raspberry Pi from the
 Raspbian repository. This file should contain the following information:
 
-    deb http://archive.raspbian.org/raspbian wheezy main
-    deb-src http://archive.raspbian.org/raspbian wheezy main
+  - ``` 
+    deb http://archive.raspbian.org/raspbian wheezy main contrib non-free
+    deb-src http://archive.raspbian.org/raspbian wheezy main contrib non-free
+    ```
 
-When using apt-get, you will want to install the Raspbian public key in
-your apt-get keyring. This can be done with the following command:
+If needed, the Raspbian public key can be stored into your apt-get
+keyring using the following command:
 
+  - ``` 
     wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
+    ```
+
+## Repository Bandwidth
+
+Bandwidth statistics of the Raspbian repository can be found
+[here](http://www.raspbian.org/mrtg/localhost_eth0.html).
