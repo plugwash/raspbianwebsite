@@ -22,8 +22,8 @@ Contents
         image?](#What_will_be_on_the_official_Raspbian_SD_image.3F)
     11. [Is the Raspbian repository live? If so, where can I find
         it?](#Is_the_Raspbian_repository_live.3F__If_so.2C_where_can_I_find_it.3F)
-    12. [Do you have a list of all the packages in the Raspian
-        repository?](#Do_you_have_a_list_of_all_the_packages_in_the_Raspian_repository.3F)
+    12. [Do you have a list of all the packages in the Raspbian
+        repository?](#Do_you_have_a_list_of_all_the_packages_in_the_Raspbian_repository.3F)
     13. [What do I need in my sources.list file to access the Raspbian
         repository?](#What_do_I_need_in_my_sources.list_file_to_access_the_Raspbian_repository.3F)
     14. [Can I mix packages from the Debian repositories with
@@ -177,7 +177,7 @@ hundred packages a day. It can be found at the following link:
 
 <http://archive.raspbian.org/>
 
-## Do you have a list of all the packages in the Raspian repository?
+## Do you have a list of all the packages in the Raspbian repository?
 
 The current list of packages in the Raspbian repository can be found in
 the text file linked below:
