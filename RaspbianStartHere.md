@@ -14,22 +14,23 @@ The short answer is "It's an unofficial version (‘port’) of the upcoming
     Raspberry Pi does have, but doesn't use the features that are
     missing.
 
-Technical differences between Raspian and the Raspbery Pi Foundation's
+Technical differences between Raspian and the Raspberry Pi Foundation's
 Debian port mean some programs will experience a very noticeable
 performance improvement on Raspian. A bigger and better explanation,
 along with a more technical details for those who want them, can be
-found on the [RaspbianFAQ](RaspbianFAQ)page.
+found on the [RaspbianFAQ](RaspbianFAQ) page.
 
 ## Who is Raspbian for?
 
 Right now, it's for people with Linux experience with small ARM based
 systems such as the Raspberry Pi. The goal is for it to become the
 choice for all Linux users on the Raspberry Pi, but there are still a
-few rough edges to be smoothed out.
+few rough edges to be smoothed out. Again, a more in-depth explanation
+check the [RaspbianFAQ](RaspbianFAQ) page.
 
 ## What is this wiki for?
 
-This forum is for Raspbian specific information.
+This wiki is for Raspbian specific information.
 
 ## What isn't this wiki for?
 
@@ -38,13 +39,19 @@ better posting them in [Using the Raspberry
 Pi](http://www.raspberrypi.org/phpBB3/viewforum.php?f=12) or
 [Debian](http://www.raspberrypi.org/phpBB3/viewforum.php?f=50).
 
+Also the [RaspbianFAQ](RaspbianFAQ) page has more links to Debian
+documentation.
+
 ## What information is already available?
 
 The first place to look is the official [FrontPage](FrontPage).
 
+The [RaspbianFAQ](RaspbianFAQ) page has lots of useful information and
+links and is required reading for anyone interested in Raspbian.
+
 [RaspbianDonate](RaspbianDonate) - The project has cost about $3000 to
 Mike "mpthompson" Thompson personally already. Understandably donations
-would be gratefully received to help further development.
+would be gratefully received to help fund further development.
 
 ### Raspbian on the Raspberry Pi Forums
 
@@ -71,7 +78,7 @@ list.](http://lists.debian.org/debian-arm/2012/03/threads.html#00002)
 
 ## Where can I get it to try?
 
-After you've read the RaspbianFAQ; page, head to the
+After you've read the [RaspbianFAQ](RaspbianFAQ) page, head to the
 [RaspbianImages](RaspbianImages) page and select from one of the images
 available. Pisces is a good place to start\!
 
