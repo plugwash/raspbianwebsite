@@ -5,14 +5,10 @@
 The short answer is "It's an unofficial version (‘port’) of the upcoming
 ‘wheezy’ Debian Linux that is optimised for the Raspberry Pi."
 
-  - Raspberry Pi Foundation's Debian port is based on the Debian
-    “squeeze” distribution's "armel" port. It doesn't take advantage
-    of some of the features of Raspberry Pi's processor.
-  - The new Debian “wheezy” distribution's "armhf" port requires
-    features that the Raspberry Pi's processor doesn't have.
-  - Raspbian is an unofficial Debian "wheezy" port uses the features the
-    Raspberry Pi does have, but doesn't use the features that are
-    missing.
+Raspbian is an unofficial Debian "wheezy" port that makes use of the
+Pi's processor's floating point hardware - improving the Pi's
+performance during floating point intensive applications - and the
+advanced instructions of the ARMv6 CPU.
 
 Technical differences between Raspian and the Raspberry Pi Foundation's
 Debian port mean some programs will experience a very noticeable
@@ -24,9 +20,9 @@ found on the [RaspbianFAQ](RaspbianFAQ) page.
 
 Right now, it's for people with Linux experience with small ARM based
 systems such as the Raspberry Pi. The goal is for it to become the
-choice for all Linux users on the Raspberry Pi, but there are still a
-few rough edges to be smoothed out. Again, a more in-depth explanation
-check the [RaspbianFAQ](RaspbianFAQ) page.
+choice for all Linux users on the Raspberry Pi, but it's still "in
+progress". Again, a more in-depth explanation check the
+[RaspbianFAQ](RaspbianFAQ) page.
 
 ## What is this wiki for?
 
@@ -34,13 +30,8 @@ This wiki is for Raspbian specific information.
 
 ## What isn't this wiki for?
 
-It's not for general Linux help or general Debian questions. You'd be
-better posting them in [Using the Raspberry
-Pi](http://www.raspberrypi.org/phpBB3/viewforum.php?f=12) or
-[Debian](http://www.raspberrypi.org/phpBB3/viewforum.php?f=50).
-
-Also the [RaspbianFAQ](RaspbianFAQ) page has more links to Debian
-documentation.
+It's not for general Linux help or general Debian questions. The
+[RaspbianFAQ](RaspbianFAQ) page has more links to Debian documentation.
 
 ## What information is already available?
 
