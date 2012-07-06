@@ -10,9 +10,9 @@ Pi's processor's floating point hardware - improving the Pi's
 performance during floating point intensive applications - and the
 advanced instructions of the ARMv6 CPU.
 
-Technical differences between Raspian and the Raspberry Pi Foundation's
+Technical differences between Raspbian and the Raspberry Pi Foundation's
 Debian port mean some programs will experience a very noticeable
-performance improvement on Raspian. A bigger and better explanation,
+performance improvement on Raspbian. A bigger and better explanation,
 along with a more technical details for those who want them, can be
 found on the [RaspbianFAQ](RaspbianFAQ) page.
 
@@ -45,7 +45,7 @@ links and is required reading for anyone interested in Raspbian.
 [Debian Hard Float (armhf) for
 RPi](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=4256) -
 Large thread chronicling mpthompson's amazing work with plugwash and
-others to bring Raspian to life.
+others to bring Raspbian to life.
 
 [Port of MATE to
 Raspbian.](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=8438)
@@ -53,7 +53,7 @@ Raspbian.](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=8438)
 
 mpthompson's[original forum
 thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?p=47787) about
-what would later become Raspian.
+what would later become Raspbian.
 
 ### Raspbian Elsewhere on the Internet
 
