@@ -16,7 +16,7 @@ Technical differences between Raspian and the Raspbery Pi Foundation's
 Debian port mean some programs will experience a very noticeable
 performance improvement on Raspian. A bigger and better explanation,
 along with a more technical details for those who want them, can be
-found on the Raspbian FAQ page.
+found on the RaspbianFAQ page.
 
 ## Who is Raspbian for?
 
@@ -42,10 +42,6 @@ The first place to look is the official [FrontPage](FrontPage).
 Mike "mpthompson" Thompson personally already. Understandably donations
 would be gratefully received to help further development.
 
-For more history, there's mpthompson (Mike Thompson)'s [posts on the
-Debian arm mailing
-list.](http://lists.debian.org/debian-arm/2012/03/threads.html#00002)
-
 ### Raspbian on the Raspberry Pi Forums
 
 [Debian Hard Float (armhf) for
@@ -63,6 +59,12 @@ And mpthompson's[original forum
 thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?p=47787) about
 what would later become Raspian.
 
+### Raspbian Elsewhere on the Internet
+
+For more history, there's mpthompson (Mike Thompson)'s [posts on the
+Debian arm mailing
+list.](http://lists.debian.org/debian-arm/2012/03/threads.html#00002)
+
 ## Where can I get it to try?
 
 After you've read the Raspbian FAQ page, head to the
@@ -71,7 +73,10 @@ available. Pisces is a good place to start\!
 
 ## Where can I get help with a Raspbian-specific issue?
 
-If you're already experienced with Debian on the Raspberry Pi (or any
-Linux on other ARM systems) then you can get Raspbian-specific help on
-the Raspbian subforum on the main Raspberry Pi forums
+The first things to check are "Have I made sure my Raspbian system is
+up-to-date?" and "Does the same issue happen on the official Debian
+"squeeze" distribution?" If you're already experienced with Debian on
+the Raspberry Pi (or any Linux on other small ARM systems) then you can
+get Raspbian-specific help on the Raspbian subforum on the main
+Raspberry Pi forums
 [here](http://www.raspberrypi.org/phpBB3/viewforum.php?f=66).
