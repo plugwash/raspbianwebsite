@@ -4,7 +4,7 @@ The following instructions were derived from instructions passed to me
 from Obsy on the \#raspbian IRC channel. These instructions document the
 steps necessary to build [XBMC](http://xmbc.org) in Raspbian. These
 steps are not optimal and need to be refined, but they do result in a
-working build of XBMC that seems to work well within Raspian.
+working build of XBMC that seems to work well within Raspbian.
 
 ### Build and Install XBMC
 
