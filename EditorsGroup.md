@@ -26,3 +26,5 @@ EditorsGroup configured as described
   - bob\_binz
 
   - jerry.tk
+
+  - [AlexandreRaymond](/AlexandreRaymond)
