@@ -5,7 +5,7 @@
 The short answer is "It's an unofficial version (‘port’) of the upcoming
 ‘wheezy’ Debian Linux that is optimised for the Raspberry Pi."
 
-Raspbery Pi Foundation's Debian port is based on the Debian “squeeze”
+Raspberry Pi Foundation's Debian port is based on the Debian “squeeze”
 distribution's "armel" port. It doesn't take advantage of some of the
 features of Raspberry Pi's processor. The new Debian “wheezy”
 distribution's "armhf" port requires features that the Raspberry Pi's
@@ -38,6 +38,14 @@ better posting them in Using the Raspberry Pi or Debian.
 
 The first place to look is the official [FrontPage](FrontPage).
 
+[RaspbianDonate](RaspbianDonate) - The project has cost about $3000 to
+Mike "mpthompson" Thompson personally already. Understandably donations
+would be gratefully received to help further development.
+
+For more history, there's mpthompson (Mike Thompson)'s [posts on the
+Debian arm mailing
+list.](http://lists.debian.org/debian-arm/2012/03/threads.html#00002)
+
 ### Raspbian on the Raspberry Pi Forums
 
 [Debian Hard Float (armhf) for
@@ -51,20 +59,19 @@ Raspbian.](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=8438)
 
 ![http://www.raspbian.org/static/applets/FCKeditor/editor/images/spacer.gif](http://www.raspbian.org/static/applets/FCKeditor/editor/images/spacer.gif
 "http://www.raspbian.org/static/applets/FCKeditor/editor/images/spacer.gif")
-
-[RaspbianDonate](RaspbianDonate) - The project has cost about $3000 to
-Mike "mpthompson" Thompson personally already. Understandably donations
-would be gratefully received to help further development.
-
-For more history, there's mpthompson (Mike Thompson)'s [posts on the
-Debian arm mailing
-list.](http://lists.debian.org/debian-arm/2012/03/threads.html#00002)
-
-And mpthompson's original forum thread about what would later become
-Raspian.
+And mpthompson's[original forum
+thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?p=47787) about
+what would later become Raspian.
 
 ## Where can I get it to try?
 
 After you've read the Raspbian FAQ page, head to the
 [RaspbianImages](RaspbianImages) page and select from one of the images
 available. Pisces is a good place to start\!
+
+## Where can I get help with a Raspbian-specific issue?
+
+If you're already experienced with Debian on the Raspberry Pi (or any
+Linux on other ARM systems) then you can get Raspbian-specific help on
+the Raspbian subforum on the main Raspberry Pi forums
+[here](http://www.raspberrypi.org/phpBB3/viewforum.php?f=66).
