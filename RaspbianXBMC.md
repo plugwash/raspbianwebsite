@@ -32,7 +32,7 @@ working build of XBMC that seems to work well within Raspbian.
     ``` 
         sudo apt-get update
         sudo apt-get upgrade
-        sudo apt-get install build-essential autoconf ccache gawk gperf mesa-utils
+        sudo apt-get install build-essential autoconf ccache gawk gperf mesa-utils zip unzip
         sudo apt-get install autotools-dev comerr-dev dpkg-dev libalsaplayer-dev \
         libapt-pkg-dev:armhf libasound2-dev:armhf libass-dev:armhf libatk1.0-dev \
         libavahi-client-dev libavahi-common-dev libavcodec-dev libavformat-dev \
