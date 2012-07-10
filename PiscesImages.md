@@ -9,12 +9,10 @@ of Raspbian and LXDE than the more minimal Hexxeh image. This image was
 created using the Debian installer so it reflects a minimal Debian
 installation with the LXDE packages added for a desktop.
 
-### Download the R2 Image
+### Download the R3 Image
 
-The 465 MB R2 image can be downloaded from this link
-[rpi\_pisces\_r2.zip](http://archive.raspbian.org/images/rpi_pisces_r2.zip)
-or
-[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_pisces_r2.zip.torrent).
+The 449 MB R3 image can be downloaded from this link
+[rpi\_pisces\_r3.zip](http://archive.raspbian.org/images/rpi_pisces_r3.zip).
 
 Once booted, log into one of the two existing accounts:
 
@@ -50,8 +48,8 @@ your SD card.
   - Xorg and LXDE included, type "startx" to launch this after logging
     in
   - Hexxeh's rpi-update is included
-  - Updated to the latest Raspberry Pi firmware and kernel as of 6th
-    June
+  - Updated to the latest Raspberry Pi firmware and kernel as of July
+    10th
 
 Some notes concerning this image:
 
@@ -97,6 +95,13 @@ Verify the system time and date are set correctly and then run the
 following command:
 
   - `rpi-update`
+
+### Older R2 Image
+
+The older 465 MB R2 image can be downloaded from this link
+[rpi\_pisces\_r2.zip](http://archive.raspbian.org/images/rpi_pisces_r2.zip)
+or
+[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_pisces_r2.zip.torrent).
 
 ### Older R1 Image
 
