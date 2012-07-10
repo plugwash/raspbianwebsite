@@ -12,7 +12,9 @@ installation with the LXDE packages added for a desktop.
 ### Download the R3 Image
 
 The 449 MB R3 image can be downloaded from this link
-[rpi\_pisces\_r3.zip](http://archive.raspbian.org/images/rpi_pisces_r3.zip).
+[rpi\_pisces\_r3.zip](http://archive.raspbian.org/images/rpi_pisces_r3.zip)
+or
+[torrent](_attachments/PiscesImages/rpi_pisces_r3.zip.torrent "torrent").
 
 Once booted, log into one of the two existing accounts:
 
