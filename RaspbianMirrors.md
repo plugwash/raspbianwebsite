@@ -19,6 +19,8 @@ repository.
 |               |                |                           |                                                                      |
 | ------------- | -------------- | ------------------------- | -------------------------------------------------------------------- |
 | **CONTINENT** | **COUNTRY**    | **MIRROR**                | **DEB/DEB-SRC ADDRESS**                                              |
+| Europe        | United Kingdom | Raspberry Pi Foundation   | <http://downloads.raspberrypi.org/raspbian/raspbian>                 |
+| Europe        | United Kingdom | University of Oxford      | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
 | Europe        | France         | Arnaud Boudou             | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
 | Europe        | France         | Sergio Conde              | <http://raspbian.sconde.net/raspbian>                                |
 | Europe        | France         | Canterbury Computers      | <http://raspbian.canterburycomputers.com/raspbian>                   |
@@ -27,8 +29,7 @@ repository.
 | Europe        | Germany        | Hexxeh                    | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
 | Europe        | Germany        | AGDSN Sektion Wundtstraße | <http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>      |
 | Europe        | Norway         | PAKS Consulting DA        | <http://mirror.raspbian.paks.no/raspbian>                            |
-| Europe        | United Kingdom | University of Oxford      | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
-| Europe        | Romania        | hxxr                      | <http://mirror.ro.mdhx.me/raspbian/raspbian/>                        |
+| Europe        | Romania        | hxxr                      | <http://mirror.ro.mdhx.me/raspbian/raspbian>                         |
 | North America | USA            | Hexxeh                    | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
 | Australia     | Australia      | AARNet                    | <http://mirror.aarnet.edu.au/pub/raspbian/raspbian>                  |
 
