@@ -201,6 +201,13 @@ geographic locations can be found [here](RaspbianMirrors).
 
 ## Can I mix packages from the Debian repositories with Raspbian?
 
+For the great majority of Raspbian users, for practical purposes the
+answer is "No". Packages from the Debian repositories cannot and should
+not be used with Raspbian. However, if you really know what you are
+doing and can deal with a file system that may no longer boot, it may be
+possible to get certain select Debian packages working with Raspbian.
+The rest of this answer deals with how that might be done.
+
 Debian armel packages use the soft float ABI which is incompatible with
 the hard float ABI used by Raspbian. In theory it should be possible to
 install Debian armel packages in parallel with Raspbian packages using
@@ -214,7 +221,7 @@ Debian armhf packages should be compatible with raspbian packages but a
 system with such a mixture WILL NOT RUN ON THE PI. Furthermore there may
 be corner cases where libraries build slightly differently on Raspbian.
 Such mixed systems can be useful for development (they were used heavily
-in the process of creating raspbian) but are not reccomended for general
+in the process of creating Raspbian) but are not recommended for general
 use.
 
 Architecture independent ("arch all") packages are compatible between
