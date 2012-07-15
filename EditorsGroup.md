@@ -5,6 +5,8 @@ EditorsGroup configured as described
 
   - [PlugWash](/PlugWash)
 
+  - Paul
+
   - mdewey
 
   - [WillDerrick](/WillDerrick)
