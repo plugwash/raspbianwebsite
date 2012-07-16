@@ -71,15 +71,12 @@ Although Raspbian is free software, the development costs associated
 with it are not free. As a user of Raspbian, you can support ongoing
 development of Raspbian by making a [donation today](RaspbianDonate).
 
-## How to use this site
+## Adding Content To This Site
 
-This Wiki is a collaborative site and everyone is encouraged to
+This Wiki is a collaborative effort and everyone is encouraged to
 contribute and share. Unfortunately, Wikis of this type are also a
-magnet for spammers. If you would like to add or edit content on this
-site, please register your name and password. Then leave a message in
-the [Forum
-Discussion](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=9&t=4256)
-and we'll add your name to the list of editors.
-
-See [HelpForBeginners](/HelpForBeginners) to get you going,
-[HelpContents](/HelpContents) for all help pages.
+magnet for spammers and editing content is not open to the Internet at
+large. If you would like to edit content on this site, please register
+your name and password. Then send the name you registered with in an
+email to *mpthompson(at)raspbian(dot)org* and we'll add your name to the
+list of editors that can add and change the content of this Wiki.
