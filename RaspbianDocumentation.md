@@ -14,6 +14,9 @@ manner.
   - [How To Build a Debian
     Packages](http://forums.debian.net/viewtopic.php?f=16&t=38976)
 
+  - [Building Raspbian Packages on a PC with
+    QEMU](http://superpiadventures.wordpress.com/2012/07/16/development-environment/)
+
   - [Resize Partitions on an Image File](http://sirlagz.net/?p=487)
 
   - [Raspberry Pi Kernel Mailing
