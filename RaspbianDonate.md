@@ -20,27 +20,10 @@ Donations can range in between just a few dollars and several hundred
 dollars. The important thing is for users of Raspbian to give something
 and to encourage other users of Raspbian to give something.
 
-## Donate in US Dollars
+### Donate in US Dollars
 
-  - 
-<!-- end list -->
+### Donate in British Pounds
 
-  - 
-  
+### Donate in Euros
 
-## Donate in British Pounds
-
-  - 
-<!-- end list -->
-
-  - 
-  
-
-## Donate in Euros
-
-![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
-
-  - 
-<!-- end list -->
-
-  -
+      ![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
