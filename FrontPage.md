@@ -24,47 +24,46 @@ Raspbian was created by a small, dedicated team of developers that are
 fans of the Raspberry Pi hardware, the educational goals of the
 Raspberry Pi Foundation and, of course, the Debian Project.
 
-## About
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><h2 id="About">About</h2></td>
+<td><h2 id="Download">Download</h2></td>
+<td><h2 id="Community">Community</h2></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li><strong><a href="RaspbianAbout">About</a></strong></li>
+<li><strong><a href="/RaspbianGetInvolved">Get Involved</a></strong></li>
+<li><strong><a href="RaspbianFAQ">FAQ</a></strong></li>
+<li><strong><a href="RaspbianDonate">Donate</a></strong></li>
+<li><strong><a href="/RaspbianTeams">Teams</a></strong></li>
+<li><strong><a href="RaspbianBuilders">Builders</a></strong></li>
+</ul></td>
+<td><ul>
+<li><strong><a href="RaspbianAbout">About</a></strong></li>
+<li><strong><a href="/RaspbianGetInvolved">Get Involved</a></strong></li>
+<li><strong><a href="RaspbianFAQ">FAQ</a></strong></li>
+<li><strong><a href="RaspbianDonate">Donate</a></strong></li>
+<li><strong><a href="/RaspbianTeams">Teams</a></strong></li>
+<li><strong><a href="RaspbianBuilders">Builders</a></strong></li>
+</ul></td>
+<td><ul>
+<li><strong><a href="/RaspbianBlog">Blog</a></strong></li>
+<li><strong><a href="RaspbianForums">Forums</a></strong></li>
+<li><strong><a href="RaspbianBugs">Bugs</a></strong></li>
+<li><strong><a href="RaspbianIRC">IRC</a></strong></li>
+<li><strong><a href="RaspbianELinux">eLinux</a></strong></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
-  - **[About](RaspbianAbout)**
-
-  - **[Get Involved](/RaspbianGetInvolved)**
-
-  - **[FAQ](RaspbianFAQ)**
-
-  - **[Donate](RaspbianDonate)**
-
-  - **[Teams](/RaspbianTeams)**
-
-  - **[Builders](RaspbianBuilders)**
-
-## Download
-
-  - **[Images](RaspbianImages)**
-
-  - **[Installer](RaspbianInstaller)**
-
-  - **[Repository](RaspbianRepository)**
-
-  - **[Mirrors](RaspbianMirrors)**
-
-  - **[Documentation](RaspbianDocumentation)**
-
-## Community
-
-  - **[Blog](/RaspbianBlog)**
-
-  - **[Forums](RaspbianForums)**
-
-  - **[Bugs](RaspbianBugs)**
-
-  - **[IRC](RaspbianIRC)**
-
-  - **[eLinux](RaspbianELinux)**
-
-  
-
-  - 
 ## Support Raspbian
 
 Raspbian is a community funded and supported free software effort.
