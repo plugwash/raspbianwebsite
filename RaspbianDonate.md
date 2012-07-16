@@ -22,25 +22,8 @@ and to encourage other users of Raspbian to give something.
 
 ## Donate in US Dollars
 
-  - 
-<!-- end list -->
-
-  - 
-  
-
 ## Donate in British Pounds
-
-  - 
-<!-- end list -->
-
-  - 
-  
 
 ## Donate in Euros
 
 ![](https://www.paypalobjects.com/en_US/i/scr/pixel.gif)
-
-  - 
-<!-- end list -->
-
-  -
