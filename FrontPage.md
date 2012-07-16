@@ -1,20 +1,28 @@
 # Welcome to Raspbian
 
-Raspbian is a free operating system based on Debian for the Raspberry
-Pi. An operating system is the set of basic programs and utilities that
-make your Raspberry Pi run.
+Raspbian is a free operating system based on Debian optimized for the
+Raspberry Pi hardware. An operating system is the set of basic programs
+and utilities that make your Raspberry Pi run.
 
-Raspbian provides more than a pure OS: it comes with over 34,000
+Raspbian provides more than a pure OS: it comes with over 35,000
 packages, pre-compiled software bundled in a nice format for easy
 installation on your Raspberry Pi.
 
-Raspbian is still under development. The initial build of all Debian
-packages, optimized for best performance on the Raspberry Pi, is
-anticipated to be complete by early June. However, for those eager to
-try Raspbian, early [community supported images](RaspbianImages) that
-can be run on the Raspberry Pi are available for download. Most packages
-are already built and a minimal, but functional, Raspbian system with a
-GUI can be run.
+The initial build of over 35,0000 packages, optimized for best
+performance on the Raspberry Pi, was completed in June. However,
+Raspbian is still under active development with an emphasis on improving
+the stability and performance of as many Debian packages as possible.
+For those eager to try Raspbian, early [community supported
+images](RaspbianImages) that can be run on the Raspberry Pi are
+available for download. On Tuesday, July 17th, it is anticipated that
+the Raspberry Pi Foundation will release their own image based on
+Raspbian. More details will follow once the image is officially
+announced on the [Raspberry Pi Website](http://www.raspberrypi.org/).
+
+**Note:** Raspbian is not affiliated with the Raspberry Pi Foundation.
+Raspbian was created by a small, dedicated team of developers that are
+fans of the Raspberry Pi hardware, the educational goals of the
+Raspberry Pi Foundation and, of course, the Debian Project.
 
 ## About
 
