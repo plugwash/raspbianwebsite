@@ -42,7 +42,7 @@ Raspberry Pi Foundation and, of course, the Debian Project.
 <li><strong><a href="/RaspbianGetInvolved">Get Involved</a></strong></li>
 <li><strong><a href="RaspbianFAQ">FAQ</a></strong></li>
 <li><strong><a href="RaspbianDonate">Donate</a></strong></li>
-<li><strong><a href="/RaspbianTeams">Teams</a></strong></li>
+<li><strong><a href="RaspbianTeam">Team</a></strong></li>
 <li><strong><a href="RaspbianBuilders">Builders</a></strong></li>
 </ul></td>
 <td><ul>
