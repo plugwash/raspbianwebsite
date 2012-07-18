@@ -2,22 +2,22 @@
 
 Raspbian is a free operating system based on Debian optimized for the
 Raspberry Pi hardware. An operating system is the set of basic programs
-and utilities that make your Raspberry Pi run.
+and utilities that make your Raspberry Pi run. However, Raspbian
+provides more than a pure OS: it comes with over 35,000 packages,
+pre-compiled software bundled in a nice format for easy installation on
+your Raspberry Pi.
 
-Raspbian provides more than a pure OS: it comes with over 35,000
-packages, pre-compiled software bundled in a nice format for easy
-installation on your Raspberry Pi.
-
-The initial build of over 35,0000 packages, optimized for best
-performance on the Raspberry Pi, was completed in June. However,
+The initial build of over 35,0000 Raspbian packages, optimized for best
+performance on the Raspberry Pi, was completed in June of 2012. However,
 Raspbian is still under active development with an emphasis on improving
 the stability and performance of as many Debian packages as possible.
-For those eager to try Raspbian, early [community supported
-images](RaspbianImages) that can be run on the Raspberry Pi are
-available for download. On Tuesday, July 17th, it is anticipated that
-the Raspberry Pi Foundation will release their own image based on
-Raspbian. More details will follow once the image is officially
-announced on the [Raspberry Pi Website](http://www.raspberrypi.org/).
+
+# Big News\! Official Raspbian Image Released
+
+The [Raspberry Pi Foundation](http://www.raspberrypi.org/) has produced
+and released their own recommended image of Raspbian. This image can be
+downloaded directly from the [Raspberry Pi Website Downloads
+Page](http://www.raspberrypi.org/downloads).
 
 **Note:** Raspbian is not affiliated with the Raspberry Pi Foundation.
 Raspbian was created by a small, dedicated team of developers that are
