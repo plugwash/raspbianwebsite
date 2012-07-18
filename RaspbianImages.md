@@ -7,10 +7,12 @@ user to get started with Raspbian.
 
 ### Official Raspbian Images
 
-No official images of Raspbian are currently available. It is hoped that
-the first official images of Raspbian will be available soon after all
-the initial packages are built. This should occur sometime in early
-June.
+The [Raspberry Pi Foundation](http://www.raspberrypi.org/) has produced
+and released their own recommended image of Raspbian. Because this image
+and subsequent updates will be used by 100,000's of Raspberry Pi users,
+it should be considered the "Official Raspbian Image". This image can be
+downloaded directly from the [Raspberry Pi Website Downloads
+Page](http://www.raspberrypi.org/downloads).
 
 ### Unofficial Raspbian Images
 
