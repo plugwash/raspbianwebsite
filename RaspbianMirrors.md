@@ -22,6 +22,7 @@ repository.
 | **CONTINENT** | **COUNTRY**    | **MIRROR**                | **DEB/DEB-SRC ADDRESS**                                              |
 | Europe        | United Kingdom | Raspberry Pi Foundation   | <http://downloads.raspberrypi.org/raspbian/raspbian>                 |
 | Europe        | United Kingdom | University of Oxford      | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
+| Europe        | United Kingdom | Mythic Beasts             | <http://raspberrypi.mythic-beasts.com/raspbian/raspbian>             |
 | Europe        | France         | Arnaud Boudou             | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
 | Europe        | France         | Sergio Conde              | <http://raspbian.sconde.net/raspbian>                                |
 | Europe        | France         | Canterbury Computers      | <http://raspbian.canterburycomputers.com/raspbian>                   |
