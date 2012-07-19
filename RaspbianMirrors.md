@@ -32,7 +32,8 @@ repository.
 | Europe        | Germany        | AGDSN Sektion Wundtstraße | <http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>      |
 | Europe        | Norway         | PAKS Consulting DA        | <http://mirror.raspbian.paks.no/raspbian>                            |
 | Europe        | Romania        | hxxr                      | <http://mirror.ro.mdhx.me/raspbian/raspbian>                         |
-| North America | USA            | Hexxeh                    | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
+| North America | United States  | Hexxeh                    | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
+| North America | United States  | the808.net                | <http://raspbian.the808.net/raspbian>                                |
 | Australia     | Australia      | AARNet                    | <http://mirror.aarnet.edu.au/pub/raspbian/raspbian>                  |
 
 <span class="comment" style="display:none">Mirror contacts are
