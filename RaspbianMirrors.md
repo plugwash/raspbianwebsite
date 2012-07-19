@@ -3,8 +3,9 @@
 ### Mirroring the Raspbian Repository
 
 Use rsync with *archive.raspbian.org::archive* at a frequency of at
-least twice a day and contact me by email at mpthompson AT gmail DOT com
-to tell me about your mirror to be included in the list below.
+least twice a day and contact me by email at
+*mpthompson(at)raspbian(dot)org* to tell me about your mirror to be
+included in the list below.
 
 Currently, the repository is about 70GB in size and will likely grow to
 at least 80GB in size when all the binary packages have been built.
