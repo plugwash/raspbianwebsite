@@ -14,6 +14,9 @@ manner.
   - [How To Build a Debian
     Packages](http://forums.debian.net/viewtopic.php?f=16&t=38976)
 
+  - [Distcc Cross compiling for
+    Raspbian](http://pastebin.com/raw.php?i=YrtntGtU)
+
   - [Building Raspbian Packages on a PC with
     QEMU](http://superpiadventures.com/2012/07/development-environment/)
 
