@@ -356,5 +356,5 @@ advanced installer menu (Shift+F5), run shell and mount FAT32 partition:
 `mount -t vfat /dev/mmcblk0p1 /mnt  `Leave shell and save installer logs
 to /mnt directory.
 
-If installer finishes successfully, log are stored to
+If installer finishes successfully, logs are stored to
 /var/log/installer.
