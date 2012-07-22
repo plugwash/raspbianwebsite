@@ -32,6 +32,7 @@ repository.
 | Europe        | Germany        | AGDSN Sektion Wundtstraße               | <http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>      |
 | Europe        | Germany        | Leaseweb                                | <http://mirror.de.leaseweb.net/raspbian/raspbian>                    |
 | Europe        | Netherlands    | Leaseweb                                | <http://mirror.nl.leaseweb.net/raspbian/raspbian>                    |
+| Europe        | Netherlands    | Rory Slegtenhorst                       | <http://raspberry.coolview.nl/raspbian/raspbian>                     |
 | Europe        | Norway         | PAKS Consulting DA                      | <http://mirror.raspbian.paks.no/raspbian>                            |
 | Europe        | Romania        | hxxr                                    | <http://mirror.ro.mdhx.me/raspbian/raspbian>                         |
 | North America | United States  | Hexxeh                                  | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
