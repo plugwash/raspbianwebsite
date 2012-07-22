@@ -38,6 +38,7 @@ Contents
     1.  [How do I mount a directory from a Windows server? Where's
         smbmount and
         smbfs?](#How_do_I_mount_a_directory_from_a_Windows_server.3F__Where.27s_smbmount_and_smbfs.3F)
+    2.  [How do I enable or use IPv6?](#How_do_I_enable_or_use_IPv6.3F)
 
 ## I'm new to Raspberry Pi and Raspbian. What should I know?
 
@@ -288,3 +289,9 @@ Raspbian) by *cifs*. The utility *mount.cifs* is in the package
 
 Also, the kernel you are using must be built to support mounting
 SMB/CIFS volumes.
+
+## How do I enable or use IPv6?
+
+Easy. *sudo modprobe ipv6* will enable it immediately. If you want it to
+automatically be enabled at boot, just add *ipv6* to
+*/etc/modules.conf*.
