@@ -345,3 +345,7 @@ directory mount at boot. I added a line to the end of /etc/fstab:
 
 The rsize and wsize entries are not strictly necessary but I find they
 give me some extra speed.
+
+There are ways you can refer to your server by name instead of by its IP
+address like we did above. Have a look at /etc/hosts for a starting
+point. The rest is left as an exercise for the reader.
