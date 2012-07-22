@@ -39,6 +39,9 @@ Contents
         smbmount and
         smbfs?](#How_do_I_mount_a_directory_from_a_Windows_server.3F__Where.27s_smbmount_and_smbfs.3F)
     2.  [How do I enable or use IPv6?](#How_do_I_enable_or_use_IPv6.3F)
+    3.  [How do I mount directories from other Linux/Unix/BSD servers?
+        How do I mount an NFS
+        share?](#How_do_I_mount_directories_from_other_Linux.2FUnix.2FBSD_servers.3F__How_do_I_mount_an_NFS_share.3F)
 
 ## I'm new to Raspberry Pi and Raspbian. What should I know?
 
@@ -295,3 +298,50 @@ SMB/CIFS volumes.
 Easy. *sudo modprobe ipv6* will enable it immediately. If you want it to
 automatically be enabled at boot, just add *ipv6* on a line by itself at
 the end of */etc/modules.conf*.
+
+## How do I mount directories from other Linux/Unix/BSD servers? How do I mount an NFS share?
+
+First, you need a server that can use the Network File System (NFS).
+Let's assume you have a server named adelaide at 192.168.222.34 and it
+has a share called public that you want to mount at /public on your Pi.
+
+First, install the necessary packages:
+
+*aptitude install nfs-common portmap*
+
+(nfs-common may already be installed, but this will ensure that it
+installs if it isn't already)
+
+On the current version of Raspbian, rpcbind (part of the portmap
+package) does not start by default. This is presumably done to control
+memory consumption on our small systems. However, it isn't very big and
+we need it to make an NFS mount. To enable it manually, so we can mount
+our directory immediately:
+
+*service rpcbind start*
+
+To make rpcbind start automatically at boot:
+
+*update-rc.d rpcbind enable*
+
+Now, let's mount our share:
+
+Make a directory for your mount. I want mine at /public, so:
+
+mkdir /public
+
+Mount manually to test (remember, my server is adelaide at
+192.168.222.34 and the share is *public*):
+
+mount -t nfs 192.168.222.34:/public /public
+
+  - (my server share path) (where I want it mounted locally)
+
+Now, to make it permanent, you need to edit /etc/fstab to make the
+directory mount at boot. I added a line to the end of /etc/fstab:
+
+192.168.222.34:/public /public nfs rsize=8192,wsize=8192,timeo=14,intr 0
+0
+
+The rsize and wsize entries are not strictly necessary but I find they
+give me some extra speed.
