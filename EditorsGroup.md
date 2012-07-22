@@ -5,6 +5,8 @@ EditorsGroup configured as described
 
   - [PlugWash](/PlugWash)
 
+  - [PhotoJim](PhotoJim)
+
   - pmackinney
 
   - [AdrianMoisey](/AdrianMoisey)
