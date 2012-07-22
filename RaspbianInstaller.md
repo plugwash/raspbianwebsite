@@ -39,9 +39,10 @@ The installer is a "network" installer. This means installer requires
 ethernet network connectivity to the Internet. When the installer first
 starts the DHCP server on the local LAN will be queried to provide an IP
 address, default route and name server required for network
-connectivity. For best results please select Raspbian mirror
-geographically closest to you. See [full Raspbian mirror
-list](RaspbianMirrors).
+connectivity. For best results please use mirror hostname
+**mirrordirector.raspbian.org**, mirror directory **/raspbian** or
+select Raspbian mirror geographically closest to you. See [full Raspbian
+mirror list](RaspbianMirrors).
 
 -----
 
@@ -189,7 +190,10 @@ MMC/SD card \#1 (mmcblk0) - 3.9 GB SD SA04G
   - \#2 primary 255.9 MB f swap swap
   - \#3 primary 3.6 GB f ext3 /
 
-*Note: the details above will vary by the specifics of your SD card.*
+*Note: the details above will vary by the specifics of your SD card. If
+you do not use automatic partitioning please keep in mind that
+<span class="u">FAT32 boot partition has to be mounted as
+/rpiboot</span>.*
 
 **\<Finish partitioning and write changes to disk\>**
 
@@ -335,3 +339,19 @@ after installation automatically. Any other partitions can be placed to
 external drive. Remember the name of the root partition block device,
 you will need to edit cmdline.txt kernel options to point rootfs to this
 device after installation.
+
+-----
+
+## Troubleshooting
+
+If anything goes wrong during installation, there are several ways to
+learn what is the problem. You can switch to another console by pressing
+Alt+F2 or Alt+F3. Current installation log is available at Alt+F4.
+Anytime installer waits for user input or keypress, you can also press
+Shift+F5. This will bring you to advanced installer menu.
+
+When installer fails to install Raspbian and displays an error message,
+it is possible to save installation log for later examination. Go to
+advanced installer menu (Shift+F5), run shell and mount FAT32 partition:
+`mount -t vfat /dev/mmcblk0p1 /mnt  `Leave shell and save installer logs
+to /mnt directory.
