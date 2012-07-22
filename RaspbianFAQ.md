@@ -293,5 +293,5 @@ SMB/CIFS volumes.
 ## How do I enable or use IPv6?
 
 Easy. *sudo modprobe ipv6* will enable it immediately. If you want it to
-automatically be enabled at boot, just add *ipv6* to
-*/etc/modules.conf*.
+automatically be enabled at boot, just add *ipv6* on a line by itself at
+the end of */etc/modules.conf*.
