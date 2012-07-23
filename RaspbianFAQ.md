@@ -42,6 +42,8 @@ Contents
     3.  [How do I mount directories from other Linux/Unix/BSD servers?
         How do I mount an NFS
         share?](#How_do_I_mount_directories_from_other_Linux.2FUnix.2FBSD_servers.3F__How_do_I_mount_an_NFS_share.3F)
+    4.  [How do I make a proper root
+        account?](#How_do_I_make_a_proper_root_account.3F)
 
 ## I'm new to Raspberry Pi and Raspbian. What should I know?
 
@@ -305,9 +307,10 @@ First, you need a server that can use the Network File System (NFS).
 Let's assume you have a server named adelaide at 192.168.222.34 and it
 has a share called public that you want to mount at /public on your Pi.
 
-First, install the necessary packages:
+First, install the necessary packages. I use aptitude, but you can use
+apt-get instead if you prefer; just put apt-get where you see aptitude:
 
-*aptitude install nfs-common portmap*
+*sudo aptitude install nfs-common portmap*
 
 (nfs-common may already be installed, but this will ensure that it
 installs if it isn't already)
@@ -318,11 +321,11 @@ memory consumption on our small systems. However, it isn't very big and
 we need it to make an NFS mount. To enable it manually, so we can mount
 our directory immediately:
 
-*service rpcbind start*
+*sudo service rpcbind start*
 
 To make rpcbind start automatically at boot:
 
-*update-rc.d rpcbind enable*
+*sudo update-rc.d rpcbind enable*
 
 Now, let's mount our share:
 
@@ -349,3 +352,36 @@ give me some extra speed.
 There are ways you can refer to your server by name instead of by its IP
 address like we did above. Have a look at /etc/hosts for a starting
 point. The rest is left as an exercise for the reader.
+
+## How do I make a proper root account?
+
+Don't do this unless you're certain that you want and need a true root
+account. *sudo* will take care of root tasks for you nicely in almost
+all cases.
+
+However, if you do want a root account so you can log in as root or su
+to a root account, just type:
+
+*sudo passwd*
+
+This will let you enter a password for the root account. Be careful to
+make it a secure one\!
+
+One other modification you should do, if you enable a root account, is
+to forbid root logins via ssh for security reasons. You can log in using
+a normal user account instead (such as *pi*), and use the su command to
+become root. To do this:
+
+*cd /etc/ssh* *sudo nano sshd\_config* (you can do this as root too of
+course; just don't type *sudo* in front of the command)
+
+Find the line:
+
+*[PermitRootLogin](/PermitRootLogin) yes*
+
+Change *yes* to *no*. (If yours already says *no* then there is nothing
+to do.)
+
+Save the config file, and to make it take effect:
+
+*sudo service ssh restart*
