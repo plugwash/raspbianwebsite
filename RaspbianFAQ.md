@@ -372,8 +372,10 @@ to forbid root logins via ssh for security reasons. You can log in using
 a normal user account instead (such as *pi*), and use the su command to
 become root. To do this:
 
-*cd /etc/ssh* *sudo nano sshd\_config* (you can do this as root too of
-course; just don't type *sudo* in front of the command)
+*cd /etc/ssh*
+
+*sudo nano sshd\_config* (you can do this as root too of course; just
+don't type *sudo* in front of the command)
 
 Find the line:
 
