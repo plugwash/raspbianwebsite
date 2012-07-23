@@ -76,6 +76,10 @@ Some notes concerning this image:
         
         `dpkg-reconfigure keyboard-configuration`
 
+  - Configure Exim
+    
+      - `dpkg-reconfigure exim4-config`
+
   - Install the Midori web browser:
     
       - `apt-get install midori`
