@@ -17,3 +17,16 @@ fifth, tenth, ..., new poster.
 
 By 2012/06/20 on page 23 of the original thread there had been 575 posts
 from 89 unique authors. The median number of posts per author was 2.
+
+Table \\ref{events} shows some key events recorded in the thread. These
+are my personal view of what was important plus all the pictures. The
+notes are rather cryptic. The dates quoted are what I see when I view
+the forum from my time zone (currently UTC +1) but YMMV.
+
+\== To do ===
+
+Add events from other threads.
+
+Update when the next page of the thread is completed.
+
+Make description of events less cryptic.
