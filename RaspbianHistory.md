@@ -10,7 +10,7 @@ progress.
 
 ## Progress of the repository
 
-repos.pdf
+repository progress
 
 Figure \\ref{repos} shows a plot of the ratio of packages built in the
 repository to the total in the Debian Wheezy repository. The ticks along
