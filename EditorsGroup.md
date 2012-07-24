@@ -5,6 +5,8 @@ EditorsGroup configured as described
 
   - [PlugWash](/PlugWash)
 
+  - [PhilEntwisle](/PhilEntwisle)
+
   - Jmg123
 
   - [PhotoJim](PhotoJim)
