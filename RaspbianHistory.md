@@ -10,7 +10,7 @@ progress.
 
 ## Progress of the repository
 
-![repository progress](_attachments/RaspbianHistory/repos.png
+![repository progress](_attachments/RaspbianHistory/repos2.png
 "repository progress")
 
 Figure shows a plot of the ratio of packages built in the repository to
