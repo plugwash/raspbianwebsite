@@ -10,6 +10,8 @@ progress.
 
 ## Progress of the repository
 
+repos.pdf
+
 Figure \\ref{repos} shows a plot of the ratio of packages built in the
 repository to the total in the Debian Wheezy repository. The ticks along
 the x-axis mark the date of the first post and then the arrival of the
