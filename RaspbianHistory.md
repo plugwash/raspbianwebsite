@@ -10,12 +10,13 @@ progress.
 
 ## Progress of the repository
 
-repository progress
+![repository progress](_attachments/RaspbianHistory/repos.png
+"repository progress")
 
-Figure \\ref{repos} shows a plot of the ratio of packages built in the
-repository to the total in the Debian Wheezy repository. The ticks along
-the x-axis mark the date of the first post and then the arrival of the
-fifth, tenth, ..., new poster.
+Figure shows a plot of the ratio of packages built in the repository to
+the total in the Debian Wheezy repository. The ticks along the x-axis
+mark the date of the first post and then the arrival of the fifth,
+tenth, ..., new poster.
 
 By 2012/06/20 on page 23 of the original thread there had been 575 posts
 from 89 unique authors. The median number of posts per author was 2.
