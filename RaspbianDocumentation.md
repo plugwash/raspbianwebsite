@@ -31,6 +31,9 @@ manner.
   - [Linux Force fsck on the Next Reboot or Boot
     Sequence](http://www.cyberciti.biz/faq/linux-force-fsck-on-the-next-reboot-or-boot-sequence/)
 
+  - [Optimizing Raspbian for Reduced Memory
+    Use](http://extremeshok.com/blog/debian/raspberry-pi-raspbian-tuning-optimising-optimizing-for-reduced-memory-usage/)
+
 ## X and GUI
 
   - [Running MATE (Gnome 2) in Raspbian](RaspbianMate)
