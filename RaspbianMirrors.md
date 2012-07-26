@@ -4,29 +4,30 @@
 
   - 
 
-|               |                |                                         |                                                                      |
-| ------------- | -------------- | --------------------------------------- | -------------------------------------------------------------------- |
-| **CONTINENT** | **COUNTRY**    | **MIRROR**                              | **DEB/DEB-SRC ADDRESS**                                              |
-| Europe        | United Kingdom | Raspberry Pi Foundation                 | <http://downloads.raspberrypi.org/raspbian/raspbian>                 |
-| Europe        | United Kingdom | University of Oxford                    | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
-| Europe        | United Kingdom | Mythic Beasts                           | <http://raspberrypi.mythic-beasts.com/raspbian/raspbian>             |
-| Europe        | France         | Arnaud Boudou                           | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
-| Europe        | France         | Sergio Conde                            | <http://raspbian.sconde.net/raspbian>                                |
-| Europe        | France         | Canterbury Computers                    | <http://raspbian.canterburycomputers.com/raspbian>                   |
-| Europe        | France         | hxxr                                    | <http://mirror.fr.mdhx.me/raspbian/raspbian>                         |
-| Europe        | Germany        | Repvik                                  | <http://raspbian.lag.re/raspbian>                                    |
-| Europe        | Germany        | Hexxeh                                  | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
-| Europe        | Germany        | AGDSN Sektion Wundtstraße               | <http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>      |
-| Europe        | Germany        | Leaseweb                                | <http://mirror.de.leaseweb.net/raspbian/raspbian>                    |
-| Europe        | Netherlands    | Leaseweb                                | <http://mirror.nl.leaseweb.net/raspbian/raspbian>                    |
-| Europe        | Netherlands    | Rory Slegtenhorst                       | <http://raspberry.coolview.nl/raspbian/raspbian>                     |
-| Europe        | Norway         | PAKS Consulting DA                      | <http://mirror.raspbian.paks.no/raspbian>                            |
-| Europe        | Romania        | hxxr                                    | <http://mirror.ro.mdhx.me/raspbian/raspbian>                         |
-| North America | United States  | Hexxeh                                  | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
-| North America | United States  | the808.net                              | <http://raspbian.the808.net/raspbian>                                |
-| North America | United States  | Leaseweb                                | <http://mirror.us.leaseweb.net/raspbian/raspbian>                    |
-| Australia     | Australia      | AARNet                                  | <http://mirror.aarnet.edu.au/pub/raspbian/raspbian>                  |
-| Asia          | Singapore      | NUS - School of Computing - Sig`  `Labs | <http://mirror.nus.edu.sg/raspbian/raspbian>                         |
+|               |                 |                                     |                                                                      |
+| ------------- | --------------- | ----------------------------------- | -------------------------------------------------------------------- |
+| **CONTINENT** | **COUNTRY**     | **MIRROR**                          | **DEB/DEB-SRC ADDRESS**                                              |
+| Europe        | United Kingdom  | Raspberry Pi Foundation             | <http://downloads.raspberrypi.org/raspbian/raspbian>                 |
+| Europe        | United Kingdom  | University of Oxford                | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
+| Europe        | United Kingdom  | Mythic Beasts                       | <http://raspberrypi.mythic-beasts.com/raspbian/raspbian>             |
+| Europe        | France          | Arnaud Boudou                       | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
+| Europe        | France          | Sergio Conde                        | <http://raspbian.sconde.net/raspbian>                                |
+| Europe        | France          | Canterbury Computers                | <http://raspbian.canterburycomputers.com/raspbian>                   |
+| Europe        | France          | hxxr                                | <http://mirror.fr.mdhx.me/raspbian/raspbian>                         |
+| Europe        | Germany         | Repvik                              | <http://raspbian.lag.re/raspbian>                                    |
+| Europe        | Germany         | Hexxeh                              | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
+| Europe        | Germany         | AGDSN Sektion Wundtstraße           | <http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>      |
+| Europe        | Germany         | Leaseweb                            | <http://mirror.de.leaseweb.net/raspbian/raspbian>                    |
+| Europe        | The Netherlands | Leaseweb                            | <http://mirror.nl.leaseweb.net/raspbian/raspbian>                    |
+| Europe        | The Netherlands | Rory Slegtenhorst                   | <http://raspberry.coolview.nl/raspbian/raspbian>                     |
+| Europe        | The Netherlands | TechNL                              | <http://raspbian.mirror.technl.net/raspbian>                         |
+| Europe        | Norway          | PAKS Consulting DA                  | <http://mirror.raspbian.paks.no/raspbian>                            |
+| Europe        | Romania         | hxxr                                | <http://mirror.ro.mdhx.me/raspbian/raspbian>                         |
+| North America | United States   | Hexxeh                              | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
+| North America | United States   | the808.net                          | <http://raspbian.the808.net/raspbian>                                |
+| North America | United States   | Leaseweb                            | <http://mirror.us.leaseweb.net/raspbian/raspbian>                    |
+| Australia     | Australia       | AARNet                              | <http://mirror.aarnet.edu.au/pub/raspbian/raspbian>                  |
+| Asia          | Singapore       | NUS-School of Computing-Sig`  `Labs | <http://mirror.nus.edu.sg/raspbian/raspbian>                         |
 
 ### Mirroring the Raspbian Repository
 
