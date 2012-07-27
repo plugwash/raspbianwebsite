@@ -1,5 +1,12 @@
 # Bootable Raspbian Images by Hexxeh
 
+**Please Note:** The Raspberry Pi Foundation has produced and released
+their own recommended image of Raspbian. All users are encouraged to
+download the Foundation image as it is the best supported image within
+the Raspberry Pi Forums. This "official" Raspbian image can be
+downloaded directly from the [Raspberry Pi Website Downloads
+Page](http://www.raspberrypi.org/downloads).
+
 [Hexxeh](http://hexxeh.net/) has produced a publicly available SD image
 of Raspbian that is bootable on Raspberry Pi hardware.
 
