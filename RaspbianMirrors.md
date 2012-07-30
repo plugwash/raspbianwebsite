@@ -14,6 +14,7 @@
 | Europe        | France          | Sergio Conde                        | <http://raspbian.sconde.net/raspbian>                                |
 | Europe        | France          | Canterbury Computers                | <http://raspbian.canterburycomputers.com/raspbian>                   |
 | Europe        | France          | hxxr                                | <http://mirror.fr.mdhx.me/raspbian/raspbian>                         |
+| Europe        | France          | Daupheus.com                        | <http://raspbian.daupheus.com/raspbian>                              |
 | Europe        | Germany         | Repvik                              | <http://raspbian.lag.re/raspbian>                                    |
 | Europe        | Germany         | Hexxeh                              | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
 | Europe        | Germany         | AGDSN Sektion Wundtstraße           | <http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>      |
