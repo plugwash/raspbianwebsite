@@ -23,6 +23,7 @@
 | Europe        | The Netherlands | TechNL                              | <http://raspbian.mirror.technl.net/raspbian>                         |
 | Europe        | Norway          | PAKS Consulting DA                  | <http://mirror.raspbian.paks.no/raspbian>                            |
 | Europe        | Romania         | hxxr                                | <http://mirror.ro.mdhx.me/raspbian/raspbian>                         |
+| Europe        | Switzerland     | Benjamin Schlageter                 | <http://raspbian.kilrathy.net/raspbian>                              |
 | North America | United States   | Hexxeh                              | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
 | North America | United States   | the808.net                          | <http://raspbian.the808.net/raspbian>                                |
 | North America | United States   | Leaseweb                            | <http://mirror.us.leaseweb.net/raspbian/raspbian>                    |
