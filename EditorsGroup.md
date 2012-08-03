@@ -5,6 +5,8 @@ EditorsGroup configured as described
 
   - [PlugWash](/PlugWash)
 
+  - [DrVigg](DrVigg)
+
   - [PhilEntwisle](/PhilEntwisle)
 
   - Jmg123
