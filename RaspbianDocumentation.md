@@ -34,14 +34,14 @@ manner.
   - [Optimizing Raspbian for Reduced Memory
     Use](http://extremeshok.com/blog/debian/raspberry-pi-raspbian-tuning-optimising-optimizing-for-reduced-memory-usage/)
 
-  - [XBMC packages for Raspberry Pi running
-    Raspbian](http://michael.gorven.za.net/blog/2012/08/06/xbmc-packages-raspberry-pi-running-raspbian)
-
 ## X and GUI
 
   - [Running MATE (Gnome 2) in Raspbian](RaspbianMate)
 
 ## Multimedia & Games
+
+  - [XBMC packages for Raspberry Pi running
+    Raspbian](http://michael.gorven.za.net/blog/2012/08/06/xbmc-packages-raspberry-pi-running-raspbian)
 
   - [OMXPlayer builds for Raspbian](http://omxplayer.sconde.net/)
 
