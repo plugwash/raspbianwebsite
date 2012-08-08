@@ -5,6 +5,8 @@ EditorsGroup configured as described
 
   - [PlugWash](/PlugWash)
 
+  - Pioneer
+
   - [DrVigg](DrVigg)
 
   - [PhilEntwisle](/PhilEntwisle)
