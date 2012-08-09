@@ -29,6 +29,19 @@ from this link:
 Please remember to perform *rpi-update* after the installation to
 install Raspberry Pi specific libraries and firmware.
 
+### Preinstalled SD Cards
+
+Looking for a simple way to get your Raspberry Pi up and running?
+[TrendingUK](http://www.trendinguk.co.uk/) offer Sandisk SD SDHC cards
+with the latest official Raspbian image preinstalled, ready to be
+plugged into your Raspberry Pi. Available in
+[4GB](http://www.trendinguk.co.uk/4gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html/),
+[8GB](http://www.trendinguk.co.uk/8gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html),
+[16GB](http://www.trendinguk.co.uk/16gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html)
+or
+[32GB](http://www.trendinguk.co.uk/32gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html)
+capacities.
+
 ## Install Notes - 06/18/12
 
 Formatted an SD card with a single FAT32 partition and copied the
