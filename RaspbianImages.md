@@ -14,6 +14,19 @@ it should be considered the "Official Raspbian Image". This image can be
 downloaded directly from the [Raspberry Pi Website Downloads
 Page](http://www.raspberrypi.org/downloads).
 
+### Preinstalled SD Cards
+
+Looking for a simple way to get your Raspberry Pi up and running?
+[TrendingUK](http://www.trendinguk.co.uk/) offer Sandisk SD SDHC cards
+with the latest official Raspbian image preinstalled, ready to be
+plugged into your Raspberry Pi. Available in
+[4GB](http://www.trendinguk.co.uk/4gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html/),
+[8GB](http://www.trendinguk.co.uk/8gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html),
+[16GB](http://www.trendinguk.co.uk/16gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html)
+or
+[32GB](http://www.trendinguk.co.uk/32gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html)
+capacities.
+
 ### Unofficial Raspbian Images
 
 Members of the Raspbian community have stepped forward to create their
