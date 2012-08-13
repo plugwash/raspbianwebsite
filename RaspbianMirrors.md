@@ -30,6 +30,7 @@
 | North America | United States   | Leaseweb                            | <http://mirror.us.leaseweb.net/raspbian/raspbian>                    |
 | Australia     | Australia       | AARNet                              | <http://mirror.aarnet.edu.au/pub/raspbian/raspbian>                  |
 | Asia          | Singapore       | NUS-School of Computing-Sig`  `Labs | <http://mirror.nus.edu.sg/raspbian/raspbian>                         |
+| Africa        | South Africa    | TENET                               | <http://raspbian.mirror.ac.za/raspbian/>                             |
 
 ### Mirroring the Raspbian Repository
 
