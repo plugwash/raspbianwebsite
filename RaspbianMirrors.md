@@ -4,33 +4,172 @@
 
   - 
 
-|               |                 |                                     |                                                                      |
-| ------------- | --------------- | ----------------------------------- | -------------------------------------------------------------------- |
-| **CONTINENT** | **COUNTRY**     | **MIRROR**                          | **DEB/DEB-SRC ADDRESS**                                              |
-| Europe        | United Kingdom  | Raspberry Pi Foundation             | <http://downloads.raspberrypi.org/raspbian/raspbian>                 |
-| Europe        | United Kingdom  | University of Oxford                | <http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian> |
-| Europe        | United Kingdom  | Mythic Beasts                       | <http://raspberrypi.mythic-beasts.com/raspbian/raspbian>             |
-| Europe        | France          | Arnaud Boudou                       | <https://goddess-gate.com/archive.raspbian.org/raspbian>             |
-| Europe        | France          | Sergio Conde                        | <http://raspbian.sconde.net/raspbian>                                |
-| Europe        | France          | Canterbury Computers                | <http://raspbian.canterburycomputers.com/raspbian>                   |
-| Europe        | France          | hxxr                                | <http://mirror.fr.mdhx.me/raspbian/raspbian>                         |
-| Europe        | France          | Daupheus.com                        | <http://raspbian.daupheus.com/raspbian>                              |
-| Europe        | Germany         | Repvik                              | <http://raspbian.lag.re/raspbian>                                    |
-| Europe        | Germany         | Hexxeh                              | <http://distribution-eu.hexxeh.net/raspbian/archive/raspbian>        |
-| Europe        | Germany         | AGDSN Sektion Wundtstraße           | <http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>      |
-| Europe        | Germany         | Leaseweb                            | <http://mirror.de.leaseweb.net/raspbian/raspbian>                    |
-| Europe        | The Netherlands | Leaseweb                            | <http://mirror.nl.leaseweb.net/raspbian/raspbian>                    |
-| Europe        | The Netherlands | Rory Slegtenhorst                   | <http://raspberry.coolview.nl/raspbian/raspbian>                     |
-| Europe        | The Netherlands | TechNL                              | <http://raspbian.mirror.technl.net/raspbian>                         |
-| Europe        | Norway          | PAKS Consulting DA                  | <http://mirror.raspbian.paks.no/raspbian>                            |
-| Europe        | Romania         | hxxr                                | <http://mirror.ro.mdhx.me/raspbian/raspbian>                         |
-| Europe        | Switzerland     | Benjamin Schlageter                 | <http://raspbian.kilrathy.net/raspbian>                              |
-| North America | United States   | Hexxeh                              | <http://distribution-us.hexxeh.net/raspbian/archive/raspbian>        |
-| North America | United States   | the808.net                          | <http://raspbian.the808.net/raspbian>                                |
-| North America | United States   | Leaseweb                            | <http://mirror.us.leaseweb.net/raspbian/raspbian>                    |
-| Australia     | Australia       | AARNet                              | <http://mirror.aarnet.edu.au/pub/raspbian/raspbian>                  |
-| Asia          | Singapore       | NUS-School of Computing-Sig`  `Labs | <http://mirror.nus.edu.sg/raspbian/raspbian>                         |
-| Africa        | South Africa    | TENET                               | <http://raspbian.mirror.ac.za/raspbian/>                             |
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>CONTINENT</strong></p></td>
+<td><p><strong>COUNTRY</strong></p></td>
+<td><p><strong>MIRROR</strong></p></td>
+<td><p><strong>DEB/DEB-SRC ADDRESS</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>United Kingdom</p></td>
+<td><p>Raspberry Pi Foundation</p></td>
+<td><p><a href="http://downloads.raspberrypi.org/raspbian/raspbian">http://downloads.raspberrypi.org/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>United Kingdom</p></td>
+<td><p>University of Oxford</p></td>
+<td><p><a href="http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian">http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>United Kingdom</p></td>
+<td><p>Mythic Beasts</p></td>
+<td><p><a href="http://raspberrypi.mythic-beasts.com/raspbian/raspbian">http://raspberrypi.mythic-beasts.com/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>France</p></td>
+<td><p>Arnaud Boudou</p></td>
+<td><p><a href="https://goddess-gate.com/archive.raspbian.org/raspbian">https://goddess-gate.com/archive.raspbian.org/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>France</p></td>
+<td><p>Sergio Conde</p></td>
+<td><p><a href="http://raspbian.sconde.net/raspbian">http://raspbian.sconde.net/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>France</p></td>
+<td><p>Canterbury Computers</p></td>
+<td><p><a href="http://raspbian.canterburycomputers.com/raspbian">http://raspbian.canterburycomputers.com/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>France</p></td>
+<td><p>hxxr</p></td>
+<td><p><a href="http://mirror.fr.mdhx.me/raspbian/raspbian">http://mirror.fr.mdhx.me/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>France</p></td>
+<td><p>Daupheus.com</p></td>
+<td><p><a href="http://raspbian.daupheus.com/raspbian">http://raspbian.daupheus.com/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>Germany</p></td>
+<td><p>Repvik</p></td>
+<td><p><a href="http://raspbian.lag.re/raspbian">http://raspbian.lag.re/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>Germany</p></td>
+<td><p>Hexxeh</p></td>
+<td><p><a href="http://distribution-eu.hexxeh.net/raspbian/archive/raspbian">http://distribution-eu.hexxeh.net/raspbian/archive/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>Germany</p></td>
+<td><p>AG DSN<br />
+Sektion Wundtstraße</p></td>
+<td><p><a href="http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian">http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>Germany</p></td>
+<td><p>Leaseweb</p></td>
+<td><p><a href="http://mirror.de.leaseweb.net/raspbian/raspbian">http://mirror.de.leaseweb.net/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>The Netherlands</p></td>
+<td><p>Leaseweb</p></td>
+<td><p><a href="http://mirror.nl.leaseweb.net/raspbian/raspbian">http://mirror.nl.leaseweb.net/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>The Netherlands</p></td>
+<td><p>Rory Slegtenhorst</p></td>
+<td><p><a href="http://raspberry.coolview.nl/raspbian/raspbian">http://raspberry.coolview.nl/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>The Netherlands</p></td>
+<td><p>TechNL</p></td>
+<td><p><a href="http://raspbian.mirror.technl.net/raspbian">http://raspbian.mirror.technl.net/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>Norway</p></td>
+<td><p>PAKS Consulting DA</p></td>
+<td><p><a href="http://mirror.raspbian.paks.no/raspbian">http://mirror.raspbian.paks.no/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>Romania</p></td>
+<td><p>hxxr</p></td>
+<td><p><a href="http://mirror.ro.mdhx.me/raspbian/raspbian">http://mirror.ro.mdhx.me/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
+<td><p>Switzerland</p></td>
+<td><p>Benjamin Schlageter</p></td>
+<td><p><a href="http://raspbian.kilrathy.net/raspbian">http://raspbian.kilrathy.net/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>North America</p></td>
+<td><p>United States</p></td>
+<td><p>Hexxeh</p></td>
+<td><p><a href="http://distribution-us.hexxeh.net/raspbian/archive/raspbian">http://distribution-us.hexxeh.net/raspbian/archive/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>North America</p></td>
+<td><p>United States</p></td>
+<td><p>the808.net</p></td>
+<td><p><a href="http://raspbian.the808.net/raspbian">http://raspbian.the808.net/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>North America</p></td>
+<td><p>United States</p></td>
+<td><p>Leaseweb</p></td>
+<td><p><a href="http://mirror.us.leaseweb.net/raspbian/raspbian">http://mirror.us.leaseweb.net/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Australia</p></td>
+<td><p>Australia</p></td>
+<td><p>AARNet</p></td>
+<td><p><a href="http://mirror.aarnet.edu.au/pub/raspbian/raspbian">http://mirror.aarnet.edu.au/pub/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Asia</p></td>
+<td><p>Singapore</p></td>
+<td><p>NUS<br />
+School of Computing<br />
+Sig<code class="backtick"></code>Labs</p></td>
+<td><p><a href="http://mirror.nus.edu.sg/raspbian/raspbian">http://mirror.nus.edu.sg/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Africa</p></td>
+<td><p>South Africa</p></td>
+<td><p>TENET<br />
+Tertiary Education and<br />
+Research Network of<br />
+South Africa</p></td>
+<td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ### Mirroring the Raspbian Repository
 
