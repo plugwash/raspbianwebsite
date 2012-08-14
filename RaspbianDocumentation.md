@@ -48,3 +48,6 @@ manner.
   - [Building Quake 3 in Raspbian](RaspbianQuake3)
 
   - [Building XBMC in Raspbian](RaspbianXBMC)
+
+  - [RetroArch packages for
+    Raspbian](http://superpiadventures.com/2012/08/retroarch-packages-for-raspbian/)
