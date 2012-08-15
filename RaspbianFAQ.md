@@ -47,21 +47,14 @@ Contents
 
 ## I'm new to Raspberry Pi and Raspbian. What should I know?
 
-First of all, you need to know that Raspbian is under active development
-and is not suitable at this point for someone new to Linux or small ARM
-based systems such as the Raspberry Pi. The intention is that Raspbian
-will become the leading OS of choice for all users of the Raspberry Pi,
-but this will take time and a lot of work to accomplish. While Raspbian
-is useable right now, there are many rough edges that need to be
-smoothed out and polished.
+The goal of Raspbian is to become the leading OS of choice for all users
+of the Raspberry Pi. However, Raspbian is still under active development
+and while it is getting better each day, it still has some rough edges
+that need to be smoothed out and polished.
 
-At this time, [Debian Squeeze as released by the Raspberry Pi
-Foundation](http://www.raspberrypi.org/downloads) is best for people who
-simply want a working Linux Distribution and explore the capabilities of
-the Raspberry Pi. Raspbian, on the other hand, is really for those who
-either have immediate need for optimized, floating point operations on
-the Raspberry Pi or are willing brave Raspbian's rough edges and help
-move it forward to a more polished state.
+The best place to get Raspbian for the Raspberry Pi is directly from the
+[Raspberry Pi Foundation's download
+page](http://www.raspberrypi.org/downloads).
 
 ## What is Raspbian?
 
@@ -142,7 +135,8 @@ the leading Operating System choice of for users of the Raspberry Pi.
 
 Yes. The packages are being compiled for the ARMv6+VFP CPU. If the
 hardware supports that CPU feature set then Raspbian should function
-well on that hardware. That being said, many newer hardware devices
+well on that hardware. An example of such hardware is the [Via
+APC](http://apc.io/). That being said, many newer hardware devices
 utilize a variant of the ARMv7 CPU which may be better served by the
 official Debian Wheezy armhf port.
 
