@@ -5,7 +5,7 @@ in turn can be used to boot your Raspberry Pi into the Raspbian
 operating system. Using a Raspbian image is the easiest way for a new
 user to get started with Raspbian.
 
-### Official Raspbian Images
+## Official Raspbian Images
 
 The [Raspberry Pi Foundation](http://www.raspberrypi.org/) has produced
 and released their own recommended image of Raspbian. Because this image
@@ -14,7 +14,7 @@ it should be considered the "Official Raspbian Image". This image can be
 downloaded directly from the [Raspberry Pi Website Downloads
 Page](http://www.raspberrypi.org/downloads).
 
-### Preinstalled SD Cards
+## Preinstalled SD Cards
 
 Looking for a simple way to get your Raspberry Pi up and running?
 [TrendingUK](http://www.trendinguk.co.uk/) offer Sandisk SD SDHC cards
@@ -27,11 +27,13 @@ or
 [32GB](http://www.trendinguk.co.uk/32gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html)
 capacities.
 
-### Unofficial Raspbian Images
+## Unofficial Raspbian Images
 
 Members of the Raspbian community have stepped forward to create their
 own Raspbian images which they are making available for other people to
 use. Below is a list of known unofficial Raspbian images.
+
+### Images for Raspberry Pi
 
   - [Pisces Images](PiscesImages)
 
@@ -43,3 +45,7 @@ use. Below is a list of known unofficial Raspbian images.
     Image](http://www.linuxsystems.it/2012/06/raspbian-wheezy-armhf-raspberry-pi-minimal-image/)
 
   - [RaspRazor Image](http://www.berryterminal.com/doku.php/rasprazor)
+
+### Images for Via APC
+
+  - [Apricot Images](/ApricotImages)
