@@ -1,9 +1,9 @@
 # Raspbian Images
 
 A Raspbian image is a file that you can download onto an SD card which
-in turn can be used to boot your Raspberry Pi into the Raspbian
-operating system. Using a Raspbian image is the easiest way for a new
-user to get started with Raspbian.
+in turn can be used to boot your Raspberry Pi and Via APC into the
+Raspbian operating system. Using a Raspbian image is the easiest way for
+a new user to get started with Raspbian.
 
 ## Official Raspbian Images
 
