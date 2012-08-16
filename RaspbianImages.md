@@ -35,6 +35,9 @@ use. Below is a list of known unofficial Raspbian images.
 
 ### Images for Raspberry Pi
 
+  - [Adafruit Raspberry Pi Educational Linux
+    Distro](http://learn.adafruit.com/adafruit-raspberry-pi-educational-linux-distro)
+
   - [Pisces Images](PiscesImages)
 
   - [Pisces+MATE Images](PiscesMATEImages)
