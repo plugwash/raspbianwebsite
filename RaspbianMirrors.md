@@ -96,7 +96,8 @@ Sektion Wundtstraße</p></td>
 <td><p>Germany</p></td>
 <td><p>Fachschaft Elektrotechnik<br />
 Universität Paderborn</p></td>
-<td><p><a href="http://mirror.et.uni-paderborn.de/raspbian/raspbian/">http://mirror.et.uni-paderborn.de/raspbian/raspbian/</a></p></td>
+<td><p><a href="http://mirror.et.uni-paderborn.de/raspbian/raspbian">http://mirror.et.uni-paderborn.de/raspbian/raspbian</a><br />
+<a href="ftp://mirror.et.uni-paderborn.de/raspbian/raspbian">ftp://mirror.et.uni-paderborn.de/raspbian/raspbian</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
