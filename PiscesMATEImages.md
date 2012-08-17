@@ -12,14 +12,14 @@ for experienced Linux users who would like to experiment with
 alternative GUI interfaces for Raspbian.
 
 This images differs from the other [Pisces images](PiscesImages) mainly
-in that in includes the [MATE/Gnome 2](RaspbianMate) v1.4 desktop
-environment rather than the LXDE desktop environment. Although the MATE
-is "heavier weight" than LXDE, it is based on the Gnome 2 desktop that
-for many years served as the "standard" desktop for most Linux
-distributions. Thus MATE is more mature and feature rich than other
-"lighter weight" desktops. This image was created using the Debian
-installer so it reflects a minimal Debian installation with the MATE
-packages added for a desktop.
+in that in includes the [MATE v1.4](RaspbianMate) desktop environment
+rather than the LXDE desktop environment. Although the MATE is "heavier
+weight" than LXDE, it is based on the Gnome 2 desktop that for many
+years served as the "standard" desktop for most Linux distributions.
+Thus MATE is more mature and feature rich than other "lighter weight"
+desktops. This image was created using the Debian installer so it
+reflects a minimal Debian installation with the MATE packages added for
+a desktop.
 
 No attempts have been made to optimize the MATE desktop for the slower
 CPU and low-memory environment of the Raspberry Pi. There are
