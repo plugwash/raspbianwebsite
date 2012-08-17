@@ -17,14 +17,14 @@ Page](http://www.raspberrypi.org/downloads).
 ## Preinstalled SD Cards
 
 Looking for a simple way to get your Raspberry Pi up and running?
-[TrendingUK](http://www.trendinguk.co.uk/) offer Sandisk SD SDHC cards
-with the latest official Raspbian image preinstalled, ready to be
-plugged into your Raspberry Pi. Available in
-[4GB](http://www.trendinguk.co.uk/4gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html),
-[8GB](http://www.trendinguk.co.uk/8gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html),
-[16GB](http://www.trendinguk.co.uk/16gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html)
+[http://thepihut.com/ The Pi Hut](http://thepihut.com/%20The%20Pi%20Hut)
+offer Sandisk SD SDHC cards with the latest official Raspbian image
+preinstalled, ready to be plugged into your Raspberry Pi. Available in
+[4GB](http://thepihut.com/products/4gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled),
+[8GB](http://thepihut.com/products/8gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled),
+[16GB](http://thepihut.com/products/16gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
 or
-[32GB](http://www.trendinguk.co.uk/32gb-sandisk-sdhc-card-with-raspbian-wheezy-linux-preinstalled.html)
+[32GB](http://thepihut.com/products/32gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
 capacities.
 
 ## Unofficial Raspbian Images
