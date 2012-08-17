@@ -93,65 +93,72 @@ Sektion Wundtstraße</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
+<td><p>Germany</p></td>
+<td><p>Fachschaft Elektrotechnik<br />
+Universität Paderborn</p></td>
+<td><p><a href="http://mirror.et.uni-paderborn.de/raspbian/raspbian/">http://mirror.et.uni-paderborn.de/raspbian/raspbian/</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.nl.leaseweb.net/raspbian/raspbian">http://mirror.nl.leaseweb.net/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Rory Slegtenhorst</p></td>
 <td><p><a href="http://raspberry.coolview.nl/raspbian/raspbian">http://raspberry.coolview.nl/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>TechNL</p></td>
 <td><p><a href="http://raspbian.mirror.technl.net/raspbian">http://raspbian.mirror.technl.net/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>Norway</p></td>
 <td><p>PAKS Consulting DA</p></td>
 <td><p><a href="http://mirror.raspbian.paks.no/raspbian">http://mirror.raspbian.paks.no/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Romania</p></td>
 <td><p>hxxr</p></td>
 <td><p><a href="http://mirror.ro.mdhx.me/raspbian/raspbian">http://mirror.ro.mdhx.me/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>Switzerland</p></td>
 <td><p>Benjamin Schlageter</p></td>
 <td><p><a href="http://raspbian.kilrathy.net/raspbian">http://raspbian.kilrathy.net/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Hexxeh</p></td>
 <td><p><a href="http://distribution-us.hexxeh.net/raspbian/archive/raspbian">http://distribution-us.hexxeh.net/raspbian/archive/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>the808.net</p></td>
 <td><p><a href="http://raspbian.the808.net/raspbian">http://raspbian.the808.net/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.us.leaseweb.net/raspbian/raspbian">http://mirror.us.leaseweb.net/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>AARNet</p></td>
 <td><p><a href="http://mirror.aarnet.edu.au/pub/raspbian/raspbian">http://mirror.aarnet.edu.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Singapore</p></td>
 <td><p>NUS<br />
@@ -159,7 +166,7 @@ School of Computing<br />
 Sig<code class="backtick"></code>Labs</p></td>
 <td><p><a href="http://mirror.nus.edu.sg/raspbian/raspbian">http://mirror.nus.edu.sg/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
