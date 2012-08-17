@@ -1,33 +1,35 @@
 # Bootable Raspbian "Pisces+MATE" Image by Mike Thompson
 
+**UPDATED TO MATE v1.4 - Aug. 17, 2012**
+
 **Please Note:** The Raspberry Pi Foundation has produced and released
-their own recommended image of Raspbian. All users are encouraged to
+their own recommended image of Raspbian that can be obtained directly
+from the [Raspberry Pi Website Downloads
+Page](http://www.raspberrypi.org/downloads). New users are encouraged to
 download the Foundation image as it is the best supported image within
-the Raspberry Pi Forums. This "official" Raspbian image can be
-downloaded directly from the [Raspberry Pi Website Downloads
-Page](http://www.raspberrypi.org/downloads).
+the Raspberry Pi Forums. This "unofficial" release is primarily intended
+for experienced Linux users who would like to experiment with
+alternative GUI interfaces for Raspbian.
 
-Mike Thompson has produced a publicly available SD image of Raspbian
-that is bootable on Raspberry Pi hardware. This is called the "pisces"
-image as that is what Mike's Raspberry Pi system is named on his LAN.
+This images differs from the other [Pisces images](PiscesImages) mainly
+in that in includes the [MATE/Gnome 2](RaspbianMate) v1.4 desktop
+environment rather than the LXDE desktop environment. Although the MATE
+is "heavier weight" than LXDE, it is based on the Gnome 2 desktop that
+for many years served as the "standard" desktop for most Linux
+distributions. Thus MATE is more mature and feature rich than other
+"lighter weight" desktops. This image was created using the Debian
+installer so it reflects a minimal Debian installation with the MATE
+packages added for a desktop.
 
-This differs from the other [Pisces images](PiscesImages) mainly in that
-in includes the [MATE/Gnome 2](RaspbianMate) desktop environment rather
-than the LXDE desktop environment. Although the MATE/Gnome 2 desktop is
-"heavier weight" than LXDE, for many years it served as the "standard"
-desktop for many Linux distributions. Thus it is more mature and refined
-than other "lighter weight" desktops. This image was created using the
-Debian installer so it reflects a minimal Debian installation with the
-MATE packages added for a desktop. No attempts have been made to
-optimize the MATE desktop for the slower CPU and low-memory environment
-of the Raspberry Pi.
+No attempts have been made to optimize the MATE desktop for the slower
+CPU and low-memory environment of the Raspberry Pi. There are
+[instructions here](RaspbianMate) that describe various optimization
+tweaks for MATE.
 
-### Download the Pisces+MATE R1 Image
+### Download the Pisces+MATE R2 Image
 
-The 700 MB image can be downloaded from this link
-[rpi\_pisces\_mate\_r1.zip](http://archive.raspbian.org/images/rpi_pisces_mate_r1.zip)
-or
-[torrent](http://dl.dropbox.com/u/4593149/torrent/rpi_pisces_mate_r1.zip.torrent).
+The 750 MB image can be downloaded from this link
+[rpi\_pisces\_mate\_r2.zip](http://archive.raspbian.org/images/rpi_pisces_mate_r2.zip).
 
 The following two user accounts are created on this image:
 
