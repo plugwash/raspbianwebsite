@@ -16,10 +16,10 @@ Page](http://www.raspberrypi.org/downloads).
 
 ## Preinstalled SD Cards
 
-Looking for a simple way to get your Raspberry Pi up and running?
-[http://thepihut.com/ The Pi Hut](http://thepihut.com/%20The%20Pi%20Hut)
-offer Sandisk SD SDHC cards with the latest official Raspbian image
-preinstalled, ready to be plugged into your Raspberry Pi. Available in
+Looking for a simple way to get your Raspberry Pi up and running? [The
+Pi Hut](http://thepihut.com/) offer Sandisk SD SDHC cards with the
+latest official Raspbian image preinstalled, ready to be plugged into
+your Raspberry Pi. Available in
 [4GB](http://thepihut.com/products/4gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled),
 [8GB](http://thepihut.com/products/8gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled),
 [16GB](http://thepihut.com/products/16gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
