@@ -49,6 +49,9 @@ use. Below is a list of known unofficial Raspbian images.
 
   - [RaspRazor Image](http://www.berryterminal.com/doku.php/rasprazor)
 
+  - [CNXSoft minimal image based on the
+    official](http://www.cnx-software.com/2012/07/31/84-mb-minimal-raspbian-armhf-image-for-raspberry-pi/)
+
 ### Images for Via APC
 
   - [Apricot Images](/ApricotImages)
