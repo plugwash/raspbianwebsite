@@ -1,61 +1,106 @@
 # Raspbian Installer
 
-The Raspbian Installer is modeled closely after the Debian Installer and
-intended to provide a custom configured Raspbian installation. Work on
-the installer is just getting started and is being actively discussed in
-this [Raspbian Forum
-thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=6532).
-
-Currently the installer is in a fairly primitive state and functions at
-a "proof of concept" level. The notes below document the use of the
-installer as it was configured on June 18th and will be useful to those
-that would like to try the installer and give feedback.
-
-Note: the SD card media that installer works with to install Raspbian
-has very slow performance. Particularly with the many 10,000's of small
-files the installer writes to various locations on the root file system.
-Because of this slow performance, a minimal install of Raspbian can take
-90 minutes or longer. An install that includes the **Debian desktop
-environment** which includes 800 additional packages can take up to 8 to
-9 hours to complete. Performance will vary greatly based on the speed of
-the SD card installed to. Also, installation onto other media such as an
-attached USB hard drive should be much better. See notes for external
-drive installation [here](/RaspbianInstaller#Installing_to_USB_disk).
-
 The files used to perform the install described below can be obtained
-from this link:
-[rpi\_installer\_06-18-12.zip](http://archive.raspbian.org/installer/rpi_installer_06-18-12.zip).
+from the zip file at this link:
+[rpi\_installer\_08-19-12.zip](http://archive.raspbian.org/installer/rpi_installer_08-19-12.zip).
+
+The Raspbian Installer is modeled closely after the Debian Installer and
+intended to provide a custom configured Raspbian installation. The
+installer is under active development is discussed in this [Raspbian
+Forum
+thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=6532).
+The notes below document the use of the installer as it was configured
+on August 20th, 2012.
+
+Important Note: the SD card media that installer works with to install
+Raspbian has very slow performance. Particularly with the many 10,000's
+of small files the installer writes to various locations on the root
+file system. Because of this, a minimal install of Raspbian to an SD
+card can take 90 minutes or longer. An install that includes the
+**Debian desktop environment** which includes 800 additional packages
+can take up to 8 to 9 hours to complete. Time to complete an install
+will vary greatly based on the speed of the SD card. Also, installation
+onto other media such as an attached USB hard drive should be much
+faster. See notes for external drive installation
+[here](/RaspbianInstaller#Installing_to_USB_disk).
 
 Please remember to perform *rpi-update* after the installation to
 install Raspberry Pi specific libraries and firmware.
 
-## Preinstalled SD Cards
+## Install Notes - 08/20/12
 
-Looking for a simple way to get your Raspberry Pi up and running? [The
-Pi Hut](http://thepihut.com/) offer Sandisk SD SDHC cards with the
-latest official Raspbian image preinstalled, ready to be plugged into
-your Raspberry Pi. Available in
-[4GB](http://thepihut.com/products/4gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled),
-[8GB](http://thepihut.com/products/8gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled),
-[16GB](http://thepihut.com/products/16gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
-or
-[32GB](http://thepihut.com/products/32gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
-capacities.
+Format an SD card with a single FAT32 (MS-DOS or Windows formatted)
+partition and copy the installer files from this zip file onto the top
+level directory. On a Raspberry Pi with an attached monitor and keyboard
+boot with the SD card to start the installer software. The partition and
+files on this card will be overwritten during the installation process.
 
-## Install Notes - 06/18/12
+This installer is a "network" installer. This means installer requires
+ethernet network connectivity to the Internet and Raspbian packages will
+be pulled down from remote servers. When the installer first starts the
+DHCP server on the local LAN will be queried to provide an IP address,
+default route and name server required for network connectivity.
 
-Formatted an SD card with a single FAT32 partition and copied the
-installation files onto the top level directory. The partition and files
-on this card will be overwritten during the installation process.
-
-The installer is a "network" installer. This means installer requires
-ethernet network connectivity to the Internet. When the installer first
-starts the DHCP server on the local LAN will be queried to provide an IP
-address, default route and name server required for network
-connectivity. For best results please use mirror hostname
+For best results please use mirror hostname
 **mirrordirector.raspbian.org**, mirror directory **/raspbian** or
 select Raspbian mirror geographically closest to you. See [full Raspbian
 mirror list](RaspbianMirrors).
+
+The notes below represent a typical installation process. Your specific
+responses to certain questions may vary, particularly those relating to
+language, time zone, system name, etc...
+
+-----
+
+Select a language
+
+Choose a language to be used for the installation process. The selected
+language will also be the default language for the installed system.
+
+**English**
+
+-----
+
+Select your location
+
+The selected location will be used to set your time zone and also for
+example to help select the system locale. Normally this should be the
+country where you live.
+
+**United States**
+
+-----
+
+Configure the keyboard
+
+Keymap to use:
+
+**American English**
+
+-----
+
+Detecting network hardware
+
+\[no input\]
+
+-----
+
+Configure the network
+
+Please enter the hostname for this system.
+
+**pisces**
+
+-----
+
+Configure the network
+
+The domain name is the part of your Internet address to the right of
+your hostname.
+
+Domain name:
+
+**home.lan**
 
 -----
 
@@ -72,9 +117,13 @@ Choose a mirror of the Debian archive
 Please enter the hostname of the mirror from which Debian will be
 downloaded.
 
-**archive.raspbian.org**
+**mirrordirector.raspbian.org**
 
 **\<Continue\>**
+
+<span class="small">Choosing mirrordirector.raspbian.org will
+automatically select a mirror of Raspbian that is appropriate for your
+geographic location.</span>
 
 -----
 
@@ -126,11 +175,17 @@ Raspberry Pi will boot after installation.</span>
 
 -----
 
+Loading additional components
+
+\[no input\]
+
+-----
+
 Set up users and passwords
 
 Root password:
 
-**raspbian** *\[or whatever password you want\]*
+**raspbian** *\[or whatever root password you want\]*
 
 **\<Continue\>**
 
@@ -140,7 +195,7 @@ Set up users and passwords
 
 Re-enter password to verify:
 
-**raspbian** *\[or whatever password you want\]*
+**raspbian** *\[or whatever root password you want\]*
 
 -----
 
@@ -171,7 +226,7 @@ Set up users and passwords
 
 Choose a password for the new user:
 
-**raspbian** *\[or whatever password you want\]*
+**raspbian** *\[or whatever user password you want\]*
 
 **\<Continue\>**
 
@@ -181,7 +236,7 @@ Set up users and passwords
 
 Re-enter password to verify:
 
-**raspbian** *\[or whatever password you want\]*
+**raspbian** *\[or whatever user password you want\]*
 
 **\<Continue\>**
 
@@ -236,15 +291,21 @@ Partitions formatting
 
 *This takes a while depending on the size of the SD card. Be patient.*
 
+\[no input\]
+
 -----
 
 Installing the base system
 
 *This takes a while. Be patient.*
 
+\[no input\]
+
 -----
 
 Configuring apt
+
+\[no input\]
 
 -----
 
