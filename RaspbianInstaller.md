@@ -24,9 +24,6 @@ onto other media such as an attached USB hard drive should be much
 faster. See notes for external drive installation
 [here](/RaspbianInstaller#Installing_to_USB_disk).
 
-Please remember to perform *rpi-update* after the installation to
-install Raspberry Pi specific libraries and firmware.
-
 ## Install Notes - 08/20/12
 
 Format an SD card with a single FAT32 (MS-DOS or Windows formatted)
@@ -392,10 +389,7 @@ Finishing the installation
 
 -----
 
-Post install:
-
-  - Run *rpi-update* to install the latest kernel along with its modules
-    and Broadcom libraries.
+The Raspberry Pi should now reboot into the fresh Raspbian install.
 
 -----
 
