@@ -38,6 +38,11 @@ manner.
 
   - [Running MATE (Gnome 2) in Raspbian](RaspbianMate)
 
+## Programming Languages and Tools
+
+  - [Instructions to Build Latest GDC for
+    Raspbian](http://gdcproject.org/wiki/Raspberry%20Pi/build/Raspbian%28Hardfloat%29)
+
 ## Multimedia & Games
 
   - [XBMC packages for Raspberry Pi running
