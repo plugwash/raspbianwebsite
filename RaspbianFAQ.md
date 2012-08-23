@@ -44,6 +44,9 @@ Contents
         share?](#How_do_I_mount_directories_from_other_Linux.2FUnix.2FBSD_servers.3F__How_do_I_mount_an_NFS_share.3F)
     4.  [How do I make a proper root
         account?](#How_do_I_make_a_proper_root_account.3F)
+    5.  [No space left on device, but I have plenty of free space on my
+        SD card. What do I
+        do?](#No_space_left_on_device.2C_but_I_have_plenty_of_free_space_on_my_SD_card._What_do_I_do.3F)
 
 ## I'm new to Raspberry Pi and Raspbian. What should I know?
 
@@ -55,6 +58,13 @@ that need to be smoothed out and polished.
 The best place to get Raspbian for the Raspberry Pi is directly from the
 [Raspberry Pi Foundation's download
 page](http://www.raspberrypi.org/downloads).
+
+If there is one thing to know about Raspbian, it is to know that
+Raspbian is essentially identical to Debian. Debian is used by millions
+of users around the globe on a daily basis and there is a vast store of
+knowledge and documentation about using Debian across the web. Any
+information you find that applies to Debian will almost certainly apply
+to Raspbian.
 
 ## What is Raspbian?
 
@@ -325,12 +335,12 @@ Now, let's mount our share:
 
 Make a directory for your mount. I want mine at /public, so:
 
-mkdir /public
+*mkdir /public*
 
 Mount manually to test (remember, my server is adelaide at
 192.168.222.34 and the share is *public*):
 
-mount -t nfs 192.168.222.34:/public /public
+*mount -t nfs 192.168.222.34:/public /public*
 
   - (my server share path) (where I want it mounted locally)
 
@@ -381,3 +391,30 @@ to do.)
 Save the config file, and to make it take effect:
 
 *sudo service ssh restart*
+
+## No space left on device, but I have plenty of free space on my SD card. What do I do?
+
+On many Raspbian systems, for performance reasons, the /tmp directory is
+a RAM disk with limited memory. Installers for applications will
+sometimes fill up this temporary space and you may see messages such as
+the one below.
+
+``cp: writing `/tmp/tmp.XwAcjvnTkE/rfc5834.txt.gz': No space left on device``
+
+A way of working around this is to edit the file:
+
+*/etc/default/rcS*
+
+change the last line from
+
+*RAMTMP=yes*
+
+to
+
+*RAMTMP=no*
+
+and then reboot.
+
+Then try reinstalling your package.
+
+Change the line back to *RAMTMP=yes* when you have finished.
