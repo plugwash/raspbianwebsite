@@ -200,7 +200,7 @@ at `archive.raspbian.org::archive` at a frequency of at least twice a
 day.
 
 To be included in the mirror list above, please contact me by email at
-*mpthompson(at)raspbian(dot)org* with the following information:
+*root(at)raspbian(dot)org* with the following information:
 
   - Country
   - Organization or Name
