@@ -199,19 +199,28 @@ Mirroring of the full Raspbian repository can be accomplished with rsync
 at `archive.raspbian.org::archive` at a frequency of at least twice a
 day.
 
-To be included in the mirror list above, please contact me by email at
+To be included in the mirror list above, please contact us by email at
 *root(at)raspbian(dot)org* with the following information:
 
   - Country
   - Organization or Name
   - Contact Name
   - Contact Email
-  - Mirror URL
+  - Mirror URLs (please offer at least http and rsync access to your
+    mirror)
   - Bandwidth (ie. 100Mbps)
 
-Currently, the repository is about 80GB in size. Anyone hosting a
-Raspbian repository mirror should plan on devoting about 160GB to handle
-future anticipated growth of the repository.
+If you want to be included in the mirror redirection system please
+include in your email permission to do so and information about what
+geographical area you are prepared to have us send you users from (note:
+while we will try to send you users only from the area you request the
+geolocation databases we use are imperfect so we cannot gaurantee that
+you will not be sent users from outside of the area you specify).
+
+Currently, the repository itself is about 90GB in size with
+approximately a further 10GB in images etc. Anyone hosting a Raspbian
+repository mirror should plan on devoting about 250GB to handle future
+anticipated growth of the repository.
 
 <span class="comment" style="display:none">Mirror contacts are
 [here](RaspbianMirrorsContacts).</span>
