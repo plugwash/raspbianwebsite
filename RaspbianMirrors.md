@@ -177,8 +177,8 @@ AOIDE Networks</p></td>
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>Over The Wire</p></td>
-<td><p><a href="http://mirror.overthewire.com.au/pub/raspbian">http://mirror.overthewire.com.au/pub/raspbian</a><br />
-<a href="ftp://mirror.overthewire.com.au/pub/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian</a></p></td>
+<td><p><a href="http://mirror.overthewire.com.au/pub/raspbian/raspbian">http://mirror.overthewire.com.au/pub/raspbian/raspbian</a><br />
+<a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
