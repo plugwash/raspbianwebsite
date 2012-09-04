@@ -42,6 +42,8 @@ manner.
 
   - [Instructions to Build Latest GDC for
     Raspbian](http://gdcproject.org/wiki/Raspberry%20Pi/build/Raspbian%28Hardfloat%29)
+    (and
+    [here](http://gdcproject.org/wiki/Raspberry%20Pi/build/Raspbian%28Hardfloat%29/GCC-Devel))
 
 ## Multimedia & Games
 
