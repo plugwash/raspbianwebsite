@@ -21,13 +21,17 @@ Hut's [Raspberry Pi Store](http://thepihut.com/) offer Sandisk SD SDHC
 cards with the latest official Raspbian image preinstalled, ready to be
 plugged into your Raspberry Pi. Available in the following options:
 
-  - [4GB](http://thepihut.com/products/4gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+  - [4GB Raspbian SD
+    Card](http://thepihut.com/products/4gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
 
-  - [8GB](http://thepihut.com/products/8gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+  - [8GB Raspbian SD
+    Card](http://thepihut.com/products/8gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
 
-  - [16GB](http://thepihut.com/products/16gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+  - [16GB Raspbian SD
+    Card](http://thepihut.com/products/16gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
 
-  - [32GB](http://thepihut.com/products/32gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+  - [32GB Raspbian SD
+    Card](http://thepihut.com/products/32gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
 
 ## Unofficial Raspbian Images
 
