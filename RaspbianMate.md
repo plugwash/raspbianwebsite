@@ -1,4 +1,4 @@
-# MATE on Raspberry Pi
+# MATE on Raspbian
 
 Gnome 2 was the most popular Linux desktop, but it’s no longer
 available. MATE is a fork of Gnome 2 and provides an intuitive and
@@ -20,8 +20,8 @@ using MATE.
 
 #### Raspbian & MATE SD Image
 
-A Raspbian image with MATE configured as the default desktop is
-[available here](PiscesMATEImages).
+A Raspbian image for the Raspberry Pi with MATE configured as the
+default desktop is [available here](PiscesMATEImages).
 
 #### Install MATE With apt-get
 
