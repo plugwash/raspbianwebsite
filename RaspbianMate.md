@@ -33,8 +33,7 @@ For Raspbian, add the following repository to your
 Perform the following commands:
 
     sudo apt-get update
-    sudo apt-get install mate-core
-    sudo apt-get install mate-desktop-environment
+    sudo apt-get install mate-core mate-desktop-environment
 
 ## Starting MATE
 
@@ -50,7 +49,12 @@ to your \~/.xinitrc file and then run
 
 ### Running MATE automatically at boot time
 
-TBD \[Haven't figured this out yet.\]
+If not already using a display manager, install the
+[LightDM](http://www.freedesktop.org/wiki/Software/LightDM) display
+manager.
+
+    sudo apt-get update
+    sudo apt-get lightdm
 
 ## Using MATE
 
