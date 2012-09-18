@@ -217,11 +217,21 @@ South Africa</p></td>
 ### Mirroring the Raspbian Repository
 
 Mirroring of the full Raspbian repository can be accomplished with rsync
-at `archive.raspbian.org::archive` at a frequency of at least twice a
-day.
+at `archive.raspbian.org::archive`.
 
-To be included in the mirror list above, please contact us by email at
-*root(at)raspbian(dot)org* with the following information:
+Sample syntax to mirror the archive would be:
+
+    rsync --archive --verbose --delete --delete-delay --delay-updates \
+        archive.raspbian.org::archive /path/to/local/mirror
+
+The '--dry-run' option can be used to first test out connectivity before
+attempting a full mirror.
+
+### Being Included in Raspbian Mirror List
+
+To be included in the mirror list above, please mirror at least twice a
+day and contact us by email at *root(at)raspbian(dot)org* with the
+following information:
 
   - Country
   - Organization or Name
