@@ -203,6 +203,12 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p><a href="http://mirror.nus.edu.sg/raspbian/raspbian">http://mirror.nus.edu.sg/raspbian/raspbian</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>Asia</p></td>
+<td><p>China</p></td>
+<td><p>Tsinghua University Network Administrators</p></td>
+<td><p><a href="http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/">http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/</a></p></td>
+</tr>
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
