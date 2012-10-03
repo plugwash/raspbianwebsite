@@ -188,19 +188,25 @@ AOIDE Networks</p></td>
 <td><p><a href="http://raspbian.caro.net/raspbian">http://raspbian.caro.net/raspbian</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>North America</p></td>
+<td><p>United States</p></td>
+<td><p>Christopher Meng</p></td>
+<td><p><a href="http://mirrors.cicku.me/raspbian/raspbian">http://mirrors.cicku.me/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="even">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>AARNet</p></td>
 <td><p><a href="http://mirror.aarnet.edu.au/pub/raspbian/raspbian">http://mirror.aarnet.edu.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>Over The Wire</p></td>
 <td><p><a href="http://mirror.overthewire.com.au/pub/raspbian/raspbian">http://mirror.overthewire.com.au/pub/raspbian/raspbian</a><br />
 <a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Singapore</p></td>
 <td><p>NUS<br />
@@ -208,13 +214,13 @@ School of Computing<br />
 Sig<code class="backtick"></code>Labs</p></td>
 <td><p><a href="http://mirror.nus.edu.sg/raspbian/raspbian">http://mirror.nus.edu.sg/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Tsinghua University Network Administrators</p></td>
 <td><p><a href="http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/">http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
