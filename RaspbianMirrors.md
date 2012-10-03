@@ -258,6 +258,7 @@ following information:
   - Mirror URLs (please offer at least http and rsync access to your
     mirror)
   - Bandwidth (ie. 100Mbps)
+  - Supports IPv6
 
 If you want to be included in the mirror redirection system please
 include in your email permission to do so and information about what
