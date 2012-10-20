@@ -5,6 +5,8 @@ EditorsGroup configured as described
 
   - [PlugWash](/PlugWash)
 
+  - [DavidNewgas](/DavidNewgas)
+
   - Pioneer
 
   - [DrVigg](DrVigg)
