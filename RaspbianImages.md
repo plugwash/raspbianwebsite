@@ -36,7 +36,7 @@ Sandisk
   - [32GB Raspbian SD
     Card](http://thepihut.com/products/32gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
 
-Samsung (Class 10)
+Samsung
 
   - [16GB Raspbian SD
     Card](http://thepihut.com/products/16gb-samsung-class-10-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
