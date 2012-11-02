@@ -42,7 +42,7 @@ Samsung
     Card](http://thepihut.com/products/16gb-samsung-class-10-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
     (Class 10)
 
-  - [32GB Class 10 Raspbian SD
+  - [32GB Raspbian SD
     Card](http://thepihut.com/products/32gb-samsung-class-10-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
     (Class 10)
 
