@@ -38,11 +38,13 @@ Sandisk
 
 Samsung (Class 10)
 
-  - [16GB Class 10 Raspbian SD
-    Card](http://Sandisk%20%20%20%20%20%204GB%20Raspbian%20SD%20Card%20%20%20%20%20%208GB%20Raspbian%20SD%20Card%20)
+  - [16GB Raspbian SD
+    Card](http://thepihut.com/products/16gb-samsung-class-10-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    (Class 10)
 
   - [32GB Class 10 Raspbian SD
     Card](http://thepihut.com/products/32gb-samsung-class-10-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    (Class 10)
 
 ## Unofficial Raspbian Images
 
