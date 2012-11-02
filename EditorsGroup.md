@@ -7,6 +7,8 @@ EditorsGroup configured as described
 
   - [DavidNewgas](/DavidNewgas)
 
+  - [RoyalPanda](/RoyalPanda)
+
   - Pioneer
 
   - [DrVigg](DrVigg)
