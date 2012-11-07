@@ -216,7 +216,7 @@ Linux Users Group</p></td>
 <a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>Australia</p></td>
+<td><p>Australia<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Sky<code class="backtick"></code>Mesh Pty Ltd</p></td>
 <td><p><a href="http://raspbian.skymesh.net.au/raspbian/raspbian">http://raspbian.skymesh.net.au/raspbian/raspbian</a><br />
