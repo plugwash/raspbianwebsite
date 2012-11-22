@@ -159,6 +159,20 @@ in Trondhjem</p></td>
 <td><p><a href="http://raspbian.kilrathy.net/raspbian">http://raspbian.kilrathy.net/raspbian</a></p></td>
 </tr>
 <tr class="even">
+<td><p>Europe</p></td>
+<td><p>Sweeden</p></td>
+<td><p>Academic Computer Club at Umeå University</p></td>
+<td><p><a href="http://ftp.acc.umu.se/mirror/raspbian/raspbian">http://ftp.acc.umu.se/mirror/raspbian/raspbian</a><br />
+<a href="ftp://ftp.acc.umu.se/mirror/raspbian/raspbian">ftp://ftp.acc.umu.se/mirror/raspbian/raspbian</a><br />
+rsync://ftp.acc.umu.se/mirror/raspbian/raspbian</p></td>
+</tr>
+<tr class="odd">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>Portugal</p></td>
+<td><p>University of Porto</p></td>
+<td><p><a href="http://mirrors.fe.up.pt/raspbian/%3C%3CBR%3E%3Eftp://mirrors.fe.up.pt/raspbian/%3C%3CBR%3E%3Ersync://mirrors.fe.up.pt/raspbian/">http://mirrors.fe.up.pt/raspbian/&lt;&lt;BR&gt;&gt;ftp://mirrors.fe.up.pt/raspbian/&lt;&lt;BR&gt;&gt;rsync://mirrors.fe.up.pt/raspbian/</a></p></td>
+</tr>
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Hexxeh</p></td>
@@ -186,15 +200,22 @@ in Trondhjem</p></td>
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Caronet</p></td>
-<td><p><a href="http://raspbian.caro.net/raspbian">http://raspbian.caro.net/raspbian</a></p></td>
+<td><p><a href="http://raspbian.caro.net/raspbian">http://raspbian.caro.net/raspbian</a><br />
+rsync rsync://raspbian.caro.net/raspbian/raspbian</p></td>
 </tr>
 <tr class="odd">
+<td><p>North America</p></td>
+<td><p>United States</p></td>
+<td><p>Caronet</p></td>
+<td><p><a href="http://raspbian.caro.net/raspbian">http://raspbian.caro.net/raspbian</a></p></td>
+</tr>
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Christopher Meng</p></td>
 <td><p><a href="http://mirrors.cicku.me/raspbian/raspbian">http://mirrors.cicku.me/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Michigan Tech<br />
@@ -202,27 +223,27 @@ Linux Users Group</p></td>
 <td><p><a href="http://lug.mtu.edu/raspbian">http://lug.mtu.edu/raspbian</a><br />
 <a href="ftp://lug.mtu.edu/raspbian">ftp://lug.mtu.edu/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>AARNet</p></td>
 <td><p><a href="http://mirror.aarnet.edu.au/pub/raspbian/raspbian">http://mirror.aarnet.edu.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>Over The Wire</p></td>
 <td><p><a href="http://mirror.overthewire.com.au/pub/raspbian/raspbian">http://mirror.overthewire.com.au/pub/raspbian/raspbian</a><br />
 <a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Australia<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Sky<code class="backtick"></code>Mesh Pty Ltd</p></td>
 <td><p><a href="http://raspbian.skymesh.net.au/raspbian/raspbian">http://raspbian.skymesh.net.au/raspbian/raspbian</a><br />
 <a href="ftp://raspbian.skymesh.net.au/raspbian">ftp://raspbian.skymesh.net.au/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Singapore</p></td>
 <td><p>NUS<br />
@@ -230,20 +251,20 @@ School of Computing<br />
 Sig<code class="backtick"></code>Labs</p></td>
 <td><p><a href="http://mirror.nus.edu.sg/raspbian/raspbian">http://mirror.nus.edu.sg/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Tsinghua University Network Administrators</p></td>
 <td><p><a href="http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/">http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
 Tertiary Education and<br />
 Research Network of<br />
 South Africa</p></td>
-<td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
+<td><p><a href="http://raspbian.mirror.ac.za/raspbian/%7C%7CCaronet">http://raspbian.mirror.ac.za/raspbian/||Caronet</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -277,6 +298,9 @@ following information:
     mirror)
   - Bandwidth (ie. 100Mbps)
   - Supports IPv6
+  - Mirror URLs (please offer at least http and rsync access to your
+    mirror)
+  - Bandwidth (ie. 100Mbps)
 
 If you want to be included in the mirror redirection system please
 include in your email permission to do so and information about what
