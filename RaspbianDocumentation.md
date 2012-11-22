@@ -20,8 +20,6 @@ manner.
   - [Building Raspbian Packages on a PC with
     QEMU](http://superpiadventures.com/2012/07/development-environment/)
 
-  - [Resize Partitions on an Image File](http://uyg.linkybank.com)
-
   - [Raspberry Pi Kernel Mailing
     List](http://lists.infradead.org/mailman/listinfo/linux-rpi-kernel)
 
