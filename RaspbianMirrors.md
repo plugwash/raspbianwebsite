@@ -170,7 +170,9 @@ rsync://ftp.acc.umu.se/mirror/raspbian/raspbian</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Portugal</p></td>
 <td><p>University of Porto</p></td>
-<td><p><a href="http://mirrors.fe.up.pt/raspbian/%3C%3CBR%3E%3Eftp://mirrors.fe.up.pt/raspbian/%3C%3CBR%3E%3Ersync://mirrors.fe.up.pt/raspbian/">http://mirrors.fe.up.pt/raspbian/&lt;&lt;BR&gt;&gt;ftp://mirrors.fe.up.pt/raspbian/&lt;&lt;BR&gt;&gt;rsync://mirrors.fe.up.pt/raspbian/</a></p></td>
+<td><p><a href="http://mirrors.fe.up.pt/raspbian/">http://mirrors.fe.up.pt/raspbian/</a><br />
+<a href="ftp://mirrors.fe.up.pt/raspbian/">ftp://mirrors.fe.up.pt/raspbian/</a><br />
+rsync://mirrors.fe.up.pt/raspbian/</p></td>
 </tr>
 <tr class="even">
 <td><p>North America</p></td>
