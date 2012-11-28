@@ -1,5 +1,3 @@
-## Page under construction
-
 # Apricot
 
 Started by Mike Thompson, Apricot is the adaptation of
