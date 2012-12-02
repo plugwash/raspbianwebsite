@@ -80,20 +80,12 @@ UK Mirror Service</p></td>
 <td><p>Jonathan Rousseau</p></td>
 <td><p><a href="http://raspbian.blackhol.es/raspbian">http://raspbian.blackhol.es/raspbian</a></p></td>
 </tr>
-</tbody>
-</table>
-
-||Europe<sup>\*</sup>||France||Ircam||
-{ftp,http,rsync}://mirrors.ircam.fr/pub/raspbian/raspbian
-
-<table>
-<colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-</colgroup>
-<tbody>
+<tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>France</p></td>
+<td><p>Ircam</p></td>
+<td><p>{ftp,http,rsync}://mirrors.ircam.fr/pub/raspbian/raspbian</p></td>
+</tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
@@ -188,6 +180,20 @@ rsync://ftp.acc.umu.se/mirror/raspbian/raspbian</p></td>
 <a href="ftp://mirrors.fe.up.pt/raspbian/">ftp://mirrors.fe.up.pt/raspbian/</a><br />
 rsync://mirrors.fe.up.pt/raspbian/</p></td>
 </tr>
+</tbody>
+</table>
+
+||Europe||Russia||Gludo.net (Gludo Telecom)||
+{ftp,http,rsync}://mirror.gludo.net/raspbian/raspbian/
+
+<table>
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+<col style="width: 25%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
