@@ -238,33 +238,42 @@ Linux Users Group</p></td>
 <a href="ftp://lug.mtu.edu/raspbian">ftp://lug.mtu.edu/raspbian</a></p></td>
 </tr>
 <tr class="even">
+<td><p>South America<sup>*</sup></p></td>
+<td><p>Brazil</p></td>
+<td><p>Federal University<br />
+of Mato Grosso do Sul<br />
+UFMS</p></td>
+<td><p><a href="http://raspbian.ufms.br/raspbian/">http://raspbian.ufms.br/raspbian/</a><br />
+rsync://200.129.202.132/Raspbian</p></td>
+</tr>
+<tr class="odd">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>AARNet</p></td>
 <td><p><a href="http://mirror.aarnet.edu.au/pub/raspbian/raspbian">http://mirror.aarnet.edu.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>Over The Wire</p></td>
 <td><p><a href="http://mirror.overthewire.com.au/pub/raspbian/raspbian">http://mirror.overthewire.com.au/pub/raspbian/raspbian</a><br />
 <a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Australia<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Sky<code class="backtick"></code>Mesh Pty Ltd</p></td>
 <td><p><a href="http://raspbian.skymesh.net.au/raspbian/raspbian">http://raspbian.skymesh.net.au/raspbian/raspbian</a><br />
 <a href="ftp://raspbian.skymesh.net.au/raspbian">ftp://raspbian.skymesh.net.au/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Australia<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Internode</p></td>
 <td><p><a href="http://mirror.internode.on.net/pub/raspbian/raspbian/">http://mirror.internode.on.net/pub/raspbian/raspbian/</a><br />
 rsync://mirror.internode.on.net/raspbian/raspbian/&lt;&lt;BR&gt;<a href="ftp://mirror.internode.on.net/pub/raspbian/raspbian/">ftp://mirror.internode.on.net/pub/raspbian/raspbian/</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Singapore</p></td>
 <td><p>NUS<br />
@@ -272,13 +281,13 @@ School of Computing<br />
 Sig<code class="backtick"></code>Labs</p></td>
 <td><p><a href="http://mirror.nus.edu.sg/raspbian/raspbian">http://mirror.nus.edu.sg/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Tsinghua University Network Administrators</p></td>
 <td><p><a href="http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/">http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
