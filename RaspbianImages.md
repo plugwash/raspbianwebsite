@@ -25,25 +25,25 @@ options:
 Sandisk
 
   - [4GB Raspbian SD
-    Card](http://thepihut.com/products/4gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
 
   - [8GB Raspbian SD
-    Card](http://thepihut.com/products/8gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
 
   - [16GB Raspbian SD
-    Card](http://thepihut.com/products/16gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
 
   - [32GB Raspbian SD
-    Card](http://thepihut.com/products/32gb-sandisk-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
 
 Samsung
 
   - [16GB Raspbian SD
-    Card](http://thepihut.com/products/16gb-samsung-class-10-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
     (Class 10)
 
   - [32GB Raspbian SD
-    Card](http://thepihut.com/products/32gb-samsung-class-10-sd-sdhc-card-with-raspbian-wheezy-linux-preinstalled)
+    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
     (Class 10)
 
 ## Unofficial Raspbian Images
