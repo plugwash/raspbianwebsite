@@ -282,6 +282,25 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p><a href="http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/">http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/</a></p></td>
 </tr>
 <tr class="even">
+<td><p>Asia</p></td>
+<td><p>South Korea</p></td>
+<td><p>dnetwork</p></td>
+<td><p><a href="http://mirror.devunt.kr/raspbian/raspbian/">http://mirror.devunt.kr/raspbian/raspbian/</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>Asia</p></td>
+<td><p>South Korea</p></td>
+<td><p><a href="/NeowizGames">NeowizGames</a> corp</p></td>
+<td><p><a href="http://ftp.neowiz.com/raspbian">http://ftp.neowiz.com/raspbian</a><br />
+<a href="http://ftp.neowiz.com/raspbian">http://ftp.neowiz.com/raspbian</a></p></td>
+</tr>
+<tr class="even">
+<td><p>Asia</p></td>
+<td><p>South Korea</p></td>
+<td><p>KAIST</p></td>
+<td><p>(http|ftp|rsync)://ftp.kaist.ac.kr/raspbian/</p></td>
+</tr>
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
