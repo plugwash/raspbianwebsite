@@ -291,8 +291,9 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p><a href="/NeowizGames">NeowizGames</a> corp</p></td>
-<td><p><a href="http://ftp.neowiz.com/raspbian">http://ftp.neowiz.com/raspbian</a><br />
-<a href="http://ftp.neowiz.com/raspbian">http://ftp.neowiz.com/raspbian</a></p></td>
+<td><p><a href="http://ftp.neowiz.com/raspbian/raspbian">http://ftp.neowiz.com/raspbian/raspbian</a><br />
+<a href="http://ftp.neowiz.com/raspbian/raspbian">http://ftp.neowiz.com/raspbian/raspbian</a><br />
+rsync://ftp.neowiz.com/raspbian/raspbian</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
