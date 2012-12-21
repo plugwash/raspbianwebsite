@@ -178,7 +178,7 @@ rsync://mirrors.fe.up.pt/raspbian/</p></td>
 <td><p>Europe</p></td>
 <td><p>Russia</p></td>
 <td><p>Gludo.net (Gludo Telecom)</p></td>
-<td><p>{ftp,http,rsync}://mirror.gludo.net/raspbian/raspbian/</p></td>
+<td><p>{ftp,http}://mirror.gludo.net/raspbian/</p></td>
 </tr>
 <tr class="odd">
 <td><p>North America</p></td>
