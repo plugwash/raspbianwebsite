@@ -50,3 +50,5 @@ EditorsGroup configured as described
   - jerry.tk
 
   - [AlexandreRaymond](/AlexandreRaymond)
+
+  - [KennyMacDermid](/KennyMacDermid)
