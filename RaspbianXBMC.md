@@ -1,3 +1,12 @@
+# Installing Prebuilt XMBC Packages
+
+Instructions for building XMBC from source are below, but they will take
+over 12 hours to compile on the Pi. If this doesn't interest you and you
+just want a working, binary XBMC package, one is being built and
+provided by Michael Gorven. It can be installed by following the
+instructions in his [blog
+post.](http://michael.gorven.za.net/content/xbmc-raspberry-pi)
+
 # Building XBMC
 
 The following instructions were derived from instructions passed to me
