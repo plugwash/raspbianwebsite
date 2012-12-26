@@ -57,7 +57,7 @@ still some rough edges but these are generally more related to the Pis
 hardware and kernel than raspbian itself.
 
 Raspbian images are produced by various people. For newcomers we
-reccomend the images provided by the Raspberry Pi foundation, these are
+recommend the images provided by the Raspberry Pi foundation, these are
 available from their download page [Raspberry Pi Foundation's download
 page](http://www.raspberrypi.org/downloads).
 
