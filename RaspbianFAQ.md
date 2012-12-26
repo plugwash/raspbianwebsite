@@ -6,12 +6,13 @@ Contents
     1.  [I'm new to Raspberry Pi and Raspbian. What should I
         know?](#I.27m_new_to_Raspberry_Pi_and_Raspbian.__What_should_I_know.3F)
     2.  [What is Raspbian?](#What_is_Raspbian.3F)
-    3.  [What is Debian?](#What_is_Debian.3F)
-    4.  [Is there documentation available for
+    3.  [What do you mean by "soft float ABI" and "hard float
+        ABI"?](#What_do_you_mean_by_.22soft_float_ABI.22_and_.22hard_float_ABI.22.3F)
+    4.  [What is Debian?](#What_is_Debian.3F)
+    5.  [Is there documentation available for
         Raspbian?](#Is_there_documentation_available_for_Raspbian.3F)
-    5.  [How much of Debian Wheezy armhf will Raspbian
-        support?](#How_much_of_Debian_Wheezy_armhf_will_Raspbian_support.3F)
-    6.  [How fast will Raspbian be?](#How_fast_will_Raspbian_be.3F)
+    6.  [How much of Debian Wheezy armhf does Raspbian
+        support?](#How_much_of_Debian_Wheezy_armhf_does_Raspbian_support.3F)
     7.  [Will Raspbian work with non-Raspberry Pi
         systems?](#Will_Raspbian_work_with_non-Raspberry_Pi_systems.3F)
     8.  [Are you planning to have an official SD image for the Raspberry
@@ -51,28 +52,28 @@ Contents
 ## I'm new to Raspberry Pi and Raspbian. What should I know?
 
 The goal of Raspbian is to become the leading OS of choice for all users
-of the Raspberry Pi. However, Raspbian is still under active development
-and while it is getting better each day, it still has some rough edges
-that need to be smoothed out and polished.
+of the Raspberry Pi. This goal has been largely acheived. There are
+still some rough edges but these are generally more related to the Pis
+hardware and kernel than raspbian itself.
 
-The best place to get Raspbian for the Raspberry Pi is directly from the
-[Raspberry Pi Foundation's download
+Raspbian images are produced by various people. For newcomers we
+reccomend the images provided by the Raspberry Pi foundation, these are
+available from their download page [Raspberry Pi Foundation's download
 page](http://www.raspberrypi.org/downloads).
 
-If there is one thing to know about Raspbian, it is to know that
-Raspbian is essentially identical to Debian. Debian is used by millions
-of users around the globe on a daily basis and there is a vast store of
-knowledge and documentation about using Debian across the web. Any
-information you find that applies to Debian will almost certainly apply
-to Raspbian.
+Raspbian tries to stay as close to debian as reasonably possible. Debian
+is used by millions of users around the globe on a daily basis and there
+is a vast store of knowledge and documentation about using Debian across
+the web. Any information you find that applies to Debian will almost
+certainly apply to the same version of Raspbian. Information for earlier
+versions of debian will often apply too but may need some tweaks just as
+it would when using it on a newer version of debian.
 
 ## What is Raspbian?
 
 Raspbian is an unofficial port of Debian Wheezy armhf with compilation
-settings adjusted to produce optimized "hard float" code that will run
-on the Raspberry Pi. This should provide significantly faster
-performance for applications that make heavy use of floating point
-arithmetic operations.
+settings adjusted to produce code that uses "hardware floating point",
+the "hard float" ABI and will run on the Raspberry Pi.
 
 The port is necessary because the official Debian Wheezy armhf release
 is compatible only with versions of the ARM architecture later than the
@@ -81,23 +82,39 @@ Pi's ARMv6 CPU).
 
 The official [Debian Squeeze
 image](http://www.raspberrypi.org/downloads) issued by the Raspberry Pi
-foundation uses "soft float" settings. The foundation found it necessary
-to use the existing Debian port for less capable ARM devices due to time
-and resource constraints during development of the Raspberry Pi.
-Therefore, it does not use of the Pi's processor's floating point
-hardware - reducing the Pi's performance during floating point intensive
+foundation was based on debian armel which uses software floating point
+and the "soft float" ABI. The foundation found it necessary to use the
+existing Debian port for less capable ARM devices due to time and
+resource constraints during development of the Raspberry Pi. Therefore,
+it does not use of the Pi's processor's floating point hardware -
+reducing the Pi's performance during floating point intensive
 applications - or the advanced instructions of the ARMv6 CPU.
+
+## What do you mean by "soft float ABI" and "hard float ABI"?
+
+ABI stands for application binary interface. The term has slightly
+different meanings in different contexts but in this context it refers
+to the set of rules used to set up registers and the stack when calling
+and returning from functions and other details that are required for
+binaries to be compatible with each other.
+
+The "soft float" ABI passes floating point parameters in integer
+registers while the "hard float ABI". The two ABIs are not compatible
+because they use different registers. It is possible to use hardware
+floating point with the soft-float ABI but doing so means that whenever
+a floating point value is passed to or returned from a function it must
+be transferred to an integer register incurring a performance penalty.
 
 ## What is Debian?
 
 Debian is a free operating system for your computer and includes the
-basic set of programs and utilities that make your computer run. Debian
-has a reputation within the Linux community for being very high-quality,
-stable and scalable. Debian also has an extensive and friendly user
-community that can help new users with support for practically any
-problem. This makes Debian an ideal operating system for the Raspberry
-Pi that will be used by children and many others using Linux for the
-first time.
+basic set of programs and utilities that make your computer run along
+with many thousands of other packages. Debian has a reputation within
+the Linux community for being very high-quality, stable and scalable.
+Debian also has an extensive and friendly user community that can help
+new users with support for practically any problem. This makes Debian an
+ideal operating system for the Raspberry Pi that will be used by
+children and many others using Linux for the first time.
 
 Further information about what Debian is can be found
 [here](http://en.wikipedia.org/wiki/Debian),
@@ -106,56 +123,54 @@ Further information about what Debian is can be found
 
 ## Is there documentation available for Raspbian?
 
-Because Raspbian is Debian, there is an enormous amount of documentation
-available for Raspbian. Aside from the
+Because Raspbian is closely based on Debian, there is an enormous amount
+of documentation available for Raspbian. Aside from the
 [Debian.org](http://www.debian.org) web site and the wealth of
 information there, a terrific source of documentation is the recently
 released [The Debian Administrator's
 Handbook](http://debian-handbook.info/) which is available in hard-copy
-or as a free download.
+or as a free download. Note however that the current version of that
+handbook is based on debian squeeze while the first release of Raspbian
+is based on Debian wheezy. Therefore there may be differences in some
+areas.
 
 Any slight differences between Debian and Raspbian or aspects of
 Raspbian that are unique to the Raspberry Pi hardware will be documented
-on this web site.
+on this web site or on the raspberry Pi section of the elinux.org wiki.
 
-## How much of Debian Wheezy armhf will Raspbian support?
+## How much of Debian Wheezy armhf does Raspbian support?
 
-At a minimum, the intention is for Raspbian to be at parity with Debian
-Wheezy armhf. Meaning, if a particular piece of open source software or
-package is available for Debian Wheezy armhf, it should be available for
-Raspbian once the port building process is complete. How this will work
-in practice is still unknown, but experience is showing that 95% or more
-of the Debian Wheezy armhf packages are rebuilding for the Raspberry Pi
-without an problems.
+We have built the vast majority of packages from debian wheezy, indeed
+there are now more binary package in raspbian wheezy than there are in
+the armel and armhf ports of raspbian (though part of this is that we
+haven't been as agressive about removals as debian is).
 
-## How fast will Raspbian be?
+Please feel free to get in touch through the forums if a package you
+require is missing. We can't guarantee to provide it but we should at
+least be able to explain why it is not available and may be able to
+suggest alternatives.
 
-As the developers of Raspbian don't yet have hardware, this is a hard
-question to answer at this moment. At a minimum Raspbian will run at
-least as well as any of the other currently available Linux
-distributions for the Raspberry Pi.
-
-Where Raspbian will shine compared to other Linux distributions is with
-regards to hardware floating point operations and having the vast Debian
-repository of applications built for optimal performance on the Rasberry
-Pi hardware. We hope these two significant factors will make Raspbian
-the leading Operating System choice of for users of the Raspberry Pi.
+Note that we don't currently build binaries for contrib or non-free
+(though we do import architecture independent packages from those areas
+of the debian archive)
 
 ## Will Raspbian work with non-Raspberry Pi systems?
 
 Yes. The packages are being compiled for the ARMv6+VFP CPU. If the
 hardware supports that CPU feature set then Raspbian should function
-well on that hardware. An example of such hardware is the [Via
+well on that hardware. A different kernel will of course be needed and
+it should be noted that some hardware has poor support for "regular"
+linux system An example of such hardware is the [Via
 APC](http://apc.io/). That being said, many newer hardware devices
 utilize a variant of the ARMv7 CPU which may be better served by the
 official Debian Wheezy armhf port.
 
 ## Are you planning to have an official SD image for the Raspberry Pi?
 
-Yes, an official Raspbian SD image will be offered at some point in the
-future. However, this will only occur after the process of rebuilding
-all the Debian Wheezy armhf packages is complete. There are unofficial
-SD images available from the [Images page](RaspbianImages).
+There are no immediate plans for raspbian itself to release official SD
+card images. Currently we reccomend beginners use the images provided by
+the raspberry Pi foundation. Some other images are listed on the [Images
+page](RaspbianImages).
 
 ## How can I use Raspbian packages until the official SD image is ready?
 
@@ -202,7 +217,9 @@ Your **/etc/apt/sources.list** file should look as follows:
     deb-src http://archive.raspbian.org/raspbian wheezy main contrib non-free rpi
 
 When using apt-get, you will will want to install the Raspbian public
-key in your apt-get keyring. This can be done with following command:
+key in your apt-get keyring, it should already be there if you used
+debootstrap from the Raspbian repository but if you need to add it
+manually this can be done with following command:
 
     wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
 
@@ -211,12 +228,8 @@ geographic locations can be found [here](RaspbianMirrors).
 
 ## Can I mix packages from the Debian repositories with Raspbian?
 
-For the great majority of Raspbian users, for practical purposes the
-answer is "No". Packages from the Debian repositories cannot and should
-not be used with Raspbian. However, if you really know what you are
-doing and can deal with a file system that may no longer boot, it may be
-possible to get certain select Debian packages working with Raspbian.
-The rest of this answer deals with how that might be done.
+The short answer is if you don't know what you are doing you should not
+mix them. For the long answer read on.
 
 Debian armel packages use the soft float ABI which is incompatible with
 the hard float ABI used by Raspbian. In theory it should be possible to
@@ -239,7 +252,9 @@ Debian and Raspbian. Source packages should in general be compatible
 though some may need modification to adjust compiler settings (most
 Debian packages just use the compiler defaults but some use their own
 settings for various reasons). A test script for testing packages for
-armv7 contamination is available at <http://pastebin.com/BtSdvrXM>.
+armv7 contamination is available at <http://pastebin.com/BtSdvrXM> but
+the script is not perfect and can suffer from both false positives and
+false negatives.
 
 ## Are 'contrib' and/or 'non-free' included the repository?
 
@@ -262,11 +277,16 @@ that a given package functions on Raspberry Pi hardware. This approach
 will appeal to fans of Debian who simply want the optimal Debian
 experience on Raspberry Pi hardware.
 
-It is likely other extra areas of the Raspbian repository will be
-created over time which will contain Raspberry Pi specific packages that
-are not part of Debian. What these extras might be will be an exercise
-left to the future after the initial port of Debian Wheezy armhf to the
-Raspberry Pi hardware is complete.
+An area in the repository called "rpi" was created for raspberry Pi
+specific packages but none have been placed in there yet due to a
+combination of lack of manpower and the need to coordinate with the
+raspberry Pi foundation. The raspberry Pi foundation have their own
+repository at <http://archive.raspberrypi.org/debian/> which contains
+various packages they include in their images.
+
+There is also a repository at <http://archive.raspbian.org/mate> which
+contains a raspbian build of the [mate desktop
+environment](http://mate-desktop.org/) (a fork of gnome 2).
 
 ## What compilation options should be set Raspbian code?
 
@@ -394,10 +414,18 @@ Save the config file, and to make it take effect:
 
 ## No space left on device, but I have plenty of free space on my SD card. What do I do?
 
-On many Raspbian systems, for performance reasons, the /tmp directory is
-a RAM disk with limited memory. Installers for applications will
-sometimes fill up this temporary space and you may see messages such as
-the one below.
+The first thing to check is that the partition actually fills the SD
+card. Most images are built with partitions sized to fit on relatively
+small cards. The raspberry Pi foundation image contains a tool called
+raspi-config which contains an option to enlarge the root partition.
+Other setups may require other procedures to resize the partitions which
+are beyond the scope of this FAQ.
+
+If there is plenty of space on the root partition then it may be a /tmp
+issue. On many Raspbian systems, for performance reasons, the /tmp
+directory is a RAM disk with limited memory. Installers for applications
+will sometimes fill up this temporary space and you may see messages
+such as the one below.
 
 ``cp: writing `/tmp/tmp.XwAcjvnTkE/rfc5834.txt.gz': No space left on device``
 
