@@ -5,14 +5,16 @@ in turn can be used to boot your Raspberry Pi and Via APC into the
 Raspbian operating system. Using a Raspbian image is the easiest way for
 a new user to get started with Raspbian.
 
-## Official Raspbian Images
+## Raspberry Pi foundation Raspbian Images
 
 The [Raspberry Pi Foundation](http://www.raspberrypi.org/) has produced
 and released their own recommended image of Raspbian. Because this image
 and subsequent updates will be used by 100,000's of Raspberry Pi users,
-it should be considered the "Official Raspbian Image". This image can be
-downloaded directly from the [Raspberry Pi Website Downloads
-Page](http://www.raspberrypi.org/downloads).
+it should be considered the best supported. However it should be
+remembered that this image is created by the raspberry Pi foundation not
+the Raspbian project and as such we don't control what is in it. This
+image can be downloaded directly from the [Raspberry Pi Website
+Downloads Page](http://www.raspberrypi.org/downloads).
 
 ## Preinstalled SD Cards
 
