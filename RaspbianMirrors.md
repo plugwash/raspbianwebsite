@@ -160,7 +160,7 @@ in Trondhjem</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
-<td><p>Sweeden</p></td>
+<td><p>Sweden</p></td>
 <td><p>Academic Computer Club at Umeå University</p></td>
 <td><p><a href="http://ftp.acc.umu.se/mirror/raspbian/raspbian">http://ftp.acc.umu.se/mirror/raspbian/raspbian</a><br />
 <a href="ftp://ftp.acc.umu.se/mirror/raspbian/raspbian">ftp://ftp.acc.umu.se/mirror/raspbian/raspbian</a><br />
