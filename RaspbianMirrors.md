@@ -142,7 +142,7 @@ AOIDE Networks</p></td>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
-<td><p>Triple-it</p></td>
+<td><p>Triple IT</p></td>
 <td><p><a href="http://raspbian.mirror.triple-it.nl/raspbian/">http://raspbian.mirror.triple-it.nl/raspbian/</a></p></td>
 </tr>
 <tr class="even">
