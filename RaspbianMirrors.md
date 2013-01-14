@@ -84,13 +84,13 @@ UK Mirror Service</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Ircam</p></td>
-<td><p>{ftp,http,rsync}://mirrors.ircam.fr/pub/raspbian/raspbian</p></td>
+<td><p>{ftp,http,rsync}://mirrors.ircam.fr/pub/raspbian/raspbian/raspbian</p></td>
 </tr>
 <tr class="odd">
-<td><p>Europe</p></td>
+<td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Julien Crifo</p></td>
-<td><p>(http|ftp)://ftp.crifo.org/raspbian/</p></td>
+<td><p>(http|ftp)://ftp.crifo.org/raspbian/raspbian</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
