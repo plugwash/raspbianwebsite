@@ -314,6 +314,12 @@ rsync://ftp.neowiz.com/raspbian/raspbian</p></td>
 <td><p>(http|ftp|rsync)://ftp.kaist.ac.kr/raspbian/</p></td>
 </tr>
 <tr class="odd">
+<td><p>Asia</p></td>
+<td><p>Indonesia</p></td>
+<td><p>datautama</p></td>
+<td><p>(http|rsync)://kartolo.sby.datautama.net.id/raspbian/raspbian</p></td>
+</tr>
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
