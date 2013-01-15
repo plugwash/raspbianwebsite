@@ -193,9 +193,9 @@ rsync://mirrors.fe.up.pt/raspbian/</p></td>
 <td><p>(ftp|http)://mirror.gludo.net/raspbian/</p></td>
 </tr>
 <tr class="odd">
-<td><p>Europe</p></td>
+<td><p>Europe<sup>*</sup></p></td>
 <td><p>Slovenia</p></td>
-<td><p>arnes</p></td>
+<td><p>ARNES</p></td>
 <td><p>(ftp|http)://ftp.arnes.si/mirrors/raspbian/raspbian<br />
 rsync://ftp.arnes.si/raspbian/</p></td>
 </tr>
@@ -323,7 +323,7 @@ rsync://ftp.neowiz.com/raspbian/raspbian</p></td>
 <tr class="even">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Indonesia</p></td>
-<td><p>datautama</p></td>
+<td><p>DATAUTAMA-NET-ID</p></td>
 <td><p>(http|rsync)://kartolo.sby.datautama.net.id/raspbian/raspbian</p></td>
 </tr>
 <tr class="odd">
