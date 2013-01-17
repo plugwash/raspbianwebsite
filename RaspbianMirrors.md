@@ -200,49 +200,56 @@ rsync://mirrors.fe.up.pt/raspbian/</p></td>
 rsync://ftp.arnes.si/raspbian/</p></td>
 </tr>
 <tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>Austria</p></td>
+<td><p>chaoshost.at</p></td>
+<td><p><a href="http://raspbian.chaoshost.at/raspbian/">http://raspbian.chaoshost.at/raspbian/</a><br />
+rsync://raspbian.chaoshost.at/archive/raspbian</p></td>
+</tr>
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Hexxeh</p></td>
 <td><p><a href="http://distribution-us.hexxeh.net/raspbian/archive/raspbian">http://distribution-us.hexxeh.net/raspbian/archive/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>the808.net</p></td>
 <td><p><a href="http://raspbian.the808.net/raspbian">http://raspbian.the808.net/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.us.leaseweb.net/raspbian/raspbian">http://mirror.us.leaseweb.net/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>nwlinux</p></td>
 <td><p><a href="http://raspbian.nwlinux.us/raspbian">http://raspbian.nwlinux.us/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Caronet</p></td>
 <td><p><a href="http://raspbian.caro.net/raspbian">http://raspbian.caro.net/raspbian</a><br />
 rsync rsync://raspbian.caro.net/raspbian/raspbian</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Caronet</p></td>
 <td><p><a href="http://raspbian.caro.net/raspbian">http://raspbian.caro.net/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Christopher Meng</p></td>
 <td><p><a href="http://mirrors.cicku.me/raspbian/raspbian">http://mirrors.cicku.me/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Michigan Tech<br />
@@ -250,7 +257,7 @@ Linux Users Group</p></td>
 <td><p><a href="http://lug.mtu.edu/raspbian">http://lug.mtu.edu/raspbian</a><br />
 <a href="ftp://lug.mtu.edu/raspbian">ftp://lug.mtu.edu/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Federal University<br />
@@ -259,34 +266,34 @@ UFMS</p></td>
 <td><p><a href="http://raspbian.ufms.br/raspbian/">http://raspbian.ufms.br/raspbian/</a><br />
 rsync://200.129.202.132/Raspbian</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>AARNet</p></td>
 <td><p><a href="http://mirror.aarnet.edu.au/pub/raspbian/raspbian">http://mirror.aarnet.edu.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Australia</p></td>
 <td><p>Australia</p></td>
 <td><p>Over The Wire</p></td>
 <td><p><a href="http://mirror.overthewire.com.au/pub/raspbian/raspbian">http://mirror.overthewire.com.au/pub/raspbian/raspbian</a><br />
 <a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Australia<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Sky<code class="backtick"></code>Mesh Pty Ltd</p></td>
 <td><p><a href="http://raspbian.skymesh.net.au/raspbian/raspbian">http://raspbian.skymesh.net.au/raspbian/raspbian</a><br />
 <a href="ftp://raspbian.skymesh.net.au/raspbian">ftp://raspbian.skymesh.net.au/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Australia<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Internode</p></td>
 <td><p><a href="http://mirror.internode.on.net/pub/raspbian/raspbian/">http://mirror.internode.on.net/pub/raspbian/raspbian/</a><br />
 rsync://mirror.internode.on.net/raspbian/raspbian/&lt;&lt;BR&gt;<a href="ftp://mirror.internode.on.net/pub/raspbian/raspbian/">ftp://mirror.internode.on.net/pub/raspbian/raspbian/</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Singapore</p></td>
 <td><p>NUS<br />
@@ -294,19 +301,19 @@ School of Computing<br />
 Sig<code class="backtick"></code>Labs</p></td>
 <td><p><a href="http://mirror.nus.edu.sg/raspbian/raspbian">http://mirror.nus.edu.sg/raspbian/raspbian</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Tsinghua University Network Administrators</p></td>
 <td><p><a href="http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/">http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p>dnetwork</p></td>
 <td><p><a href="http://mirror.devunt.kr/raspbian/raspbian/">http://mirror.devunt.kr/raspbian/raspbian/</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p><a href="/NeowizGames">NeowizGames</a> corp</p></td>
@@ -314,19 +321,19 @@ Sig<code class="backtick"></code>Labs</p></td>
 <a href="http://ftp.neowiz.com/raspbian/raspbian">http://ftp.neowiz.com/raspbian/raspbian</a><br />
 rsync://ftp.neowiz.com/raspbian/raspbian</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p>KAIST</p></td>
 <td><p>(http|ftp|rsync)://ftp.kaist.ac.kr/raspbian/</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Indonesia</p></td>
 <td><p>DATAUTAMA-NET-ID</p></td>
 <td><p>(http|rsync)://kartolo.sby.datautama.net.id/raspbian/raspbian</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
