@@ -99,11 +99,12 @@ and returning from functions and other details that are required for
 binaries to be compatible with each other.
 
 The "soft float" ABI passes floating point parameters in integer
-registers while the "hard float ABI". The two ABIs are not compatible
-because they use different registers. It is possible to use hardware
-floating point with the soft-float ABI but doing so means that whenever
-a floating point value is passed to or returned from a function it must
-be transferred to an integer register incurring a performance penalty.
+registers while the "hard float ABI" passes them in vfp (floating point)
+registers. The two ABIs are not compatible because they use different
+registers. It is possible to use hardware floating point with the
+soft-float ABI but doing so means that whenever a floating point value
+is passed to or returned from a function it must be transferred to an
+integer register incurring a performance penalty.
 
 ## What is Debian?
 
