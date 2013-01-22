@@ -203,7 +203,7 @@ in Trondhjem</p></td>
 <td><p><a href="http://ftp.acc.umu.se/mirror/raspbian/raspbian">http://ftp.acc.umu.se/mirror/raspbian/raspbian</a><br />
 <a href="ftp://ftp.acc.umu.se/mirror/raspbian/raspbian">ftp://ftp.acc.umu.se/mirror/raspbian/raspbian</a><br />
 rsync://ftp.acc.umu.se/mirror/raspbian/raspbian</p></td>
-<td><p>Doesn't seem to have updated since november 2012</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
