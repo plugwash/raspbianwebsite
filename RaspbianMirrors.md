@@ -39,7 +39,7 @@
 <td><p>United Kingdom</p></td>
 <td><p>Mythic Beasts</p></td>
 <td><p><a href="http://raspberrypi.mythic-beasts.com/raspbian/raspbian">http://raspberrypi.mythic-beasts.com/raspbian/raspbian</a></p></td>
-<td><p>Seems to be down, admin contacted</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
