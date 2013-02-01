@@ -319,7 +319,7 @@ of Mato Grosso do Sul<br />
 UFMS</p></td>
 <td><p><a href="http://raspbian.ufms.br/raspbian/">http://raspbian.ufms.br/raspbian/</a><br />
 rsync://200.129.202.132/Raspbian</p></td>
-<td></td>
+<td><p>http access seems to be broken (rsync still seems to work) as of 1-feb-2013, mirror admin contacted</p></td>
 </tr>
 <tr class="even">
 <td><p>Australia</p></td>
