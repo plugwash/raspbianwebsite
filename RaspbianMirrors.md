@@ -161,6 +161,21 @@ AOIDE Networks</p></td>
 <td><p><a href="http://raspbian.mirror.grmml.eu/raspbian">http://raspbian.mirror.grmml.eu/raspbian</a></p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+||Europe<sup>\*</sup>||Germany||[NetCologne](/NetCologne)
+GmbH||(http|ftp|rsync)://mirror.netcologne.de/raspbian/raspbian/
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
