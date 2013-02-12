@@ -402,7 +402,8 @@ rsync://ftp.neowiz.com/raspbian/raspbian</p></td>
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>JAIST</p></td>
-<td><p><a href="http://ftp.jaist.ac.jp/raspbian%3C%3CBR%3E%3E(http%7Crsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian">http://ftp.jaist.ac.jp/raspbian&lt;&lt;BR&gt;&gt;(http|rsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian</a></p></td>
+<td><p><a href="http://ftp.jaist.ac.jp/raspbian">http://ftp.jaist.ac.jp/raspbian</a><br />
+(http|rsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="odd">
