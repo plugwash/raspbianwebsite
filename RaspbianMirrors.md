@@ -402,7 +402,7 @@ rsync://ftp.neowiz.com/raspbian/raspbian</p></td>
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p>KAIST</p></td>
-<td><p>(http|ftp|rsync)://ftp.kaist.ac.kr/raspbian/</p></td>
+<td><p>(http|ftp|rsync)://ftp.kaist.ac.kr/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
