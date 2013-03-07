@@ -324,7 +324,7 @@ SMB/CIFS volumes.
 
 Easy. *sudo modprobe ipv6* will enable it immediately. If you want it to
 automatically be enabled at boot, just add *ipv6* on a line by itself at
-the end of */etc/modules.conf*.
+the end of */etc/modules*.
 
 ## How do I mount directories from other Linux/Unix/BSD servers? How do I mount an NFS share?
 
