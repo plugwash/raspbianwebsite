@@ -414,20 +414,27 @@ rsync://ftp.neowiz.com/raspbian/raspbian</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia<sup>*</sup></p></td>
+<td><p>South Korea</p></td>
+<td><p>Yongbok.net</p></td>
+<td><p>(http|ftp|rsync)://mirror.yongbok.net/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>JAIST</p></td>
 <td><p><a href="http://ftp.jaist.ac.jp/raspbian">http://ftp.jaist.ac.jp/raspbian</a><br />
 (http|rsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Indonesia</p></td>
 <td><p>DATAUTAMA-NET-ID</p></td>
 <td><p>(http|rsync)://kartolo.sby.datautama.net.id/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
