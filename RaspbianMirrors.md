@@ -386,7 +386,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Dalian Neusoft University of Information</p></td>
-<td><p><a href="http://mirrors.neusoft.edu.cn/raspbian">http://mirrors.neusoft.edu.cn/raspbian</a></p></td>
+<td><p><a href="http://mirrors.neusoft.edu.cn/raspbian/raspbian">http://mirrors.neusoft.edu.cn/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
