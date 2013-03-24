@@ -11,8 +11,8 @@ Contents
     4.  [What is Debian?](#What_is_Debian.3F)
     5.  [Is there documentation available for
         Raspbian?](#Is_there_documentation_available_for_Raspbian.3F)
-    6.  [How much of Debian Wheezy armhf does Raspbian
-        support?](#How_much_of_Debian_Wheezy_armhf_does_Raspbian_support.3F)
+    6.  [How much of Debian wheezy armhf does Raspbian
+        support?](#How_much_of_Debian_wheezy_armhf_does_Raspbian_support.3F)
     7.  [Will Raspbian work with non-Raspberry Pi
         systems?](#Will_Raspbian_work_with_non-Raspberry_Pi_systems.3F)
     8.  [Are you planning to have an official SD image for the Raspberry
@@ -52,16 +52,16 @@ Contents
 ## I'm new to Raspberry Pi and Raspbian. What should I know?
 
 The goal of Raspbian is to become the leading OS of choice for all users
-of the Raspberry Pi. This goal has been largely acheived. There are
-still some rough edges but these are generally more related to the Pis
-hardware and kernel than raspbian itself.
+of the Raspberry Pi. This goal has been largely achieved. There are
+still some rough edges but these are generally more related to the Pi's
+hardware and kernel than Raspbian itself.
 
 Raspbian images are produced by various people. For newcomers we
 recommend the images provided by the Raspberry Pi foundation, these are
 available from their download page [Raspberry Pi Foundation's download
 page](http://www.raspberrypi.org/downloads).
 
-Raspbian tries to stay as close to debian as reasonably possible. Debian
+Raspbian tries to stay as close to Debian as reasonably possible. Debian
 is used by millions of users around the globe on a daily basis and there
 is a vast store of knowledge and documentation about using Debian across
 the web. Any information you find that applies to Debian will almost
@@ -71,24 +71,21 @@ it would when using it on a newer version of debian.
 
 ## What is Raspbian?
 
-Raspbian is an unofficial port of Debian Wheezy armhf with compilation
+Raspbian is an unofficial port of Debian wheezy armhf with compilation
 settings adjusted to produce code that uses "hardware floating point",
 the "hard float" ABI and will run on the Raspberry Pi.
 
-The port is necessary because the official Debian Wheezy armhf release
+The port is necessary because the official Debian wheezy armhf release
 is compatible only with versions of the ARM architecture later than the
 one used on the Raspberry Pi (ARMv7-A CPUs and higher, vs the Raspberry
 Pi's ARMv6 CPU).
 
-The official [Debian Squeeze
-image](http://www.raspberrypi.org/downloads) issued by the Raspberry Pi
-foundation was based on debian armel which uses software floating point
-and the "soft float" ABI. The foundation found it necessary to use the
-existing Debian port for less capable ARM devices due to time and
-resource constraints during development of the Raspberry Pi. Therefore,
-it does not use of the Pi's processor's floating point hardware -
-reducing the Pi's performance during floating point intensive
-applications - or the advanced instructions of the ARMv6 CPU.
+The Debian squeeze image issued by the Raspberry Pi foundation was based
+on debian armel which uses software floating point and the "soft float"
+ABI. The foundation used the existing Debian port for less capable ARM
+devices. Therefore, it did not use of the Pi's processor's floating
+point hardware - reducing the Pi's performance during floating point
+intensive applications - or the advanced instructions of the ARMv6 CPU.
 
 ## What do you mean by "soft float ABI" and "hard float ABI"?
 
@@ -137,13 +134,13 @@ areas.
 
 Any slight differences between Debian and Raspbian or aspects of
 Raspbian that are unique to the Raspberry Pi hardware will be documented
-on this web site or on the raspberry Pi section of the elinux.org wiki.
+on this web site or on the Raspberry Pi section of the elinux.org wiki.
 
-## How much of Debian Wheezy armhf does Raspbian support?
+## How much of Debian wheezy armhf does Raspbian support?
 
 We have built the vast majority of packages from debian wheezy, indeed
-there are now more binary package in raspbian wheezy than there are in
-the armel and armhf ports of raspbian (though part of this is that we
+there are now more binary package in Raspbian wheezy than there are in
+the armel and armhf ports of Raspbian (though part of this is that we
 haven't been as agressive about removals as debian is).
 
 Please feel free to get in touch through the forums if a package you
@@ -161,16 +158,16 @@ Yes. The packages are being compiled for the ARMv6+VFP CPU. If the
 hardware supports that CPU feature set then Raspbian should function
 well on that hardware. A different kernel will of course be needed and
 it should be noted that some hardware has poor support for "regular"
-linux system An example of such hardware is the [Via
+Linux system An example of such hardware is the [Via
 APC](http://apc.io/). That being said, many newer hardware devices
 utilize a variant of the ARMv7 CPU which may be better served by the
-official Debian Wheezy armhf port.
+official Debian wheezy armhf port.
 
 ## Are you planning to have an official SD image for the Raspberry Pi?
 
-There are no immediate plans for raspbian itself to release official SD
-card images. Currently we reccomend beginners use the images provided by
-the raspberry Pi foundation. Some other images are listed on the [Images
+There are no immediate plans for Raspbian itself to release official SD
+card images. Currently we recommend beginners use the images provided by
+the Raspberry Pi foundation. Some other images are listed on the [Images
 page](RaspbianImages).
 
 ## How can I use Raspbian packages until the official SD image is ready?
@@ -241,7 +238,7 @@ and there are other potential issues too. As such we don't currently
 recommend or support multiarch configurations with Debian armel and
 Raspbian armhf.
 
-Debian armhf packages should be compatible with raspbian packages but a
+Debian armhf packages should be compatible with Raspbian packages but a
 system with such a mixture WILL NOT RUN ON THE PI. Furthermore there may
 be corner cases where libraries build slightly differently on Raspbian.
 Such mixed systems can be useful for development (they were used heavily
@@ -264,21 +261,19 @@ and the architecture 'all' packages. This should allow many USB devices
 to be supported as their firmware is often found in architecture 'all'
 packages. In the future, we'll be enabling compilation of the
 architecture specific 'armhf' packages, but this requires further
-tweaking of our autobuild infrastructure and it may take a while for us
-to get to as we are still trying to keep up with the constant updates
-being produced by the Debian Wheezy freeze that is coming up. This FAQ
-will be updated when the architecture specific 'armhf' packages are
-included in these sections.
+tweaking of our autobuild infrastructure. Currently it is not planned to
+build contrib and non-free until we migrate to new build infrastructure
+after the release of wheezy.
 
 ## Is it just the repository? Or, will you provide any customization?
 
 In general, the Raspbian repository will be kept as close to Debian
-Wheezy as possible with changes limited to those we deem essential so
+wheezy as possible with changes limited to those we deem essential so
 that a given package functions on Raspberry Pi hardware. This approach
 will appeal to fans of Debian who simply want the optimal Debian
 experience on Raspberry Pi hardware.
 
-An area in the repository called "rpi" was created for raspberry Pi
+An area in the repository called "rpi" was created for Raspberry Pi
 specific packages but none have been placed in there yet due to a
 combination of lack of manpower and the need to coordinate with the
 raspberry Pi foundation. The raspberry Pi foundation have their own
@@ -417,7 +412,7 @@ Save the config file, and to make it take effect:
 
 The first thing to check is that the partition actually fills the SD
 card. Most images are built with partitions sized to fit on relatively
-small cards. The raspberry Pi foundation image contains a tool called
+small cards. The Raspberry Pi foundation image contains a tool called
 raspi-config which contains an option to enlarge the root partition.
 Other setups may require other procedures to resize the partitions which
 are beyond the scope of this FAQ.
