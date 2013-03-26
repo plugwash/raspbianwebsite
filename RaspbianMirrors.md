@@ -89,7 +89,7 @@ UK Mirror Service</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Ircam</p></td>
-<td><p>(ftp|http|rsync)://mirrors.ircam.fr/pub/raspbian/raspbian/raspbian</p></td>
+<td><p>(ftp|http|rsync)://mirrors.ircam.fr/pub/raspbian/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="even">
