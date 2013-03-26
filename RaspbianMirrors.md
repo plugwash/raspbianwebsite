@@ -241,7 +241,7 @@ rsync://mirrors.fe.up.pt/raspbian/</p></td>
 <td><p>Russia</p></td>
 <td><p>Gludo.net (Gludo Telecom)</p></td>
 <td><p>(ftp|http)://mirror.gludo.net/raspbian/</p></td>
-<td></td>
+<td><p>Appears to be down as of 26-Mar-2013</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
