@@ -143,7 +143,7 @@ Sektion Wundtstraße</p></td>
 Universität Paderborn</p></td>
 <td><p><a href="http://mirror.et.uni-paderborn.de/raspbian/raspbian">http://mirror.et.uni-paderborn.de/raspbian/raspbian</a><br />
 <a href="ftp://mirror.et.uni-paderborn.de/raspbian/raspbian">ftp://mirror.et.uni-paderborn.de/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>Appears to be down as of 26-Mar-2013</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
