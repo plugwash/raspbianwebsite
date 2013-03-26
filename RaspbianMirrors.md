@@ -76,7 +76,7 @@ UK Mirror Service</p></td>
 <td><p>France</p></td>
 <td><p>hxxr</p></td>
 <td><p><a href="http://mirror.fr.mdhx.me/raspbian/raspbian">http://mirror.fr.mdhx.me/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>Redirecting to an advertising site as of 26-Mar-2013</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
@@ -209,7 +209,7 @@ in Trondhjem</p></td>
 <td><p>Romania</p></td>
 <td><p>hxxr</p></td>
 <td><p><a href="http://mirror.ro.mdhx.me/raspbian/raspbian">http://mirror.ro.mdhx.me/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>Redirecting to an advertising site as of 26-Mar-2013</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
