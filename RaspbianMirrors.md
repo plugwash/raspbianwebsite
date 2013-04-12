@@ -259,21 +259,14 @@ rsync://ftp.arnes.si/raspbian/</p></td>
 rsync://raspbian.chaoshost.at/archive/raspbian</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-||Europe||Hungary||Innobrand Ltd||
-<http://raspbian.innobrand.hu/raspbian/>  
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
+<tr class="even">
+<td><p>Europe</p></td>
+<td><p>Hungary</p></td>
+<td><p>Innobrand Ltd</p></td>
+<td><p><a href="http://raspbian.innobrand.hu/raspbian/">http://raspbian.innobrand.hu/raspbian/</a><br />
+rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Denmark</p></td>
