@@ -21,8 +21,9 @@ Downloads Page](http://www.raspberrypi.org/downloads).
 Looking for a simple way to get your Raspberry Pi up and running? The Pi
 Hut's [Raspberry Pi Store](http://thepihut.com/) offer quality, branded
 SD SDHC cards with the latest official Raspbian image preinstalled,
-ready to be plugged into your Raspberry Pi. Available here: \*[Raspbian
-Preinstalled SD
+ready to be plugged into your Raspberry Pi. Available here:
+
+[Raspbian Preinstalled SD
 cards](http://thepihut.com/products/raspbian-preinstalled-sd-card)
 
 ## Unofficial Raspbian Images
