@@ -21,32 +21,9 @@ Downloads Page](http://www.raspberrypi.org/downloads).
 Looking for a simple way to get your Raspberry Pi up and running? The Pi
 Hut's [Raspberry Pi Store](http://thepihut.com/) offer quality, branded
 SD SDHC cards with the latest official Raspbian image preinstalled,
-ready to be plugged into your Raspberry Pi. Available in the following
-options:
-
-Sandisk
-
-  - [4GB Raspbian SD
-    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
-
-  - [8GB Raspbian SD
-    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
-
-  - [16GB Raspbian SD
-    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
-
-  - [32GB Raspbian SD
-    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
-
-Samsung
-
-  - [16GB Raspbian SD
-    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
-    (Class 10)
-
-  - [32GB Raspbian SD
-    Card](http://thepihut.com/products/raspbian-preinstalled-sd-card)
-    (Class 10)
+ready to be plugged into your Raspberry Pi. Available [Raspbian
+Preinstalled SD
+cards](http://thepihut.com/products/raspbian-preinstalled-sd-card)
 
 ## Unofficial Raspbian Images
 
