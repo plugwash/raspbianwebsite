@@ -278,7 +278,7 @@ rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Slovakia</p></td>
 <td><p>Wheel.sk</p></td>
-<td><p><a href="http://mirror.wheel.sk/raspbian/raspbian/">http://mirror.wheel.sk/raspbian/raspbian/</a></p></td>
+<td><p>(http|rsync)://mirror.wheel.sk/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
