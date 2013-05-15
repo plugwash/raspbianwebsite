@@ -456,6 +456,13 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Asia</p></td>
+<td><p>Israel</p></td>
+<td><p>Israel Internet Association (ISOC-IL)</p></td>
+<td><p>(http|ftp)://mirror.isoc.org.il/pub/raspbian/</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
