@@ -491,22 +491,14 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>(http|ftp)://mirror.isoc.org.il/pub/raspbian/</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-||Asia||India||Honesty Net Solutions (I) Pvt
-Ltd||<http://raspbian.mirror.net.in/raspbian/raspbian/>
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
 <tr class="odd">
+<td><p>Asia</p></td>
+<td><p>India</p></td>
+<td><p>Honesty Net Solutions (I) Pvt Ltd</p></td>
+<td><p><a href="http://raspbian.mirror.net.in/raspbian/raspbian/">http://raspbian.mirror.net.in/raspbian/raspbian/</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
