@@ -469,21 +469,14 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>(http|ftp|rsync)://ftp.lecl.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-||Asia<sup>\*</sup>||Japan||JAIST||<http://ftp.jaist.ac.jp/raspbian>  
-(http|rsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian||
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
+<tr class="even">
+<td><p>Asia<sup>*</sup></p></td>
+<td><p>Japan</p></td>
+<td><p>JAIST</p></td>
+<td><p><a href="http://ftp.jaist.ac.jp/raspbian">http://ftp.jaist.ac.jp/raspbian</a><br />
+(http|rsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Indonesia</p></td>
