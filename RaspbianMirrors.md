@@ -391,7 +391,7 @@ rsync://200.129.202.132/Raspbian</p></td>
 <td><p>South America</p></td>
 <td><p>Colombia</p></td>
 <td><p>Corporacion Universitaria Minuto de Dios</p></td>
-<td><p>(http|rsync)://raspbian.uniminuto.edu/raspbian/</p></td>
+<td><p>(http|rsync)://raspbian.uniminuto.edu/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
