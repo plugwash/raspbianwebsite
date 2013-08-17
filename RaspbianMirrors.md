@@ -24,7 +24,7 @@
 <td><p>Europe</p></td>
 <td><p>United Kingdom</p></td>
 <td><p>Raspberry Pi Foundation</p></td>
-<td><p><a href="http://downloads.raspberrypi.org/raspbian/raspbian">http://downloads.raspberrypi.org/raspbian/raspbian</a></p></td>
+<td><p><a href="http://mirror.raspberrypi.org/raspbian/raspbian">http://mirror.raspberrypi.org/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
