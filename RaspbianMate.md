@@ -1,5 +1,8 @@
 # MATE on Raspbian
 
+**IMPORTANT: MATE for Raspbian has been upgraded to version 1.6.0 on
+Sept. 27th, 2013.**
+
 Gnome 2 was the most popular Linux desktop, but it’s no longer
 available. MATE is a fork of Gnome 2 and provides an intuitive and
 attractive desktop to Linux users using traditional metaphors.
@@ -26,14 +29,24 @@ default desktop is [available here](PiscesMATEImages).
 #### Install MATE With apt-get
 
 For Raspbian, add the following repository to your
-"/etc/apt/sources.list":
+"/etc/apt/sources.list" depending on whether you are running Raspbian
+Wheezy or Raspbian Jessie (the testing version of Raspbian).
+
+**For Raspbian Wheezy:**
 
     deb http://archive.raspbian.org/mate wheezy main
 
-Perform the following commands:
+**For Raspbian Jessie:**
+
+    deb http://archive.raspbian.org/mate wheezy main
+
+Then perform the following commands to install all the MATE packages:
 
     sudo apt-get update
     sudo apt-get install mate-core mate-desktop-environment
+
+MATE consists of about 318 MB of files to the download and install on a
+Raspberry Pi will take a while.
 
 ## Starting MATE
 
@@ -72,7 +85,6 @@ Gnome 2 applications under MATE:
 
   - Nautilus is renamed caja
   - Metacity is renamed marco
-  - Gconf is renamed mate-conf
 
 Other applications and core components prefixed with Gnome (such as
 Gnome Panel, Gnome Menus etc) have simply had the prefix renamed "MATE"
@@ -117,6 +129,8 @@ Edit the file (create if necessary) `~/.gtkrc-2.0` and add the line:
 
 #### Enable Reduced Resources Mode
 
+*Only works for MATE version 1.4 and below.*
+
 The Marco window manager has a reduced resources mode which renders
 windows as wireframes when you move and resize windows. When reduced
 resources mode is enabled, only the outline of windows is displayed when
@@ -128,9 +142,11 @@ windows.
 
 To enable reduced resources mode, execute the following command:
 
-    # mateconftool-2 --type bool --set /apps/marco/general/reduced_resources true 
+    # mateconftool-2 --type bool --set /apps/marco/general/reduced_resources true
 
 #### Turn Off Display of Icons in Menus
+
+*Only works for MATE version 1.4 and below.*
 
 Some items in menus display an icon beside the item. To turn off this
 feature and save CPU resources, execute the following command:
