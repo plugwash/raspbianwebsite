@@ -38,7 +38,7 @@ Wheezy or Raspbian Jessie (the testing version of Raspbian).
 
 **For Raspbian Jessie:**
 
-    deb http://archive.raspbian.org/mate wheezy main
+    deb http://archive.raspbian.org/mate jessie main
 
 Then perform the following commands to install all the MATE packages:
 
