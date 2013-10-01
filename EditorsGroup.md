@@ -52,3 +52,5 @@ EditorsGroup configured as described
   - [AlexandreRaymond](/AlexandreRaymond)
 
   - [KennyMacDermid](/KennyMacDermid)
+
+  - [HiFi](/HiFi)
