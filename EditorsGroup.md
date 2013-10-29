@@ -54,3 +54,5 @@ EditorsGroup configured as described
   - [KennyMacDermid](/KennyMacDermid)
 
   - [HiFi](/HiFi)
+
+  - confuseling
