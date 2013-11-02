@@ -66,10 +66,10 @@ rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Europe</p></td>
+<td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Arnaud Boudou</p></td>
-<td><p><a href="https://goddess-gate.com/archive.raspbian.org/raspbian">https://goddess-gate.com/archive.raspbian.org/raspbian</a></p></td>
+<td><p><a href="http://goddess-gate.com/archive.raspbian.org/raspbian">http://goddess-gate.com/archive.raspbian.org/raspbian</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
