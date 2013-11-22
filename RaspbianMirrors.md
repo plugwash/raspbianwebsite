@@ -631,6 +631,25 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Asia</p></td>
+<td><p>Taiwan</p></td>
+<td><p>Free Software Lab, NCHC</p></td>
+<td><p>(ftp|http)://free.nchc.org.tw/raspbian/raspbian</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
