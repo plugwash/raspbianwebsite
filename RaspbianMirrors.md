@@ -338,7 +338,7 @@ rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
 <td><p>Europe</p></td>
 <td><p>Russia</p></td>
 <td><p>Ivan Rymsho</p></td>
-<td><p><a href="ftp://server.rymsho.ru/raspberry/raspbian/">ftp://server.rymsho.ru/raspberry/raspbian/</a></p></td>
+<td><p>(http|ftp)://server.rymsho.ru/raspberry/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
