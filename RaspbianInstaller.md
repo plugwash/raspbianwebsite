@@ -4,10 +4,19 @@ The files used to perform the install described below can be obtained
 from the zip file at this link:
 [rpi\_installer\_08-19-12.zip](http://archive.raspbian.org/installer/rpi_installer_08-19-12.zip).
 
-The Raspbian Installer is modeled closely after the Debian Installer and
-intended to provide a custom configured Raspbian installation. The
-installer is under active development is discussed in this [Raspbian
-Forum
+This installer is a hacked up version of the debian installer, it was
+created by jerry.tk who no longer appears to be active (last forum post
+in january 2013, last forum visit in april 2013). To run on recently
+manufactured Pis with hynix or samsung memory it is likely you will need
+to replace the kernel and bootload included with the installer with more
+recent versions from the raspberry pi foundation. This installer should
+currently be considered abandonware. Currently we reccomend using hifi's
+[raspbian-ua-netinst](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=50310)
+instead if you want to use an installer rather than a pre-installed
+image.
+
+A thread on this installer can be found on the raspberry pi foundation's
+forum at [Raspbian Forum
 thread](http://www.raspberrypi.org/phpBB3/viewtopic.php?f=66&t=6532).
 The notes below document the use of the installer as it was configured
 on August 20th, 2012.
