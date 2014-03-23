@@ -414,7 +414,7 @@ Linux Users Group</p></td>
 <td><p>United States</p></td>
 <td><p>Computer Action Team - Portland State University</p></td>
 <td><p>(http|rsync)://mirrors.cat.pdx.edu/raspbian/raspbian</p></td>
-<td><p>Responding to traceroute but http and rsync timing out as of 23-MAR-2014</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
