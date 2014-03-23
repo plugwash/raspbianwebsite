@@ -188,7 +188,7 @@ AOIDE Networks</p></td>
 <td><p>Germany</p></td>
 <td><p>University of Mannheim</p></td>
 <td><p>(http|ftp)://mirror.informatik.uni-mannheim.de/pub/linux/distributions/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>Unreachable as of 23-MAR-2014</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -421,7 +421,7 @@ Linux Users Group</p></td>
 <td><p>United States</p></td>
 <td><p>Computer Action Team - Portland State University</p></td>
 <td><p>(http|rsync)://mirrors.cat.pdx.edu/raspbian/raspbian</p></td>
-<td></td>
+<td><p>Responding to traceroute but http and rsync timing out as of 23-MAR-2014</p></td>
 </tr>
 <tr class="even">
 <td><p>North America<sup>*</sup></p></td>
@@ -657,7 +657,7 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td><p>India</p></td>
 <td><p>Honesty Net Solutions (I) Pvt Ltd</p></td>
 <td><p><a href="http://raspbian.mirror.net.in/raspbian/raspbian/">http://raspbian.mirror.net.in/raspbian/raspbian/</a></p></td>
-<td></td>
+<td><p>Unreachable as of 23-MAR-2014</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
