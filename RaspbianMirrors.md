@@ -39,7 +39,7 @@
 <td><p>United Kingdom</p></td>
 <td><p>Mythic Beasts</p></td>
 <td><p><a href="http://raspberrypi.mythic-beasts.com/raspbian/raspbian">http://raspberrypi.mythic-beasts.com/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>Unreachable as of 23-MAR-2014</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
@@ -174,7 +174,7 @@ Universität Paderborn</p></td>
 powered by<br />
 AOIDE Networks</p></td>
 <td><p><a href="http://raspbian.mirror.grmml.eu/raspbian">http://raspbian.mirror.grmml.eu/raspbian</a></p></td>
-<td></td>
+<td><p>Internal server error as of 23-MAR-2014</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
