@@ -650,7 +650,7 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td><p>India</p></td>
 <td><p>Honesty Net Solutions (I) Pvt Ltd</p></td>
 <td><p><a href="http://raspbian.mirror.net.in/raspbian/raspbian/">http://raspbian.mirror.net.in/raspbian/raspbian/</a></p></td>
-<td><p>Unreachable as of 23-MAR-2014</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Asia</p></td>
