@@ -55,7 +55,7 @@ UK Mirror Service</p></td>
 <td><p>United Kingdom</p></td>
 <td><p>RM Education</p></td>
 <td><p>(http|rsync)://mirror01.th.ifl.net/raspbian/</p></td>
-<td></td>
+<td><p>Unreachable as of 23-MAR-2014</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
@@ -156,7 +156,7 @@ Sektion Wundtstraße</p></td>
 <td><p>Germany</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.de.leaseweb.net/raspbian/raspbian">http://mirror.de.leaseweb.net/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>404 as of 23-MAR-2014</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
@@ -210,7 +210,7 @@ rsync://mirror.system.im/archiv/raspbian/</p></td>
 <td><p>Italy</p></td>
 <td><p>Internetone</p></td>
 <td><p>(http|ftp)://mirror.internetone.it/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>Unreachable as of 23-MAR-2014</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
@@ -405,7 +405,7 @@ rsync://rsync.piotrkosoft.net/mirrors/raspbian/raspbian</p></td>
 <td><p>Caronet</p></td>
 <td><p><a href="http://raspbian.caro.net/raspbian">http://raspbian.caro.net/raspbian</a><br />
 rsync://raspbian.caro.net/raspbian/raspbian</p></td>
-<td></td>
+<td><p>Unreachable as of 23-MAR-2014</p></td>
 </tr>
 <tr class="even">
 <td><p>North America</p></td>
@@ -606,7 +606,7 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>South Korea</p></td>
 <td><p>Yongbok.net</p></td>
 <td><p>(http|ftp|rsync)://mirror.yongbok.net/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>Unresolvable as of 23-MAR-2014</p></td>
 </tr>
 <tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
