@@ -149,7 +149,7 @@ Sektion Wundtstraße</p></td>
 <td><p>Germany</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.de.leaseweb.net/raspbian/raspbian">http://mirror.de.leaseweb.net/raspbian/raspbian</a></p></td>
-<td><p>404 as of 23-MAR-2014</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
