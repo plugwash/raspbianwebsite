@@ -203,7 +203,7 @@ rsync://mirror.system.im/archiv/raspbian/</p></td>
 <td><p>Italy</p></td>
 <td><p>Internetone</p></td>
 <td><p>(http|ftp)://mirror.internetone.it/raspbian/raspbian/</p></td>
-<td><p>Unreachable as of 23-MAR-2014</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
