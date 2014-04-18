@@ -32,4 +32,4 @@ keyring using the following command:
 ## Repository Bandwidth
 
 Bandwidth statistics of the Raspbian repository can be found
-[here](http://www.raspbian.org/mrtg/localhost_eth0.html).
+[here](http://www.raspbian.org/munin/bytemark/raspbian.org/if_bond0.html).
