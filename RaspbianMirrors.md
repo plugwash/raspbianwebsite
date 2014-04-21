@@ -543,7 +543,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Singapore</p></td>
 <td><p>0x.sg</p></td>
 <td><p>(http|rysnc)://mirror.0x.sg/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>rsync down and files missing on http as of 22-APR-2014</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
