@@ -550,7 +550,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>China</p></td>
 <td><p>Tsinghua University Network Administrators</p></td>
 <td><p><a href="http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/">http://mirrors.tuna.tsinghua.edu.cn/raspbian/raspbian/</a></p></td>
-<td></td>
+<td><p>Unreachable as of 15-may-2015</p></td>
 </tr>
 <tr class="odd">
 <td><p>Asia</p></td>
