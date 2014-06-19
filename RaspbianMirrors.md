@@ -776,8 +776,8 @@ while we will try to send you users only from the area you request the
 geolocation databases we use are imperfect so we cannot gaurantee that
 you will not be sent users from outside of the area you specify).
 
-Currently, the repository itself is about 90GB in size with
-approximately a further 10GB in images etc. Anyone hosting a Raspbian
+Currently, the repository itself is about 165GB in size with
+approximately a further 15GB in images etc. Anyone hosting a Raspbian
 repository mirror should plan on devoting about 250GB to handle future
 anticipated growth of the repository.
 
