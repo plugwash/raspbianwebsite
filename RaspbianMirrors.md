@@ -298,7 +298,7 @@ in Trondhjem</p></td>
 <td><p>Switzerland</p></td>
 <td><p>SWITCH</p></td>
 <td><p><a href="http://mirror.switch.ch/ftp/mirror/raspbian/raspbian">http://mirror.switch.ch/ftp/mirror/raspbian/raspbian</a><br />
-<a href="ftp://mirror.switch.ch/ftp/mirror/raspbian/raspbian">ftp://mirror.switch.ch/ftp/mirror/raspbian/raspbian</a></p></td>
+<a href="ftp://mirror.switch.ch/mirror/raspbian/raspbian">ftp://mirror.switch.ch/mirror/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
