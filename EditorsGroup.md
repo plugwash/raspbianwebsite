@@ -56,3 +56,5 @@ EditorsGroup configured as described
   - [HiFi](/HiFi)
 
   - confuseling
+
+  - [GbaMan](/GbaMan)
