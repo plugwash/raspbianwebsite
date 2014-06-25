@@ -12,13 +12,6 @@ performance on the Raspberry Pi, was completed in June of 2012. However,
 Raspbian is still under active development with an emphasis on improving
 the stability and performance of as many Debian packages as possible.
 
-# Big News\! Official Raspbian Image Released
-
-The [Raspberry Pi Foundation](http://www.raspberrypi.org/) has produced
-and released their own recommended image of Raspbian. This image can be
-downloaded directly from the [Raspberry Pi Website Downloads
-Page](http://www.raspberrypi.org/downloads).
-
 **Note:** Raspbian is not affiliated with the Raspberry Pi Foundation.
 Raspbian was created by a small, dedicated team of developers that are
 fans of the Raspberry Pi hardware, the educational goals of the
