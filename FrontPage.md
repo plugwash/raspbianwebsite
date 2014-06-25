@@ -69,7 +69,5 @@ development of Raspbian by making a [donation today](RaspbianDonate).
 This Wiki is a collaborative effort and everyone is encouraged to
 contribute and share. Unfortunately, Wikis of this type are also a
 magnet for spammers and editing content is not open to the Internet at
-large. If you would like to edit content on this site, please register
-your name and password. Then send the name you registered with in an
-email to *mpthompson(at)raspbian(dot)org* and we'll add your name to the
-list of editors that can add and change the content of this Wiki.
+large. If you would like to edit content on this site, please email
+<plugwash@raspbian.org> with your request.
