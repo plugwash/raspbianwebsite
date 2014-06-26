@@ -70,4 +70,4 @@ This Wiki is a collaborative effort and everyone is encouraged to
 contribute and share. Unfortunately, Wikis of this type are also a
 magnet for spammers and editing content is not open to the Internet at
 large. If you would like to edit content on this site, please email
-<plugwash@raspbian.org> with your request.
+plugwash (at) raspbian.org with your request.
