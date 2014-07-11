@@ -227,21 +227,14 @@ rsync://mirror.system.im/archiv/raspbian/</p></td>
 <td><p>(http|ftp)://mirror.internetone.it/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-||Europe<sup>\*</sup>||Italy||GARR||<http://raspbian.mirror.garr.it/mirrors/raspbian/raspbian/>  
-rsync://raspbian.mirror.garr.it/raspbian/raspbian/
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
+<tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>Italy</p></td>
+<td><p>GARR</p></td>
+<td><p><a href="http://raspbian.mirror.garr.it/mirrors/raspbian/raspbian/">http://raspbian.mirror.garr.it/mirrors/raspbian/raspbian/</a><br />
+rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
