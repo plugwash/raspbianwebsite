@@ -24,21 +24,18 @@ using MATE.
 #### Raspbian & MATE SD Image
 
 A Raspbian image for the Raspberry Pi with MATE configured as the
-default desktop is [available here](PiscesMATEImages).
+default desktop is [available here](PiscesMATEImages). However note that
+this image is somewhat old now.
 
 #### Install MATE With apt-get
 
-For Raspbian, add the following repository to your
-"/etc/apt/sources.list" depending on whether you are running Raspbian
-Wheezy or Raspbian Jessie (the testing version of Raspbian).
-
-**For Raspbian Wheezy:**
+For Raspbian Wheezy, add the following repository to your
+"/etc/apt/sources.list".
 
     deb http://archive.raspbian.org/mate wheezy main
 
-**For Raspbian Jessie:**
-
-    deb http://archive.raspbian.org/mate jessie main
+In Raspbian Jessie mate is now available in the main Raspbian repository
+so no changes to sources.list are needed.
 
 Then perform the following commands to install all the MATE packages:
 
