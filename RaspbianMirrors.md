@@ -269,10 +269,10 @@ rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Europe|<sup>*</sup>|The Netherlands</p></td>
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>The Netherlands</p></td>
 <td><p>TechNL</p></td>
 <td><p><a href="http://raspbian.mirror.technl.net/raspbian">http://raspbian.mirror.technl.net/raspbian</a></p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
