@@ -461,7 +461,7 @@ rsync://raspbian.koyanet.lv/raspbian/raspbian/</p></td>
 <td><p>Europe</p></td>
 <td><p>Lithuania</p></td>
 <td><p>Vilnius University</p></td>
-<td><p>(http|ftp|rsync)://raspbian.mirror.vu.lt/raspbian/</p></td>
+<td><p>(http|ftp|rsync)://raspbian.mirror.vu.lt/raspbian/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="even">
