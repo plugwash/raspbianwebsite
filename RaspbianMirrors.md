@@ -236,7 +236,7 @@ rsync://mirror.system.im/archiv/raspbian/</p></td>
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
 <td><p>axinja.com Webhosting</p></td>
-<td><p><a href="http://raspbian.koyanet.lv/raspbian/">http://raspbian.koyanet.lv/raspbian/</a></p></td>
+<td><p><a href="http://raspbian.mirror.axinja.net/raspbian/">http://raspbian.mirror.axinja.net/raspbian/</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
