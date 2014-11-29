@@ -748,8 +748,8 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>South Korea</p></td>
 <td><p>Love-Angel Electronic-Computation Laboratory</p></td>
-<td><p>(http|ftp|rsync)://ftp.lecl.net/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>(http|ftp|rsync)://ftp2.lecl.net/raspbian/raspbian/</p></td>
+<td><p>ftp seems to be broken, http and rsync seem ok</p></td>
 </tr>
 <tr class="odd">
 <td><p>Asia</p></td>
