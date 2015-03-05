@@ -29,8 +29,6 @@ Mythic Beasts
 
 (http|rsync)://mirror.mythic-beasts.com/raspbian/raspbian
 
-Unreachable as of 23-MAR-2014
-
 Europe
 
 United Kingdom
