@@ -27,7 +27,7 @@ United Kingdom
 
 Mythic Beasts
 
-<http://raspberrypi.mythic-beasts.com/raspbian/raspbian>
+(http|rsync)://mirror.mythic-beasts.com/raspbian/raspbian
 
 Unreachable as of 23-MAR-2014
 
@@ -635,14 +635,6 @@ University of Maryland
 
 (http|rsync)://mirror.umd.edu/raspbian/raspbian
 
-North America<sup>\*</sup>
-
-United States
-
-Mirror.PW
-
-(http|rsync)://mirror.pw/raspbian/raspbian/
-
 North America
 
 United States
@@ -762,6 +754,14 @@ New Caledonia
 OFFRATEL LAGOON
 
 (http|ftp|rsync)://mirror.lagoon.nc/raspbian/raspbian/
+
+Oceania
+
+Vanuatu
+
+Telsat Broadband Ltd.
+
+<http://raspbian.telsatbb.vu/raspbian/raspbian/>
 
 Asia
 
