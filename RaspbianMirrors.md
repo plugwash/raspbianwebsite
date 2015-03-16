@@ -667,6 +667,15 @@ Go-Parts
 
 (http|ftp)://mirrors-au.go-parts.com/raspbian/
 
+Oceania<sup>\*</sup>
+
+Australia
+
+Digital Pacific
+
+<http://raspbian.mirror.digitalpacific.com.au/raspbian/>  
+rsync rsync://mirror.digitalpacific.com.au/raspbian/raspbian/
+
 Oceania
 
 New Caledonia
