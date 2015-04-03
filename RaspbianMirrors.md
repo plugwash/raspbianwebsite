@@ -827,7 +827,7 @@ South Korea
 
 Love-Angel Electronic-Computation Laboratory
 
-(http|ftp|rsync)://ftp2.lecl.net/raspbian/raspbian/
+(http|ftp|rsync)://ftp.lecl.net/raspbian/raspbian/
 
 ftp seems to be broken, http and rsync seem ok
 
