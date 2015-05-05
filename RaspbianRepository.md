@@ -26,7 +26,7 @@ If needed, the Raspbian public key can be stored into your apt-get
 keyring using the following command:
 
   - ``` 
-    wget http://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
+    wget https://archive.raspbian.org/raspbian.public.key -O - | sudo apt-key add -
     ```
 
 ## Repository Bandwidth
