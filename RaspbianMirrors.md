@@ -3,247 +3,278 @@
 ### Raspbian Repository Mirrors
 
   - 
+**CONTINENT**
 
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
-<tr class="odd">
-<td><p><strong>CONTINENT</strong></p></td>
-<td><p><strong>COUNTRY</strong></p></td>
-<td><p><strong>MIRROR</strong></p></td>
-<td><p><strong>DEB/DEB-SRC ADDRESS</strong></p></td>
-<td><p><strong>ISSUES</strong></p></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>United Kingdom</p></td>
-<td><p>University of Oxford</p></td>
-<td><p><a href="http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian">http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>United Kingdom</p></td>
-<td><p>Mythic Beasts</p></td>
-<td><p>(http|rsync)://mirror.mythic-beasts.com/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>United Kingdom</p></td>
-<td><p>University of Kent<br />
-UK Mirror Service</p></td>
-<td><p><a href="http://www.mirrorservice.org/sites/archive.raspbian.org/raspbian">http://www.mirrorservice.org/sites/archive.raspbian.org/raspbian</a><br />
-<a href="ftp://ftp.mirrorservice.org/sites/archive.raspbian.org/raspbian">ftp://ftp.mirrorservice.org/sites/archive.raspbian.org/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe</p></td>
-<td><p>United Kingdom</p></td>
-<td><p>RM Education</p></td>
-<td><p>(http|rsync)://mirror01.th.ifl.net/raspbian/</p></td>
-<td><p>Unreachable as of 23-MAR-2014</p></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>United Kingdom</p></td>
-<td><p>Go-Parts</p></td>
-<td><p>(http|ftp)://mirrors-uk.go-parts.com/raspbian/<br />
-rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>United Kingdom</p></td>
-<td><p>Inside Electronics</p></td>
-<td><p><a href="http://raspbian.insideelectronics.co.uk/raspbian/">http://raspbian.insideelectronics.co.uk/raspbian/</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>United Kingdom</p></td>
-<td><p>Sargasso networks</p></td>
-<td><p><a href="http://raspbian.mirror.uk.sargasso.net/raspbian/">http://raspbian.mirror.uk.sargasso.net/raspbian/</a><br />
-rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>France</p></td>
-<td><p>Arnaud Boudou</p></td>
-<td><p><a href="http://goddess-gate.com/archive.raspbian.org/raspbian">http://goddess-gate.com/archive.raspbian.org/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>France</p></td>
-<td><p>Sergio Conde</p></td>
-<td><p><a href="http://raspbian.sconde.net/raspbian">http://raspbian.sconde.net/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe</p></td>
-<td><p>France</p></td>
-<td><p>Canterbury Computers</p></td>
-<td><p><a href="http://raspbian.canterburycomputers.com/raspbian">http://raspbian.canterburycomputers.com/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>France</p></td>
-<td><p>Jonathan Rousseau</p></td>
-<td><p><a href="http://raspbian.blackhol.es/raspbian">http://raspbian.blackhol.es/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe</p></td>
-<td><p>France</p></td>
-<td><p>Gregoryfenton.com</p></td>
-<td><p>(http|rsync)://rsync.gregoryfenton.com/raspberrypi/raspbian/</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>France</p></td>
-<td><p>Ircam</p></td>
-<td><p>(ftp|http|rsync)://mirrors.ircam.fr/pub/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>France</p></td>
-<td><p>Julien Crifo</p></td>
-<td><p>(http|ftp)://ftp.crifo.org/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>France</p></td>
-<td><p>Institut de Génétique Humaine - CNRS</p></td>
-<td><p>(http|ftp)://ftp.igh.cnrs.fr/pub/os/linux/raspbian/raspbian<br />
-rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>France</p></td>
-<td><p>Hostplanet</p></td>
-<td><p>(http|ftp|rsync)://mirror.finn.lu/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Ireland</p></td>
-<td><p>HEAnet</p></td>
-<td><p>(http|ftp|rsync)://ftp.heanet.ie/mirrors/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe</p></td>
-<td><p>Germany</p></td>
-<td><p>Repvik</p></td>
-<td><p><a href="http://raspbian.lag.re/raspbian">http://raspbian.lag.re/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>Germany</p></td>
-<td><p>AG DSN<br />
-Sektion Wundtstraße</p></td>
-<td><p><a href="http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian">http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe</p></td>
-<td><p>Germany</p></td>
-<td><p>Leaseweb</p></td>
-<td><p><a href="http://mirror.de.leaseweb.net/raspbian/raspbian">http://mirror.de.leaseweb.net/raspbian/raspbian</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>Germany</p></td>
-<td><p>Grmml.eu<br />
-powered by<br />
-AOIDE Networks</p></td>
-<td><p><a href="http://raspbian.mirror.grmml.eu/raspbian">http://raspbian.mirror.grmml.eu/raspbian</a></p></td>
-<td><p>Internal server error as of 23-MAR-2014</p></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p><a href="/NetCologne">NetCologne</a> GmbH</p></td>
-<td><p>(http|ftp|rsync)://mirror.netcologne.de/raspbian/raspbian/</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>Germany</p></td>
-<td><p>University of Mannheim</p></td>
-<td><p>(http|ftp)://mirror.informatik.uni-mannheim.de/pub/linux/distributions/raspbian/raspbian/</p></td>
-<td><p>Unreachable as of 23-MAR-2014</p></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>Martin Gebhardt</p></td>
-<td><p><a href="http://mirror.system.im/raspbian/">http://mirror.system.im/raspbian/</a><br />
-rsync://mirror.system.im/archiv/raspbian/</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>Ludwig Maximilians-Universität, Department Biologie II</p></td>
-<td><p><a href="http://debian.bio.lmu.de/raspbian/raspbian/">http://debian.bio.lmu.de/raspbian/raspbian/</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>veloc1ty</p></td>
-<td><p><a href="http://raspbian.mirror.veloc1ty.de/raspbian/">http://raspbian.mirror.veloc1ty.de/raspbian/</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>Freie Universitaet Berlin (FU Berlin)</p></td>
-<td><p><a href="ftp://ftp.fu-berlin.de/linux/raspbian/raspbian/">ftp://ftp.fu-berlin.de/linux/raspbian/raspbian/</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>Hochschule Regensburg</p></td>
-<td><p><a href="http://packages.hs-regensburg.de/raspbian/">http://packages.hs-regensburg.de/raspbian/</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p><a href="/NuGardt">NuGardt</a> Software</p></td>
-<td><p><a href="http://raspbian.mirror.nugardt.com/raspbian/">http://raspbian.mirror.nugardt.com/raspbian/</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe</p></td>
-<td><p>Germany</p></td>
-<td><p>axinja.com Webhosting</p></td>
-<td><p><a href="http://raspbian.mirror.axinja.net/raspbian/">http://raspbian.mirror.axinja.net/raspbian/</a></p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+**COUNTRY**
 
-||Europe||
-Germany||bitrain.co||(http|ftp)://mirror.bitrain.co/raspbian/raspbian  
+**MIRROR**
+
+**DEB/DEB-SRC ADDRESS**
+
+**ISSUES**
+
+Europe
+
+United Kingdom
+
+University of Oxford
+
+<http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian>
+
+Europe<sup>\*</sup>
+
+United Kingdom
+
+Mythic Beasts
+
+(http|rsync)://mirror.mythic-beasts.com/raspbian/raspbian
+
+Europe
+
+United Kingdom
+
+University of Kent  
+UK Mirror Service
+
+<http://www.mirrorservice.org/sites/archive.raspbian.org/raspbian>  
+<ftp://ftp.mirrorservice.org/sites/archive.raspbian.org/raspbian>
+
+Europe
+
+United Kingdom
+
+RM Education
+
+(http|rsync)://mirror01.th.ifl.net/raspbian/
+
+Unreachable as of 23-MAR-2014
+
+Europe
+
+United Kingdom
+
+Go-Parts
+
+(http|ftp)://mirrors-uk.go-parts.com/raspbian/  
+rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian
+
+Europe<sup>\*</sup>
+
+United Kingdom
+
+Inside Electronics
+
+<http://raspbian.insideelectronics.co.uk/raspbian/>
+
+Europe<sup>\*</sup>
+
+United Kingdom
+
+Sargasso networks
+
+<http://raspbian.mirror.uk.sargasso.net/raspbian/>  
+rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian
+
+Europe<sup>\*</sup>
+
+France
+
+Arnaud Boudou
+
+<http://goddess-gate.com/archive.raspbian.org/raspbian>
+
+Europe
+
+France
+
+Sergio Conde
+
+<http://raspbian.sconde.net/raspbian>
+
+Europe
+
+France
+
+Canterbury Computers
+
+<http://raspbian.canterburycomputers.com/raspbian>
+
+Europe
+
+France
+
+Jonathan Rousseau
+
+<http://raspbian.blackhol.es/raspbian>
+
+Europe
+
+France
+
+Gregoryfenton.com
+
+(http|rsync)://rsync.gregoryfenton.com/raspberrypi/raspbian/
+
+Europe<sup>\*</sup>
+
+France
+
+Ircam
+
+(ftp|http|rsync)://mirrors.ircam.fr/pub/raspbian/raspbian
+
+Europe<sup>\*</sup>
+
+France
+
+Julien Crifo
+
+(http|ftp)://ftp.crifo.org/raspbian/raspbian
+
+Europe
+
+France
+
+Institut de Génétique Humaine - CNRS
+
+(http|ftp)://ftp.igh.cnrs.fr/pub/os/linux/raspbian/raspbian  
+rsync://ftp.igh.cnrs.fr/raspbian/raspbian
+
+Europe<sup>\*</sup>
+
+France
+
+Hostplanet
+
+(http|ftp|rsync)://mirror.finn.lu/raspbian
+
+Europe<sup>\*</sup>
+
+Ireland
+
+HEAnet
+
+(http|ftp|rsync)://ftp.heanet.ie/mirrors/raspbian/raspbian
+
+Europe
+
+Germany
+
+Repvik
+
+<http://raspbian.lag.re/raspbian>
+
+Europe
+
+Germany
+
+AG DSN  
+Sektion Wundtstraße
+
+<http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian>
+
+Europe
+
+Germany
+
+Leaseweb
+
+<http://mirror.de.leaseweb.net/raspbian/raspbian>
+
+Europe
+
+Germany
+
+Grmml.eu  
+powered by  
+AOIDE Networks
+
+<http://raspbian.mirror.grmml.eu/raspbian>
+
+Internal server error as of 23-MAR-2014
+
+Europe<sup>\*</sup>
+
+Germany
+
+[NetCologne](/NetCologne) GmbH
+
+(http|ftp|rsync)://mirror.netcologne.de/raspbian/raspbian/
+
+Europe
+
+Germany
+
+University of Mannheim
+
+(http|ftp)://mirror.informatik.uni-mannheim.de/pub/linux/distributions/raspbian/raspbian/
+
+Unreachable as of 23-MAR-2014
+
+Europe<sup>\*</sup>
+
+Germany
+
+Martin Gebhardt
+
+<http://mirror.system.im/raspbian/>  
+rsync://mirror.system.im/archiv/raspbian/
+
+Europe<sup>\*</sup>
+
+Germany
+
+Ludwig Maximilians-Universität, Department Biologie II
+
+<http://debian.bio.lmu.de/raspbian/raspbian/>
+
+Europe<sup>\*</sup>
+
+Germany
+
+veloc1ty
+
+<http://raspbian.mirror.veloc1ty.de/raspbian/>
+
+Europe<sup>\*</sup>
+
+Germany
+
+Freie Universitaet Berlin (FU Berlin)
+
+<ftp://ftp.fu-berlin.de/linux/raspbian/raspbian/>
+
+Europe<sup>\*</sup>
+
+Germany
+
+Hochschule Regensburg
+
+<http://packages.hs-regensburg.de/raspbian/>
+
+Europe<sup>\*</sup>
+
+Germany
+
+[NuGardt](/NuGardt) Software
+
+<http://raspbian.mirror.nugardt.com/raspbian/>
+
+Europe
+
+Germany
+
+axinja.com Webhosting
+
+<http://raspbian.mirror.axinja.net/raspbian/>
+
+Europe
+
+Germany
+
+bitrain.co
+
+(http|ftp)://mirror.bitrain.co/raspbian/raspbian  
 rsync://mirror.bitrain.co/mirror/raspbian/raspbian/
 
 Europe<sup>\*</sup>
@@ -1033,7 +1064,20 @@ Sample syntax to mirror the archive would be:
 The '--dry-run' option can be used to first test out connectivity before
 attempting a full mirror.
 
-### Being Included in Raspbian Mirror List
+### The mirror redirection system
+
+The mirror redirection system is available at
+<http://mirrordirector.raspbian.org/> . It provides the same files as
+<http://archive.raspbian.org/> and can be used in apt sources etc. It is
+powered by mirrorbrain and will automatically direct requests to a
+suitable (and hopefully local) mirror (note: for technical reasons not
+all files are redirected).
+
+Note: not all mirrors listed above are included in the mirror
+redirection system. We only include mirrors in the redirection system
+when they have given us explicit permission to do so.
+
+### Being Included in Raspbian Mirror List and mirror redirection system.
 
 To be included in the mirror list above, please mirror at least twice a
 day and contact us by email at *root(at)raspbian(dot)org* with the
