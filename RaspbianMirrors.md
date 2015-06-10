@@ -29,6 +29,8 @@ Mythic Beasts
 
 (http|rsync)://mirror.mythic-beasts.com/raspbian/raspbian
 
+Rsync unreachable and files missing on http as of 20150610
+
 Europe
 
 United Kingdom
