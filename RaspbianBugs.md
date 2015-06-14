@@ -19,4 +19,16 @@ Please include a link to any existing Debian or Raspberry Pi bug along
 with your bug report. Links to email archives discussing the bug within
 Debian or other Linux distributions may be helpful as well.
 
+If the bug is with raspberry pi foundation provided oackages it should
+be filed with them. Raspberry pi foundation bugs should be filed on
+github projects under [raspberrypi](https://github.com/raspberrypi/) or
+[RPi-Distro](https://github.com/RPi-Distro). In particular kernel bugs
+should be filed under
+[raspberrypi/linux](https://github.com/raspberrypi/linux/issues) and
+firmware issues should be filed under
+[raspberrypi/firmware](https://github.com/raspberrypi/firmware/issues).
+If there is no specific project for the package in question then the
+[RPi-Distro/repo](https://github.com/RPi-Distro/repo/issues) project
+should be used.
+
   - **[Report A Bug](https://bugs.launchpad.net/raspbian)**
