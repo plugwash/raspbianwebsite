@@ -779,6 +779,15 @@ Digital Pacific
 <http://raspbian.mirror.digitalpacific.com.au/raspbian/>  
 rsync rsync://mirror.digitalpacific.com.au/raspbian/raspbian/
 
+Oceania<sup>\*</sup>
+
+Australia
+
+[UberGlobal](/UberGlobal)
+
+<http://raspbian.uberglobalmirror.com/raspbian/> rsync
+rsync://uberglobalmirror.com/raspbian/raspbian/
+
 Oceania
 
 New Caledonia
