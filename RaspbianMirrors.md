@@ -98,7 +98,7 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>Europe</p></td>
 <td><p>France</p></td>
 <td><p>Jonathan Rousseau</p></td>
-<td><p><a href="http://raspbian.blackhol.es/raspbian">http://raspbian.blackhol.es/raspbian</a></p></td>
+<td><p><a href="http://raspbian.blackhol.es/raspbian%7C%7Crsync">http://raspbian.blackhol.es/raspbian||rsync</a> unreachable and nearly everything missing on http as of 20140807</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -914,7 +914,7 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td><p>Thailand</p></td>
 <td><p>Kullawat Chaowanawatee</p></td>
 <td><p><a href="http://raspbian.megagod.net/raspbian/">http://raspbian.megagod.net/raspbian/</a></p></td>
-<td></td>
+<td><p>404 as of 20150807</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
