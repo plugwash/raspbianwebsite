@@ -484,7 +484,7 @@ rsync://raspbian.koyanet.lv/raspbian/raspbian/</p></td>
 <td><p>United States</p></td>
 <td><p>Hexxeh</p></td>
 <td><p><a href="http://distribution-us.hexxeh.net/raspbian/archive/raspbian">http://distribution-us.hexxeh.net/raspbian/archive/raspbian</a></p></td>
-<td></td>
+<td><p>Very outdated as of 2015-10-24</p></td>
 </tr>
 <tr class="odd">
 <td><p>North America</p></td>
