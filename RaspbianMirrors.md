@@ -333,7 +333,7 @@ rsync://raspbian.cu.be/raspbian/raspbian/</p></td>
 <td><p>The Student Society<br />
 in Trondhjem</p></td>
 <td><p><a href="http://raspbian.trivini.no/raspbian">http://raspbian.trivini.no/raspbian</a></p></td>
-<td></td>
+<td><p>broken redirect as of 2015-10-24</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
