@@ -453,18 +453,6 @@ rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
 <td><p>(http|ftp|rsync)://ftp.fi.muni.cz/pub/linux/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Russia</p></td>
@@ -510,6 +498,20 @@ rsync://raspbian.koyanet.lv/raspbian/raspbian/</p></td>
 <td><p>(http|ftp|rsync)://raspbian.mirror.vu.lt/raspbian/raspbian</p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+||Europe||Bulgaria||Linux for Bulgarians
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
