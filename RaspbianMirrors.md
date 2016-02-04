@@ -138,7 +138,7 @@ rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
+<td><p>Europe</p></td>
 <td><p>France</p></td>
 <td><p>42 Programming school</p></td>
 <td><p><a href="http://raspbian.42.fr/">http://raspbian.42.fr/</a></p></td>
