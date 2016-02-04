@@ -938,12 +938,19 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 </tr>
 <tr class="odd">
 <td><p>Asia</p></td>
+<td><p>Thailand</p></td>
+<td><p>Kasetsart University</p></td>
+<td><p>(http|rsync)://mirror1.ku.ac.th/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Asia</p></td>
 <td><p>Philippenes</p></td>
 <td><p>Rise</p></td>
 <td><p>(http|ftp)://mirror.rise.ph/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
