@@ -599,7 +599,7 @@ rsync://raspbian.mirrors.lucidnetworks.net/raspbian/raspbian/</p></td>
 <td><p>Canada</p></td>
 <td><p>Quiveo.NET Hébergement</p></td>
 <td><p><a href="http://depot.quiveo.net/raspbian/">http://depot.quiveo.net/raspbian/</a></p></td>
-<td></td>
+<td><p>broken as of 2015-02-04 (and has been for some time before that)</p></td>
 </tr>
 <tr class="odd">
 <td><p>South America<sup>*</sup></p></td>
