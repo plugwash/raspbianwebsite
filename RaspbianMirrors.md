@@ -523,7 +523,8 @@ rsync://raspbian.koyanet.lv/raspbian/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Spain</p></td>
 <td><p>Centro Informático Científico de Andalucía</p></td>
-<td><p>(http|ftp)://ftp.cica.es/mirrors/Linux/raspbian/raspbian/</p></td>
+<td><p>(http|ftp)://ftp.cica.es/mirrors/Linux/raspbian/raspbian/<br />
+rsync://rsync.cica.es/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
