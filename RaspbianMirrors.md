@@ -783,7 +783,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Asia</p></td>
 <td><p>Singapore</p></td>
 <td><p>Seas Cloud Pte Ltd</p></td>
-<td><p><a href="http://raspbian.3ezy.com/raspbian/raspbian/">http://raspbian.3ezy.com/raspbian/raspbian/</a></p></td>
+<td><p><a href="http://raspbian.3ezy.com/raspbian/">http://raspbian.3ezy.com/raspbian/</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
