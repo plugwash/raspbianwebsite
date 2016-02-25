@@ -993,6 +993,13 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Asia</p></td>
+<td><p>Philippenes</p></td>
+<td><p>DOST-ASTI</p></td>
+<td><p>(http|ftp)://mirror.pregi.net/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
