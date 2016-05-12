@@ -278,7 +278,7 @@ rsync://mirror.system.im/archiv/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>IPHH - Internet Port Hamburg GmbH</p></td>
-<td><p>(<a href="http:ftp)://raspbian.mirror.iphh.net/raspbian">http:ftp)://raspbian.mirror.iphh.net/raspbian</a><br />
+<td><p>(http|ftp)://raspbian.mirror.iphh.net/raspbian<br />
 rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td></td>
 </tr>
