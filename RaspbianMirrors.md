@@ -599,7 +599,7 @@ Linux Users Group</p></td>
 <td><p>United States</p></td>
 <td><p>Computer Action Team - Portland State University</p></td>
 <td><p>(http|rsync)://mirrors.cat.pdx.edu/raspbian/raspbian</p></td>
-<td></td>
+<td><p>Severely outdated as of 2016-05-12 (last update seems to be from 2015-09-16 )</p></td>
 </tr>
 <tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
