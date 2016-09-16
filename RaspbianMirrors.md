@@ -1103,6 +1103,20 @@ rsync://mirror.freedif.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Asia</p></td>
+<td><p>Vietnam</p></td>
+<td><p>Vinahost</p></td>
+<td><p><a href="http://mirrors.vinahost.vn/raspbian/raspbian/">http://mirrors.vinahost.vn/raspbian/raspbian/</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Asia</p></td>
+<td><p>Vietnam</p></td>
+<td><p>VietIDC</p></td>
+<td><p><a href="http://rpi.vietidc.com/raspbian/">http://rpi.vietidc.com/raspbian/</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
