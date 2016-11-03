@@ -636,7 +636,7 @@ Linux Users Group</p></td>
 <td><p>United States</p></td>
 <td><p>Computer Action Team - Portland State University</p></td>
 <td><p>(http|rsync)://mirrors.cat.pdx.edu/raspbian/raspbian</p></td>
-<td><p>Severely outdated as of 2016-05-12 (last update seems to be from 2015-09-16 )</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>North America<sup>*</sup></p></td>
@@ -705,18 +705,35 @@ rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
 </tr>
 <tr class="odd">
 <td><p>North America</p></td>
-<td><p>Canada</p></td>
-<td><p>Quiveo.NET Hébergement</p></td>
-<td><p><a href="http://depot.quiveo.net/raspbian/">http://depot.quiveo.net/raspbian/</a></p></td>
-<td><p>broken as of 2015-02-04 (and has been for some time before that)</p></td>
-</tr>
-<tr class="even">
-<td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>os6.org</p></td>
 <td><p>(http|rsync)://<a href="http://mirror.os6.org/raspbian/">http://mirror.os6.org/raspbian/</a></p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+||North America<sup>\*</sup>||United States||UC Berkely Open Computing
+Facility ||
+(http|ftp|rsync)://mirrors.ocf.berkeley.edu/raspbian/raspbian || ||
+
+|                            |               |                            |                                                         |  |
+| -------------------------- | ------------- | -------------------------- | ------------------------------------------------------- |  |
+| North America<sup>\*</sup> | United States | Silicon Valley Web Hosting | (http|rsync)://mirror.sjc02.svwh.net/raspbian/raspbian/ |  |
+
+||North America<sup>\*</sup>||Canada||Manitoba Unix User Group ||
+(http|https|rsync)://muug.ca/mirror/raspbian/raspbian/  
+<ftp://ftp.muug.ca/mirror/raspbian/raspbian> \<\<BR\>
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
