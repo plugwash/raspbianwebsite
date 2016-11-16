@@ -586,6 +586,22 @@ rsync://raspbian.koyanet.lv/raspbian/raspbian/</p></td>
 rsync://rsync.cica.es/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+||Europe<sup>\*</sup>||Belarus|| RUE Beltelecom, Datacenter ||
+(http|ftp)://mirror.datacenter.by/raspbian/  
+rsync://mirror.datacenter.by/raspbian/raspbian/
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
@@ -717,9 +733,32 @@ rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
 Facility ||
 (http|ftp|rsync)://mirrors.ocf.berkeley.edu/raspbian/raspbian || ||
 
-|                            |               |                            |                                                         |  |
-| -------------------------- | ------------- | -------------------------- | ------------------------------------------------------- |  |
-| North America<sup>\*</sup> | United States | Silicon Valley Web Hosting | (http|rsync)://mirror.sjc02.svwh.net/raspbian/raspbian/ |  |
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>North America<sup>*</sup></p></td>
+<td><p>United States</p></td>
+<td><p>Silicon Valley Web Hosting</p></td>
+<td><p>(http|rsync)://mirror.sjc02.svwh.net/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>North America<sup>*</sup></p></td>
+<td><p>United States</p></td>
+<td><p>Easton Elliott</p></td>
+<td><p><a href="http://raspbian.snacklinux.org/raspbian">http://raspbian.snacklinux.org/raspbian</a><br />
+rsync://raspbian.snacklinux.org/archive/raspbian</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ||North America<sup>\*</sup>||Canada||Manitoba Unix User Group ||
 (http|https|rsync)://muug.ca/mirror/raspbian/raspbian/  
