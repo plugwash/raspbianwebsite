@@ -1141,6 +1141,13 @@ South Africa</p></td>
 <td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Africa'<sup>*</sup></p></td>
+<td><p>Kenya</p></td>
+<td><p>Liquid telecom</p></td>
+<td><p>(http|rsync)://mirror.liquidtelecom.com/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
