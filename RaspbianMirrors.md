@@ -307,8 +307,7 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>GWDG</p></td>
-<td><p>(http|https|ftp)://ftp.lanet.kr/raspbian/raspbian/<br />
-rsync://ftp6.gwdg.de/pub/linux/debian/raspbian/raspbian/</p></td>
+<td><p>(http|https|ftp|rsync)://ftp.gwdg.de/pub/linux/debian/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
