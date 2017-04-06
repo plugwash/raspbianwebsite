@@ -756,7 +756,7 @@ rsync://raspbian.snacklinux.org/archive/raspbian</p></td>
 <tr class="even">
 <td><p>North America</p></td>
 <td><p>Greenland</p></td>
-<td><p>Greenet</p></td>
+<td><p>TELE-POST</p></td>
 <td><p>(http|rsync)://mirror.greennet.gl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
