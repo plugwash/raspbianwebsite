@@ -113,7 +113,7 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>France</p></td>
 <td><p>Canterbury Computers</p></td>
 <td><p><a href="http://raspbian.canterburycomputers.com/raspbian">http://raspbian.canterburycomputers.com/raspbian</a></p></td>
-<td></td>
+<td><p>404 as of 23-MAR-2014</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
@@ -216,7 +216,7 @@ AOIDE Networks</p></td>
 <td><p>Martin Gebhardt</p></td>
 <td><p><a href="http://mirror.system.im/raspbian/">http://mirror.system.im/raspbian/</a><br />
 rsync://mirror.system.im/archiv/raspbian/</p></td>
-<td></td>
+<td><p>Unreachable as of 2017-02-28</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -344,7 +344,7 @@ rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Rory Slegtenhorst</p></td>
 <td><p><a href="http://raspberry.coolview.nl/raspbian/raspbian">http://raspberry.coolview.nl/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>Unreachable as of 2017-02-28</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -373,7 +373,7 @@ rsync://raspbian.apt-get.eu/raspbian/raspbian/</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>sky-ip.org</p></td>
 <td><p><a href="http://raspbian.sky-ip.org/raspbian/">http://raspbian.sky-ip.org/raspbian/</a></p></td>
-<td></td>
+<td><p>404 as of 2017-02-28</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
