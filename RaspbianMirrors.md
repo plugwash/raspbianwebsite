@@ -200,7 +200,7 @@ AOIDE Networks</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p><a href="/NetCologne">NetCologne</a> GmbH</p></td>
-<td><p>(http|ftp|rsync)://mirror.netcologne.de/raspbian/raspbian/</p></td>
+<td><p>(http|https|ftp|rsync)://mirror.netcologne.de/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
