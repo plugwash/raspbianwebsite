@@ -943,7 +943,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Singapore</p></td>
 <td><p>Soon Keat NEO</p></td>
 <td><p>(http|https)://mirror.shana.sg/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>Host says that major works are ongoing and service may be temporarily poor</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
