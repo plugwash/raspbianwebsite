@@ -51,6 +51,9 @@ use. Below is a list of known unofficial Raspbian images.
   - [CNXSoft minimal image based on the
     official](http://www.cnx-software.com/2012/07/31/84-mb-minimal-raspbian-armhf-image-for-raspberry-pi/)
 
+  - [Comitup Remote Wifi Management
+    Image](https://davesteele.github.io/comitup/)
+
 ### Images for Via APC
 
   - [Apricot Images](/ApricotImages)
