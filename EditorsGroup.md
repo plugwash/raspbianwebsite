@@ -58,3 +58,5 @@ EditorsGroup configured as described
   - confuseling
 
   - [GbaMan](/GbaMan)
+
+  - [DaveSteele](/DaveSteele)
