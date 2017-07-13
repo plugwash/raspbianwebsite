@@ -890,8 +890,8 @@ rsync rsync://mirror.digitalpacific.com.au/raspbian/raspbian/</p></td>
 <tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
-<td><p><a href="/UberGlobal">UberGlobal</a></p></td>
-<td><p><a href="http://raspbian.uberglobalmirror.com/raspbian/">http://raspbian.uberglobalmirror.com/raspbian/</a> rsync rsync://uberglobalmirror.com/raspbian/raspbian/</p></td>
+<td><p>Melbourne IT Pty Ltd</p></td>
+<td><p><a href="http://raspbian.melbourneitmirror.ne/raspbian/">http://raspbian.melbourneitmirror.ne/raspbian/</a> rsync rsync://melbourneitmirror.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
