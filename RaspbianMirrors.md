@@ -892,7 +892,7 @@ rsync rsync://mirror.digitalpacific.com.au/raspbian/raspbian/</p></td>
 <td><p>Australia</p></td>
 <td><p>Melbourne IT Pty Ltd</p></td>
 <td><p><a href="http://raspbian.melbourneitmirror.ne/raspbian/">http://raspbian.melbourneitmirror.ne/raspbian/</a> rsync rsync://melbourneitmirror.net/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>403 as-of 2017-07-13</p></td>
 </tr>
 <tr class="odd">
 <td><p>Oceania</p></td>
