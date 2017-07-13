@@ -547,8 +547,8 @@ rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
 <tr class="even">
 <td><p>Europe</p></td>
 <td><p>Russia</p></td>
-<td><p><a href="/HostSpectr">HostSpectr</a> LLC</p></td>
-<td></td>
+<td><p>Yandex</p></td>
+<td><p>(http|rsync)://mirror.yandex.ru/mirrors/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -560,22 +560,13 @@ rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
 rsync://rsync.piotrkosoft.net/mirrors/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-||Europe<sup>\*</sup>||Poland||Interdisciplinary Centre for Modelling,
-Warsaw Uniwersity||
-(http|ftp|rsync)://ftp.icm.edu.pl/pub/Linux/distributions/raspbian/raspbian/
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
+<tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>Poland</p></td>
+<td><p>Interdisciplinary Centre for Modelling, Warsaw Uniwersity</p></td>
+<td><p>(http|ftp|rsync)://ftp.icm.edu.pl/pub/Linux/distributions/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Moldova</p></td>
