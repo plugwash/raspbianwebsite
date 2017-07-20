@@ -314,7 +314,7 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>Germany</p></td>
 <td><p>Funkfreunde Landshut e.V.</p></td>
 <td><p><a href="http://mirror.funkfreundelandshut.de/raspbian/raspbian/">http://mirror.funkfreundelandshut.de/raspbian/raspbian/</a></p></td>
-<td></td>
+<td><p>Also available on amprnet at <a href="http://repo.dl4ste.ampr.org/raspbian/raspbian">http://repo.dl4ste.ampr.org/raspbian/raspbian</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
