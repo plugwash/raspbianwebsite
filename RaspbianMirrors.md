@@ -610,6 +610,21 @@ rsync://raspbian.koyanet.lv/raspbian/raspbian/</p></td>
 <td><p>(http|ftp|rsync)://raspbian.mirror.vu.lt/raspbian/raspbian</p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+||Europe||Lithuania||Kaunas university of technology||
+(http|ftp|rsync)://mirror.litnet.lt/raspbian/raspbian/ || ||
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Bulgaria</p></td>
