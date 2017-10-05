@@ -681,7 +681,7 @@ rsync://raspbian.caro.net/raspbian/raspbian</p></td>
 <td><p>United States</p></td>
 <td><p>Michigan Tech<br />
 Linux Users Group</p></td>
-<td><p><a href="http://lug.mtu.edu/raspbian">http://lug.mtu.edu/raspbian</a><br />
+<td><p>(http|https|ftp|rsync)://mirrors.lug.mtu.edu/raspbian/raspbian<br />
 <a href="ftp://lug.mtu.edu/raspbian">ftp://lug.mtu.edu/raspbian</a></p></td>
 <td></td>
 </tr>
