@@ -406,25 +406,17 @@ rsync://raspbian.apt-get.eu/raspbian/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Weppel</p></td>
-<td><p>(ftp|http|https|rsync)://mirror.ehv.weppel.nl/raspbian/</p></td>
+<td><p>(ftp|http|https|rsync)://mirror.ehv.weppel.nl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-|Europe<sup>\*</sup>||Belgium||Cu.be
-Solutions||<http://raspbian.cu.be/raspbian/>  
-rsync://raspbian.cu.be/raspbian/raspbian/|| ||
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
+<tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>Belgium</p></td>
+<td><p>Cu.be Solutions</p></td>
+<td><p><a href="http://raspbian.cu.be/raspbian/">http://raspbian.cu.be/raspbian/</a><br />
+rsync://raspbian.cu.be/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Belgium</p></td>
