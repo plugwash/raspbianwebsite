@@ -1048,7 +1048,7 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Chongqing University</p></td>
-<td><p>(http|https)://mirrors.cqu.edu.cn/Raspbian/raspbian/</p></td>
+<td><p>(http|https)://mirrors.cqu.edu.cn/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
