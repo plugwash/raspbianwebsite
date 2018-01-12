@@ -4,18 +4,13 @@
 
   - 
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
-<col style="width: 10%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -24,11 +19,6 @@
 <td><p><strong>MIRROR</strong></p></td>
 <td><p><strong>DEB/DEB-SRC ADDRESS</strong></p></td>
 <td><p><strong>ISSUES</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
@@ -36,22 +26,12 @@
 <td><p>University of Oxford</p></td>
 <td><p><a href="http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian">http://mirror.ox.ac.uk/sites/archive.raspbian.org/archive/raspbian</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>United Kingdom</p></td>
 <td><p>Mythic Beasts</p></td>
 <td><p>(http|rsync)://mirror.mythic-beasts.com/raspbian/raspbian</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -62,11 +42,6 @@ UK Mirror Service</p></td>
 <td><p><a href="http://www.mirrorservice.org/sites/archive.raspbian.org/raspbian">http://www.mirrorservice.org/sites/archive.raspbian.org/raspbian</a><br />
 <a href="ftp://ftp.mirrorservice.org/sites/archive.raspbian.org/raspbian">ftp://ftp.mirrorservice.org/sites/archive.raspbian.org/raspbian</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
@@ -74,11 +49,6 @@ UK Mirror Service</p></td>
 <td><p>RM Education</p></td>
 <td><p>(http|rsync)://mirror01.th.ifl.net/raspbian/</p></td>
 <td><p>Unreachable as of 23-MAR-2014</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
@@ -87,22 +57,12 @@ UK Mirror Service</p></td>
 <td><p>(http|ftp)://mirrors-uk.go-parts.com/raspbian/<br />
 rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>United Kingdom</p></td>
 <td><p>Inside Electronics</p></td>
 <td><p><a href="http://raspbian.insideelectronics.co.uk/raspbian/">http://raspbian.insideelectronics.co.uk/raspbian/</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -112,22 +72,12 @@ rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian</p></td>
 <td><p><a href="http://raspbian.mirror.uk.sargasso.net/raspbian/">http://raspbian.mirror.uk.sargasso.net/raspbian/</a><br />
 rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>United Kingdom</p></td>
 <td><p>Exascale</p></td>
 <td><p>(http|ftp|rsync)://mirror.sax.uk.as61049.net/raspbian</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -136,22 +86,12 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>m247</p></td>
 <td><p>(http|rsync)://mirror.m247.com/raspbian/</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>United Kingdom</p></td>
 <td><p>Freethought Internet</p></td>
 <td><p>(http|https|ftp|rsync)://mirror.freethought-internet.co.uk/raspbian/raspbian/</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -160,22 +100,12 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>Arnaud Boudou</p></td>
 <td><p><a href="http://goddess-gate.com/archive.raspbian.org/raspbian">http://goddess-gate.com/archive.raspbian.org/raspbian</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>France</p></td>
 <td><p>Sergio Conde</p></td>
 <td><p><a href="http://raspbian.sconde.net/raspbian">http://raspbian.sconde.net/raspbian</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -184,22 +114,12 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>Canterbury Computers</p></td>
 <td><p><a href="http://raspbian.canterburycomputers.com/raspbian">http://raspbian.canterburycomputers.com/raspbian</a></p></td>
 <td><p>404 as of 23-MAR-2014</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>France</p></td>
 <td><p>Jonathan Rousseau</p></td>
 <td><p><a href="http://raspbian.blackhol.es/raspbian%7C%7Crsync">http://raspbian.blackhol.es/raspbian||rsync</a> unreachable and nearly everything missing on http as of 20140807</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -208,11 +128,6 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>Gregoryfenton.com</p></td>
 <td><p>(http|rsync)://rsync.gregoryfenton.com/raspberrypi/raspbian/</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -220,22 +135,12 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>Ircam</p></td>
 <td><p>(ftp|http|rsync)://mirrors.ircam.fr/pub/raspbian/raspbian</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Julien Crifo</p></td>
 <td><p>(http|ftp)://ftp.crifo.org/raspbian/raspbian</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -245,22 +150,12 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>(http|ftp)://ftp.igh.cnrs.fr/pub/os/linux/raspbian/raspbian<br />
 rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Hostplanet</p></td>
 <td><p>(http|ftp|rsync)://mirror.finn.lu/raspbian</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -269,22 +164,12 @@ rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <td><p>42 Programming school</p></td>
 <td><p><a href="http://raspbian.42.fr/raspbian/">http://raspbian.42.fr/raspbian/</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Ireland</p></td>
 <td><p>HEAnet</p></td>
 <td><p>(http|ftp|rsync)://ftp.heanet.ie/mirrors/raspbian/raspbian</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -294,22 +179,12 @@ rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 Sektion Wundtstraße</p></td>
 <td><p><a href="http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian">http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.de.leaseweb.net/raspbian/raspbian">http://mirror.de.leaseweb.net/raspbian/raspbian</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -320,22 +195,12 @@ powered by<br />
 AOIDE Networks</p></td>
 <td><p><a href="http://raspbian.mirror.grmml.eu/raspbian">http://raspbian.mirror.grmml.eu/raspbian</a></p></td>
 <td><p>Internal server error as of 23-MAR-2014</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p><a href="/NetCologne">NetCologne</a> GmbH</p></td>
 <td><p>(http|https|ftp|rsync)://mirror.netcologne.de/raspbian/raspbian/</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -344,22 +209,12 @@ AOIDE Networks</p></td>
 <td><p>University of Mannheim</p></td>
 <td><p>(http|ftp)://mirror.informatik.uni-mannheim.de/pub/linux/distributions/raspbian/raspbian/</p></td>
 <td><p>Unreachable as of 23-MAR-2014</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Ludwig Maximilians-Universität, Department Biologie II</p></td>
 <td><p><a href="http://debian.bio.lmu.de/raspbian/raspbian/">http://debian.bio.lmu.de/raspbian/raspbian/</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -368,22 +223,12 @@ AOIDE Networks</p></td>
 <td><p>veloc1ty</p></td>
 <td><p><a href="http://raspbian.mirror.veloc1ty.de/raspbian/">http://raspbian.mirror.veloc1ty.de/raspbian/</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Freie Universitaet Berlin (FU Berlin)</p></td>
 <td><p><a href="ftp://ftp.fu-berlin.de/linux/raspbian/raspbian/">ftp://ftp.fu-berlin.de/linux/raspbian/raspbian/</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -392,22 +237,12 @@ AOIDE Networks</p></td>
 <td><p>Hochschule Regensburg</p></td>
 <td><p><a href="http://packages.hs-regensburg.de/raspbian/">http://packages.hs-regensburg.de/raspbian/</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p><a href="/NuGardt">NuGardt</a> Software</p></td>
 <td><p><a href="http://raspbian.mirror.nugardt.com/raspbian/">http://raspbian.mirror.nugardt.com/raspbian/</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -416,22 +251,12 @@ AOIDE Networks</p></td>
 <td><p>axinja.com Webhosting</p></td>
 <td><p><a href="http://raspbian.mirror.axinja.net/raspbian/">http://raspbian.mirror.axinja.net/raspbian/</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Host-On.de Internet Service Provider</p></td>
 <td><p><a href="http://mirror.host-on.de/raspbian/">http://mirror.host-on.de/raspbian/</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -440,22 +265,12 @@ AOIDE Networks</p></td>
 <td><p>LLG Media GmbH</p></td>
 <td><p><a href="http://www.gutscheinrausch.de/mirror/raspbian/">http://www.gutscheinrausch.de/mirror/raspbian/</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>RWTH Aachen University</p></td>
 <td><p>(http|ftp|rsync)://ftp.halifax.rwth-aachen.de/raspbian/raspbian/</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -465,22 +280,12 @@ AOIDE Networks</p></td>
 <td><p>(http|ftp)://raspbian.mirror.iphh.net/raspbian<br />
 rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Daniel Jost - Freelance Web Professional</p></td>
 <td><p>(http|ftp|rsync)://mirror.daniel-jost.net/raspbian/raspbian/</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -489,22 +294,12 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>SOLIT SYSTEMS GmbH</p></td>
 <td><p><a href="https://mirror.raspbian.solit.systems/raspbian/">https://mirror.raspbian.solit.systems/raspbian/</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Yannic Bonenberger</p></td>
 <td><p>(http|ftp)://mirror.yannic-bonenberger.com/raspbian/raspbian/</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -513,50 +308,28 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>GWDG</p></td>
 <td><p>(http|https|ftp|rsync)://ftp.gwdg.de/pub/linux/debian/raspbian/raspbian/</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Funkfreunde Landshut e.V.</p></td>
 <td><p><a href="http://mirror.funkfreundelandshut.de/raspbian/raspbian/">http://mirror.funkfreundelandshut.de/raspbian/raspbian/</a></p></td>
-<td><p>Also available on amprnet at</p></td>
+<td><p>Also available on amprnet at <a href="http://repo.dl4ste.ampr.org/raspbian/raspbian">http://repo.dl4ste.ampr.org/raspbian/raspbian</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>INFOnline GmbH</p></td>
-<td><p>(http|https|ftp|rsync)://repo.dl4ste.ampr.org/raspbian/raspbian</p></td>
+<td><p>(http|https|ftp|rsync):<a href="http://mirror.infonline.de/raspbian/raspbian/">http://mirror.infonline.de/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Heiko Richter</p></td>
 <td><p>(http|ftp|rsync)://ftp.heikorichter.name/raspbian/raspbian/</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
-</tbody>
-</table>
-
-<http://mirror.infonline.de/raspbian/raspbian/>
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Italy</p></td>
