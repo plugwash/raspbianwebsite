@@ -1280,6 +1280,13 @@ rsync://mirror.freedif.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Asia</p></td>
+<td><p>Armenia<sup>*</sup></p></td>
+<td><p>Academic Scientific Research Computer Network of Armenia (ASNET-AM)</p></td>
+<td><p><a href="http://mirrors.asnet.am/raspbian/raspbian/">http://mirrors.asnet.am/raspbian/raspbian/</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
@@ -1289,7 +1296,7 @@ South Africa</p></td>
 <td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa'<sup>*</sup></p></td>
 <td><p>Kenya</p></td>
 <td><p>Liquid telecom</p></td>
