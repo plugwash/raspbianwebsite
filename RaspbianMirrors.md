@@ -1080,10 +1080,10 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Asia<sup>*</sup></p></td>
+<td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Shanghai University Open Source Community</p></td>
-<td><p>(http|ftp|rsync)://mirrors.shuosc.org/raspbian/raspbian/</p></td>
+<td><p>(http|ftp|rsync)://mirrors.shu.edu.cn/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
