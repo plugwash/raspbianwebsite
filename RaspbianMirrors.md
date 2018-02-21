@@ -1133,7 +1133,7 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>South Korea</p></td>
 <td><p>Harukasan</p></td>
 <td><p><a href="http://ftp.harukasan.org/raspbian/raspbian">http://ftp.harukasan.org/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>Down for maintinance as-of 2018-02-21</p></td>
 </tr>
 <tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
