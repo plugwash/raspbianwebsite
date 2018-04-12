@@ -335,7 +335,7 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>Germany</p></td>
 <td><p>Daniel Jost - Freelance Web Professional</p></td>
 <td><p>(http|ftp|rsync)://mirror.daniel-jost.net/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>rsync down as-of 2018-04-12</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
