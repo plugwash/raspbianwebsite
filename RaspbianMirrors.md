@@ -234,8 +234,8 @@ AOIDE Networks</p></td>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
-<td><p>Hochschule Regensburg</p></td>
-<td><p><a href="http://packages.hs-regensburg.de/raspbian/">http://packages.hs-regensburg.de/raspbian/</a></p></td>
+<td><p>Ostbayerische Technische Hochschule Regensburg</p></td>
+<td><p>(http|ftp|rsync)://packages.hs-regensburg.de/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
