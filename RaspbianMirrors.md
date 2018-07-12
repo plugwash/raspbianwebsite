@@ -487,8 +487,8 @@ rsync://ftp.acc.umu.se/mirror/raspbian/raspbian</p></td>
 <tr class="even">
 <td><p>Europe</p></td>
 <td><p>Sweden</p></td>
-<td><p>Per Osbeck</p></td>
-<td></td>
+<td><p>Linux.Pizza</p></td>
+<td><p>(http|https)://mirror.linux.pizza/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="odd">
