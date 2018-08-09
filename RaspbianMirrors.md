@@ -910,7 +910,7 @@ rsync://200.129.202.132/Raspbian</p></td>
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Universidade Federal do Amazonas</p></td>
-<td><p><a href="http://mirror.ufam.edu.br/raspbian">http://mirror.ufam.edu.br/raspbian</a></p></td>
+<td><p><a href="http://mirror.ufam.edu.br/raspbian/raspbian/">http://mirror.ufam.edu.br/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
