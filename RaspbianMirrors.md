@@ -1257,7 +1257,7 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td><p>Asia</p></td>
 <td><p>India</p></td>
 <td><p>Digital Dreams Consulting Private Limited</p></td>
-<td><p><a href="http://raspbian.mirror.net.in/raspbian/raspbian/">http://raspbian.mirror.net.in/raspbian/raspbian/</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
