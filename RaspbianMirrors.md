@@ -344,21 +344,26 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>(http|https)://mirror.cryptoworld.is/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
 <tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>Serverius Connectivity</p></td>
-<td><p>(http|https|rsync)://mirror.serverius.net/raspbian/raspbian/</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Italy</p></td>
 <td><p>Internetone</p></td>
 <td><p>(http|ftp)://mirror.internetone.it/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Italy</p></td>
 <td><p>GARR</p></td>
@@ -366,35 +371,35 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.nl.leaseweb.net/raspbian/raspbian">http://mirror.nl.leaseweb.net/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Rory Slegtenhorst</p></td>
 <td><p><a href="http://raspberry.coolview.nl/raspbian/raspbian">http://raspberry.coolview.nl/raspbian/raspbian</a></p></td>
 <td><p>Unreachable as of 2017-02-28</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>TechNL</p></td>
 <td><p><a href="http://raspbian.mirror.technl.net/raspbian">http://raspbian.mirror.technl.net/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Triple IT</p></td>
 <td><p><a href="http://raspbian.mirror.triple-it.nl/raspbian/">http://raspbian.mirror.triple-it.nl/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>PCextreme</p></td>
@@ -402,46 +407,53 @@ rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
 rsync://raspbian.apt-get.eu/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>sky-ip.org</p></td>
 <td><p><a href="http://raspbian.sky-ip.org/raspbian/">http://raspbian.sky-ip.org/raspbian/</a></p></td>
 <td><p>404 as of 2017-02-28</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p><a href="/MuntInternet">MuntInternet</a>.net</p></td>
 <td><p>(http|ftp|rsync)://mirror.muntinternet.net/pub/raspbian/raspbian/</p></td>
 <td><p>404 as of 23-MAR-2014</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>TransIP B.V.</p></td>
 <td><p>(http|ftp|rsync)://mirror.transip.net/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Proserve</p></td>
 <td><p>(http|ftp|rsync)://mirror.proserve.nl/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Weppel</p></td>
 <td><p>(ftp|http|https|rsync)://mirror.ehv.weppel.nl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Neostrada B.V</p></td>
 <td><p>(http|https|ftp)://mirror.neostrada.nl/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>The Netherlands</p></td>
+<td><p>Serverius Connectivity</p></td>
+<td><p>(http|https|rsync)://mirror.serverius.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
