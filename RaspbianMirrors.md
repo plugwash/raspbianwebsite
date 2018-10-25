@@ -551,8 +551,8 @@ rsync://ftp.arnes.si/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Europe</p></td>
-<td><p>Austria</p></td>
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>|Austria</p></td>
 <td><p>UPC</p></td>
 <td><p>(http|ftp|rsync)://mirror.inode.at/raspbian/raspbian/</p></td>
 <td></td>
@@ -675,7 +675,7 @@ rsync://raspbian.koyanet.lv/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Europe</p></td>
+<td><p>Europe<sup>*</sup></p></td>
 <td><p>Lithuania</p></td>
 <td><p>Kaunas university of technology</p></td>
 <td><p>(http|ftp|rsync)://mirror.litnet.lt/raspbian/raspbian/</p></td>
@@ -717,7 +717,7 @@ rsync://mirrors.pidginhost.com/Raspbian/raspbian/</p></td>
 <td><p>United States</p></td>
 <td><p>Hexxeh</p></td>
 <td><p><a href="http://distribution-us.hexxeh.net/raspbian/archive/raspbian">http://distribution-us.hexxeh.net/raspbian/archive/raspbian</a></p></td>
-<td><p>Very outdated as of 2015-10-24</p></td>
+<td><p>Very outdated as of 2015-10-24, unreachable as-of 2018-10-25</p></td>
 </tr>
 <tr class="even">
 <td><p>North America</p></td>
@@ -727,7 +727,7 @@ rsync://mirrors.pidginhost.com/Raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>North America</p></td>
+<td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.us.leaseweb.net/raspbian/raspbian">http://mirror.us.leaseweb.net/raspbian/raspbian</a></p></td>
