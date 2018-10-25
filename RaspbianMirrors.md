@@ -627,10 +627,10 @@ rsync://quantum-mirror.hu/raspbian</p></td>
 <td><p>Russia</p></td>
 <td><p>Go-Parts</p></td>
 <td><p>(http|ftp)://mirrors-ru.go-parts.com/raspbian/</p></td>
-<td></td>
+<td><p>Broken (redirecting to website) as of 25-OCT-2018</p></td>
 </tr>
 <tr class="even">
-<td><p>Europe</p></td>
+<td><p>Europe<sup>*</sup></p></td>
 <td><p>Russia</p></td>
 <td><p>Yandex</p></td>
 <td><p>(http|rsync)://mirror.yandex.ru/mirrors/raspbian/raspbian/</p></td>
