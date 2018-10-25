@@ -56,7 +56,7 @@ UK Mirror Service</p></td>
 <td><p>Go-Parts</p></td>
 <td><p>(http|ftp)://mirrors-uk.go-parts.com/raspbian/<br />
 rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian</p></td>
-<td></td>
+<td><p>Broken as-of 25-OCT-2018</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -776,7 +776,7 @@ Linux Users Group</p></td>
 <td><p>United States</p></td>
 <td><p>Go-Parts</p></td>
 <td><p>(http|ftp)://mirrors-usa.go-parts.com/raspbian/</p></td>
-<td></td>
+<td><p>Broken as-of 25-OCT-2018</p></td>
 </tr>
 <tr class="even">
 <td><p>North America</p></td>
@@ -1028,7 +1028,7 @@ rsync://mirror.internode.on.net/raspbian/raspbian/</p></td>
 <td><p>Australia</p></td>
 <td><p>Go-Parts</p></td>
 <td><p>(http|ftp)://mirrors-au.go-parts.com/raspbian/</p></td>
-<td></td>
+<td><p>Broken as-of 25-OCT-2018</p></td>
 </tr>
 <tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
