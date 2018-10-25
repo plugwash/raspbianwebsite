@@ -1048,8 +1048,8 @@ rsync rsync://mirror.digitalpacific.com.au/raspbian/raspbian/</p></td>
 <tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
-<td><p><a href="/SolNode">SolNode</a></p></td>
-<td><p>(http|rsync)://mirror.solnode.io/raspbian/</p></td>
+<td><p><a href="/DataMossa">DataMossa</a></p></td>
+<td><p>(http|rsync)://mirror.datamossa.io/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
