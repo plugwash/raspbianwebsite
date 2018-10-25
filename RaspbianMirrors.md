@@ -517,12 +517,12 @@ rsync://ftp.acc.umu.se/mirror/raspbian/raspbian</p></td>
 <td><p>Sweden</p></td>
 <td><p>Linux.Pizza</p></td>
 <td><p>(http|https)://mirror.linux.pizza/raspbian</p></td>
-<td></td>
+<td><p>appears to be cname'd to operationtulip</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Sweden</p></td>
-<td></td>
+<td><p>Operationtulip</p></td>
 <td><p>(http|https)://mirror.operationtulip.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
