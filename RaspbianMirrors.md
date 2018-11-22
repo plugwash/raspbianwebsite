@@ -964,16 +964,16 @@ rsync://200.129.202.132/Raspbian</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>South America</p></td>
+<td><p>South America<sup>*</sup></p></td>
 <td><p>Ecuador</p></td>
 <td><p>Consorcio Ecuatoriano para el Desarrollo de Internet Avanzada</p></td>
 <td><p>(http|ftp|rsync)://mirror.cedia.org.ec/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>South America</p></td>
+<td><p>South America<sup>*</sup></p></td>
 <td><p>Ecuador</p></td>
-<td><p>Universidad Técnica de Ambato (UTA)</p></td>
+<td><p>Escuela Politécnica Nacional</p></td>
 <td><p>(http|ftp|rsync)://mirror.uta.edu.ec/raspbian</p></td>
 <td></td>
 </tr>
