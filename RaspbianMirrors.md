@@ -1482,9 +1482,9 @@ you will not be sent users from outside of the area you specify).
 New mirrors in the US and Europe will only be added to the mirror
 redirection system if they support IPv6 and rsync.
 
-Currently, the repository itself is about 250GB in size with
+Currently, the repository itself is about 400GB in size with
 approximately a further 20GB in images etc. Anyone hosting a Raspbian
-repository mirror should plan on devoting about 350GB to handle future
+repository mirror should plan on devoting about 500GB to handle future
 anticipated growth of the repository.
 
 <span class="comment" style="display:none">Mirror contacts are
