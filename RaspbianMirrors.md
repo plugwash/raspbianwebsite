@@ -516,7 +516,7 @@ rsync://ftp.arnes.si/raspbian/</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
-<td><p>|Austria</p></td>
+<td><p>Austria</p></td>
 <td><p>UPC</p></td>
 <td><p>(http|ftp|rsync)://mirror.inode.at/raspbian/raspbian/</p></td>
 <td></td>
