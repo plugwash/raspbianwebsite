@@ -951,7 +951,7 @@ rsync://200.129.202.132/Raspbian</p></td>
 <td><p>South America</p></td>
 <td><p>Ecuador</p></td>
 <td><p>Escuela Politécnica Nacional</p></td>
-<td><p>(http|https|rsync)://mirror.uta.edu.ec/raspbian</p></td>
+<td><p>(http|https|rsync)://mirror.epn.edu.ec</p></td>
 <td></td>
 </tr>
 <tr class="odd">
