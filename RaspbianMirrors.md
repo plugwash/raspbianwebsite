@@ -250,7 +250,7 @@ AOIDE Networks</p></td>
 <td><p>Germany</p></td>
 <td><p>Host-On.de Internet Service Provider</p></td>
 <td><p><a href="http://mirror.host-on.de/raspbian/">http://mirror.host-on.de/raspbian/</a></p></td>
-<td></td>
+<td><p>"domain not available" as of 2019-04-19</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
