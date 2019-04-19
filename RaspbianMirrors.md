@@ -968,7 +968,7 @@ rsync://200.129.202.132/Raspbian</p></td>
 <td><p>Over The Wire</p></td>
 <td><p><a href="http://mirror.overthewire.com.au/pub/raspbian/raspbian">http://mirror.overthewire.com.au/pub/raspbian/raspbian</a><br />
 <a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
-<td></td>
+<td><p>404 as-of 2019-04-19</p></td>
 </tr>
 <tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
