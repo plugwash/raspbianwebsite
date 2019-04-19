@@ -939,7 +939,7 @@ rsync://200.129.202.132/Raspbian</p></td>
 <td><p>Chile</p></td>
 <td><p>STI UCHILE</p></td>
 <td><p><a href="http://mirror.uchile.cl/raspbian/">http://mirror.uchile.cl/raspbian/</a></p></td>
-<td></td>
+<td><p>404 as-of 2019-04-19</p></td>
 </tr>
 <tr class="even">
 <td><p>South America</p></td>
