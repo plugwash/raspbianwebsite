@@ -1411,9 +1411,9 @@ on archive.raspbian.org please use the option `--tlwhitelist raspbian`
 
 If you have a Debian mirror on the same machine you can use it to save
 bandwidth and (if the two mirrors are on the same filesystem) disk space
-when mirroring Raspbian. To do so use the option --sourcepool
-/path/to/debian/pool (replacing /path/to/debian/pool with the path to
-the pool directory of your Debian mirror).
+when mirroring Raspbian. To do so use the option
+`--sourcepool /path/to/debian/pool` (replacing /path/to/debian/pool
+with the path to the pool directory of your Debian mirror).
 
 If you are switching from rsync to raspmirror then please ensure your
 mirror is in a consistent state using rsync. Then run raspmirror from
