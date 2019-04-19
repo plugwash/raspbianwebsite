@@ -1382,10 +1382,51 @@ South Africa</p></td>
 **<sup>\*</sup>** - Known IPv6 capable mirror (note: many other mirrors
 support it too, someone could do with going through the list)
 
-### Mirroring the Raspbian Repository
+### Mirroring the Raspbian Repository (raspmirror)
+
+The recommended way to mirror the Raspbian repository is to use
+raspmirror. This will result in less server load for us then using
+rsync, will always update your mirror to a consistent state, and can use
+the mirror redirection system to retrieve files from other local mirrors
+rather than always pulling them from the main server. If you also have a
+Debian mirror locally then raspbmirror can use it to save bandwidth and
+potentially disk space. raspmirror can be obtained from
+<https://github.com/plugwash/raspbian-tools/raw/master/raspbmirror.py>
+
+Basic usage (replace /path/to/raspmirror.py with the path to
+raspmirror.py on your system):
+
+    mkdir raspbian
+    mkdir tmp
+    cd raspbian
+    /path/to/raspbmirror.py --tmpdir ../tmp
+
+The tmpdir option is optional, but is highly recommended. If it is not
+used temporary files will be stored within the mirror tree, which may
+cause problems if people try to set up downstream mirrors from your
+mirror using generic tools.
+
+If you wish to mirror only the main archive and not the other materials
+on archive.raspbian.org please use the option `--tlwhitelist raspbian`
+
+If you have a Debian mirror on the same machine you can use it to save
+bandwidth and (if the two mirrors are on the same filesystem) disk space
+when mirroring Raspbian. To do so use the option --sourcepool
+/path/to/debian/pool (replacing /path/to/debian/pool with the path to
+the pool directory of your Debian mirror).
+
+If you are switching from rsync to raspmirror then please ensure your
+mirror is in a consistent state using rsync. Then run raspmirror from
+the top-level directory of your mirror (the directory containing the
+file "snapshotindex.txt").
+
+### Mirroring the Raspbian Repository (rsync)
 
 Mirroring of the full Raspbian repository can be accomplished with rsync
-at `archive.raspbian.org::archive`.
+at `archive.raspbian.org::archive`. We will continue to support this
+method for public mirrors who are unwilling or unable to use
+raspbmirror. However it may become nessacery to restrict rsync access
+for private use. Please consider using raspmirror instead.
 
 Sample syntax to mirror the archive would be:
 
