@@ -1404,7 +1404,9 @@ raspmirror.py on your system):
 The tmpdir option is optional, but is highly recommended. If it is not
 used temporary files will be stored within the mirror tree, which may
 cause problems if people try to set up downstream mirrors from your
-mirror using generic tools.
+mirror using generic tools. tmpdir needs to be on the same filesystem as
+the mirror as files will be downloaded there and then renamed into
+place.
 
 If you wish to mirror only the main archive and not the other materials
 on archive.raspbian.org please use the option `--tlwhitelist raspbian`
