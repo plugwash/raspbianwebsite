@@ -451,7 +451,7 @@ in Trondhjem</p></td>
 <td><p>Switzerland</p></td>
 <td><p>Benjamin Schlageter</p></td>
 <td><p><a href="http://raspbian.kilrathy.net/raspbian">http://raspbian.kilrathy.net/raspbian</a></p></td>
-<td></td>
+<td><p>unresolvable as of 2019-04-19</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
