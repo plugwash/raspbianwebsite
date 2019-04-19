@@ -1113,7 +1113,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Cohesion Network Security Studio (CNSS)</p></td>
 <td><p><a href="http://raspbian.cnssuestc.org/raspbian/">http://raspbian.cnssuestc.org/raspbian/</a><br />
 rsync://raspbian.cnssuestc.org/raspbian</p></td>
-<td></td>
+<td><p>unresolvable as of 2019-04-19</p></td>
 </tr>
 <tr class="odd">
 <td><p>Asia</p></td>
