@@ -1128,7 +1128,7 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>China</p></td>
 <td><p>Open Source Software Association of Chinese Academy of Sciences</p></td>
 <td><p><a href="http://mirrors.opencas.cn/raspbian/raspbian/">http://mirrors.opencas.cn/raspbian/raspbian/</a></p></td>
-<td><p>Currently ipv6 only</p></td>
+<td><p>Currently ipv6 only, unresponive as-of 2019-04-19</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
