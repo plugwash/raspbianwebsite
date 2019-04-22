@@ -175,9 +175,8 @@ rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
-<td><p>AG DSN<br />
-Sektion Wundtstraße</p></td>
-<td><p><a href="http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian">http://ramses.wh2.tu-dresden.de/pub/mirrors/raspbian/raspbian</a></p></td>
+<td><p>Arbeitsgemeinschaft Dresdner Studentennetz</p></td>
+<td><p><a href="http://ftp.agdsn.de/pub/mirrors/raspbian/raspbian/pub/mirrors/raspbian/raspbian">http://ftp.agdsn.de/pub/mirrors/raspbian/raspbian/pub/mirrors/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
