@@ -340,7 +340,8 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Hochschule Esslingen</p></td>
-<td><p>(http|https)://mirror1.hs-esslingen.de/pub/Mirrors/archive.raspbian.org/raspbian/</p></td>
+<td><p>(http|https)://mirror1.hs-esslingen.de/pub/Mirrors/archive.raspbian.org/raspbian/<br />
+rsync://mirror1.hs-esslingen.de/archive.raspbian.org/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
