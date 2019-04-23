@@ -176,7 +176,7 @@ rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
 <td><p>Arbeitsgemeinschaft Dresdner Studentennetz</p></td>
-<td><p><a href="http://ftp.agdsn.de/pub/mirrors/raspbian/raspbian/pub/mirrors/raspbian/raspbian">http://ftp.agdsn.de/pub/mirrors/raspbian/raspbian/pub/mirrors/raspbian/raspbian</a></p></td>
+<td><p><a href="http://ftp.agdsn.de/pub/mirrors/raspbian/raspbian/">http://ftp.agdsn.de/pub/mirrors/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
