@@ -789,7 +789,7 @@ rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>os6.org</p></td>
-<td><p>(http|rsync)://<a href="http://mirror.os6.org/raspbian/">http://mirror.os6.org/raspbian/</a></p></td>
+<td><p>(http|rsync)://mirror.os6.org/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
