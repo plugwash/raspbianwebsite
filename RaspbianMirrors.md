@@ -113,7 +113,7 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>France</p></td>
 <td><p>Gregoryfenton.com</p></td>
 <td><p>(http|rsync)://rsync.gregoryfenton.com/raspberrypi/raspbian/</p></td>
-<td></td>
+<td><p>Resolves to 0.0.0.0 on ipv4 and unreachable on ipv6 as-of 2019-05-25</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
