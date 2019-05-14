@@ -370,9 +370,9 @@ rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>PCextreme</p></td>
-<td><p><a href="http://raspbian.apt-get.eu/raspbian/">http://raspbian.apt-get.eu/raspbian/</a><br />
-rsync://raspbian.apt-get.eu/raspbian/raspbian/</p></td>
-<td><p>unresolvable as of 2019-05-25</p></td>
+<td><p>(http|https)://raspbian.mirror.pcextreme.nl/raspbian/<br />
+rsync://raspbian.mirror.pcextreme.nl/raspbian/raspbian/</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
