@@ -413,7 +413,7 @@ rsync://raspbian.mirror.pcextreme.nl/raspbian/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Serverion</p></td>
-<td><p>(http|https)://mirror.serverion.com/raspbian/raspbian/</p></td>
+<td><p>(http|https|ftp|rsync)://mirror.serverion.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
