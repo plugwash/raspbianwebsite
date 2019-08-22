@@ -886,7 +886,7 @@ rsync://mirrors.switch.ca/raspbian/</p></td>
 <td><p>Canada</p></td>
 <td><p>The Free Mirror Project</p></td>
 <td><p>(http|https)://raspbian.freemirror.org/raspbian/<br />
-(ftp|rsync)://raspbian.freemirror.org/raspbian</p></td>
+(ftp|rsync)://raspbian.freemirror.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
