@@ -323,20 +323,14 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 rsync://mirror1.hs-esslingen.de/archive.raspbian.org/raspbian/</p></td>
 <td></td>
 </tr>
-</tbody>
-</table>
-
-||Europe<sup>\*</sup>|| Germany||
-
-<table>
-<colgroup>
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
-</colgroup>
-<tbody>
+<tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>Germany</p></td>
+<td><p>Pfister Andreas</p></td>
+<td><p>(http|https)://mirror.chaoticum.net/rpi/raspbian/<br />
+rsync://mirror.chaoticum.net/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Italy</p></td>
