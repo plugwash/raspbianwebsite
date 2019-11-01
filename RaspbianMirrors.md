@@ -465,8 +465,8 @@ in Trondhjem</p></td>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Norway</p></td>
-<td><p>homelab.no</p></td>
-<td><p><a href="http://mirror.homelab.no/raspbian/raspbian/">http://mirror.homelab.no/raspbian/raspbian/</a></p></td>
+<td><p>Terrahost AS</p></td>
+<td><p><a href="http://mirror.terrahost.no/linux/raspbian/raspbian/">http://mirror.terrahost.no/linux/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
