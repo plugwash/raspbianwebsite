@@ -1292,7 +1292,8 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>Laboratorium Komputer ID</p></td>
-<td><p><a href="http://mirror.labkom.id/raspbian/">http://mirror.labkom.id/raspbian/</a></p></td>
+<td><p><a href="http://mirror.labkom.id/raspbian/">http://mirror.labkom.id/raspbian/</a><br />
+rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
