@@ -1253,13 +1253,20 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 </tr>
 <tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
+<td><p>South Korea</p></td>
+<td><p>Yongbok.net</p></td>
+<td><p><a href="http://mirror.yongbok.net/raspbian/raspbian/">http://mirror.yongbok.net/raspbian/raspbian/</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>JAIST</p></td>
 <td><p><a href="http://ftp.jaist.ac.jp/raspbian">http://ftp.jaist.ac.jp/raspbian</a><br />
 (http|rsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>WIDE Project Tsukuba NOC</p></td>
@@ -1267,35 +1274,35 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>Yamagata University</p></td>
 <td><p><a href="http://ftp.yz.yamagata-u.ac.jp/pub/linux/raspbian/raspbian/">http://ftp.yz.yamagata-u.ac.jp/pub/linux/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Indonesia</p></td>
 <td><p>DATAUTAMA-NET-ID</p></td>
 <td><p>(http|rsync)://kartolo.sby.datautama.net.id/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>State Polytechnic of Banyuwangi</p></td>
 <td><p><a href="http://mirror.poliwangi.ac.id/raspbian/raspbian">http://mirror.poliwangi.ac.id/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>WANXP</p></td>
 <td><p>(http|ftp|rsync)://mirror.wanxp.id/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>Laboratorium Komputer ID</p></td>
@@ -1303,35 +1310,35 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Israel</p></td>
 <td><p>Israel Internet Association (ISOC-IL)</p></td>
 <td><p>(http|ftp)://mirror.isoc.org.il/pub/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>India</p></td>
 <td><p>Digital Dreams Consulting Private Limited</p></td>
 <td><p><a href="http://raspbian.mirror.net.in/raspbian/raspbian/">http://raspbian.mirror.net.in/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Taiwan</p></td>
 <td><p>Yuan-Ze University</p></td>
 <td><p>(ftp|http|rsync)://ftp.yzu.edu.tw/Linux/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Taiwan</p></td>
 <td><p>Free Software Lab, NCHC</p></td>
 <td><p>(ftp|http)://free.nchc.org.tw/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Taiwan</p></td>
 <td><p>Ubuntu-TW Local Team + OSS Planet</p></td>
@@ -1339,42 +1346,42 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <a href="ftp://mirror.ossplanet.net/mirror/raspbian/raspbian/">ftp://mirror.ossplanet.net/mirror/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Bangladesh</p></td>
 <td><p>dhakaCom Limited</p></td>
 <td><p>(http|ftp)://mirror.dhakacom.com/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Thailand</p></td>
 <td><p>Kasetsart University</p></td>
 <td><p>(http|rsync)://mirror1.ku.ac.th/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Thailand</p></td>
 <td><p>Khon Kaen University</p></td>
 <td><p>(http|ftp)://mirror.kku.ac.th/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Philippenes</p></td>
 <td><p>Rise</p></td>
 <td><p>(http|ftp)://mirror.rise.ph/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Philippenes</p></td>
 <td><p>DOST-ASTI</p></td>
 <td><p>(http|ftp)://mirror.pregi.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Vietnam</p></td>
 <td><p>Freedif</p></td>
@@ -1382,42 +1389,42 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 rsync://mirror.freedif.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Vietnam</p></td>
 <td><p>Vinahost</p></td>
 <td><p><a href="http://mirrors.vinahost.vn/raspbian/raspbian/">http://mirrors.vinahost.vn/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Vietnam</p></td>
 <td><p>VietIDC</p></td>
 <td><p><a href="http://rpi.vietidc.com/raspbian/">http://rpi.vietidc.com/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Armenia<sup>*</sup></p></td>
 <td><p>Academic Scientific Research Computer Network of Armenia (ASNET-AM)</p></td>
 <td><p><a href="http://mirrors.asnet.am/raspbian/raspbian/">http://mirrors.asnet.am/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Iran</p></td>
 <td><p>Isfahan University of Technology</p></td>
 <td><p><a href="http://repo.iut.ac.ir/repo/raspbian/raspbian/">http://repo.iut.ac.ir/repo/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Iran</p></td>
 <td><p>Sefroyek Pardaz Engineering Co Ltd.</p></td>
 <td><p><a href="http://mirror.0-1.cloud/raspbian/raspbian/">http://mirror.0-1.cloud/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
@@ -1427,7 +1434,7 @@ South Africa</p></td>
 <td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Africa'<sup>*</sup></p></td>
 <td><p>Kenya</p></td>
 <td><p>Liquid telecom</p></td>
