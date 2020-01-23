@@ -931,8 +931,7 @@ rsync://mirrors.switch.ca/raspbian/</p></td>
 <td><p>Federal University<br />
 of Mato Grosso do Sul<br />
 UFMS</p></td>
-<td><p><a href="http://raspbian.ufms.br/raspbian/">http://raspbian.ufms.br/raspbian/</a><br />
-rsync://200.129.202.132/Raspbian</p></td>
+<td><p><a href="http://raspbian.ufms.br/raspbian/raspbian/">http://raspbian.ufms.br/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
