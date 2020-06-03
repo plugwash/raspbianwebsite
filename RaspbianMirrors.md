@@ -343,7 +343,7 @@ rsync://mirror.chaoticum.net/raspbian/raspbian/</p></td>
 <td><p>Italy</p></td>
 <td><p>Internetone</p></td>
 <td><p>(http|ftp)://mirror.internetone.it/raspbian/raspbian/</p></td>
-<td></td>
+<td><p>unresponsive as-of 2020-06-03</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
