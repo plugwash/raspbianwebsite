@@ -342,7 +342,7 @@ rsync://mirror.chaoticum.net/raspbian/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Netzwerge GmbH</p></td>
-<td><p>(http|https)://mirror.netzwerge.de/raspbian/raspbian</p></td>
+<td><p>(http|https|rsync)://mirror.netzwerge.de/raspbian/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="odd">
