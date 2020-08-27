@@ -1283,7 +1283,7 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p>Premist</p></td>
-<td><p><a href="http://mirror.premi.st/raspbian/raspbian/">http://mirror.premi.st/raspbian/raspbian/</a></p></td>
+<td><p>(http|https)://mirror.premi.st/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
