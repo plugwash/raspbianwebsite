@@ -827,7 +827,7 @@ rsync://raspbian.mirrors.lucidnetworks.net/raspbian/raspbian/</p></td>
 <td><p>Cashan Stine</p></td>
 <td><p>(http|ftp)://raspbian-us.ngc292.space<br />
 rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
-<td></td>
+<td><p>Broken as-of 2020-06-06</p></td>
 </tr>
 <tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
