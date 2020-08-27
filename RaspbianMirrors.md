@@ -298,7 +298,7 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
 <td><p>Marcel Bischoff</p></td>
-<td><p>(http|ftp|rsync)://mirror.herrbischoff.com/raspbian/</p></td>
+<td><p>(http|https)://mirror.herrbischoff.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
