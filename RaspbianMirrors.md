@@ -52,21 +52,6 @@ rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian</p></td>
 <td><p>Broken as-of 25-OCT-2018</p></td>
 </tr>
 <tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>United Kingdom</p></td>
-<td><p>Inside Electronics</p></td>
-<td><p><a href="http://raspbian.insideelectronics.co.uk/raspbian/">http://raspbian.insideelectronics.co.uk/raspbian/</a></p></td>
-<td><p>uresolvable as of 2019-05-25</p></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>United Kingdom</p></td>
-<td><p>Sargasso networks</p></td>
-<td><p><a href="http://raspbian.mirror.uk.sargasso.net/raspbian/">http://raspbian.mirror.uk.sargasso.net/raspbian/</a><br />
-rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Europe</p></td>
 <td><p>United Kingdom</p></td>
 <td><p>Exascale</p></td>
@@ -99,43 +84,29 @@ rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
 <td><p>France</p></td>
 <td><p>Canterbury Computers</p></td>
 <td><p><a href="http://raspbian.canterburycomputers.com/raspbian">http://raspbian.canterburycomputers.com/raspbian</a></p></td>
-<td><p>404 as of 23-MAR-2014</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>Europe</p></td>
-<td><p>France</p></td>
-<td><p>Gregoryfenton.com</p></td>
-<td><p>(http|rsync)://rsync.gregoryfenton.com/raspberrypi/raspbian/</p></td>
-<td><p>Resolves to 0.0.0.0 on ipv4 and unreachable on ipv6 as-of 2019-05-25</p></td>
-</tr>
-<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Ircam</p></td>
 <td><p>(ftp|http|rsync)://mirrors.ircam.fr/pub/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>France</p></td>
 <td><p>Julien Crifo</p></td>
 <td><p>(http|ftp)://ftp.crifo.org/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe</p></td>
 <td><p>France</p></td>
 <td><p>Institut de Génétique Humaine - CNRS</p></td>
 <td><p>(http|ftp)://ftp.igh.cnrs.fr/pub/os/linux/raspbian/raspbian<br />
 rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>France</p></td>
-<td><p>Hostplanet</p></td>
-<td><p>(http|ftp|rsync)://mirror.finn.lu/raspbian</p></td>
-<td><p>unresolvable as of 2019-05-25</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
@@ -173,62 +144,46 @@ rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Europe</p></td>
-<td><p>Germany</p></td>
-<td><p>Grmml.eu<br />
-powered by<br />
-AOIDE Networks</p></td>
-<td><p><a href="http://raspbian.mirror.grmml.eu/raspbian">http://raspbian.mirror.grmml.eu/raspbian</a></p></td>
-<td><p>Internal server error as of 23-MAR-2014</p></td>
-</tr>
-<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p><a href="/NetCologne">NetCologne</a> GmbH</p></td>
 <td><p>(http|https|ftp|rsync)://mirror.netcologne.de/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Ludwig Maximilians-Universität, Department Biologie II</p></td>
 <td><p><a href="http://debian.bio.lmu.de/raspbian/raspbian/">http://debian.bio.lmu.de/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Freie Universitaet Berlin (FU Berlin)</p></td>
 <td><p><a href="ftp://ftp.fu-berlin.de/linux/raspbian/raspbian/">ftp://ftp.fu-berlin.de/linux/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Ostbayerische Technische Hochschule Regensburg</p></td>
 <td><p>(http|ftp|rsync)://packages.hs-regensburg.de/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p><a href="/NuGardt">NuGardt</a> Software</p></td>
 <td><p><a href="http://raspbian.mirror.nugardt.com/raspbian/">http://raspbian.mirror.nugardt.com/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
 <td><p>axinja.com Webhosting</p></td>
 <td><p><a href="http://raspbian.mirror.axinja.net/raspbian/">http://raspbian.mirror.axinja.net/raspbian/</a></p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>Host-On.de Internet Service Provider</p></td>
-<td><p><a href="http://mirror.host-on.de/raspbian/">http://mirror.host-on.de/raspbian/</a></p></td>
-<td><p>"domain not available" as of 2019-04-19</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -288,27 +243,20 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Germany</p></td>
-<td><p>Heiko Richter</p></td>
-<td><p>(http|ftp|rsync)://ftp.heikorichter.name/raspbian/raspbian/</p></td>
-<td><p>unresolvable as of 2019-05-25</p></td>
-</tr>
-<tr class="even">
 <td><p>Europe</p></td>
 <td><p>Germany</p></td>
 <td><p>Marcel Bischoff</p></td>
 <td><p>(http|https)://mirror.herrbischoff.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Forschungsgemeinschaft elektronische Medien e.V.</p></td>
 <td><p>(https|rsync)://dist-mirror.fem.tu-ilmenau.de/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Hochschule Esslingen</p></td>
@@ -316,7 +264,7 @@ rsync://raspbian.mirror.iphh.net/raspbian</p></td>
 rsync://mirror1.hs-esslingen.de/archive.raspbian.org/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Pfister Andreas</p></td>
@@ -324,33 +272,26 @@ rsync://mirror1.hs-esslingen.de/archive.raspbian.org/raspbian/</p></td>
 rsync://mirror.chaoticum.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>IPB Internet Provider in Berlin GmbH</p></td>
 <td><p>(http|rsync)://mirror.ipb.de/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>PyrateLAN.party</p></td>
 <td><p>(http|https)://mirror.pyratelan.org/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>Netzwerge GmbH</p></td>
 <td><p>(http|https|rsync)://mirror.netzwerge.de/raspbian/raspbian</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>Europe<sup>*</sup></p></td>
-<td><p>Italy</p></td>
-<td><p>Internetone</p></td>
-<td><p>(http|ftp)://mirror.internetone.it/raspbian/raspbian/</p></td>
-<td><p>unresponsive as-of 2020-06-03</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
@@ -368,27 +309,20 @@ rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Europe</p></td>
-<td><p>The Netherlands</p></td>
-<td><p>Rory Slegtenhorst</p></td>
-<td><p><a href="http://raspberry.coolview.nl/raspbian/raspbian">http://raspberry.coolview.nl/raspbian/raspbian</a></p></td>
-<td><p>Unreachable as of 2017-02-28</p></td>
-</tr>
-<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>TechNL</p></td>
 <td><p><a href="http://raspbian.mirror.technl.net/raspbian">http://raspbian.mirror.technl.net/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Triple IT</p></td>
 <td><p><a href="http://raspbian.mirror.triple-it.nl/raspbian/">http://raspbian.mirror.triple-it.nl/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>The Netherlands</p></td>
 <td><p>PCextreme</p></td>
@@ -396,49 +330,49 @@ rsync://raspbian.mirror.garr.it/raspbian/raspbian/</p></td>
 rsync://raspbian.mirror.pcextreme.nl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>TransIP B.V.</p></td>
 <td><p>(http|ftp|rsync)://mirror.transip.net/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Proserve</p></td>
 <td><p>(http|ftp|rsync)://mirror.proserve.nl/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Weppel</p></td>
 <td><p>(ftp|http|https|rsync)://mirror.ehv.weppel.nl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Neostrada B.V</p></td>
 <td><p>(http|https|ftp)://mirror.neostrada.nl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Serverius Connectivity</p></td>
 <td><p>(http|https|rsync)://mirror.serverius.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p>Serverion</p></td>
 <td><p>(http|https|ftp|rsync)://mirror.serverion.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>The Netherlands</p></td>
 <td><p><a href="/LiteServer">LiteServer</a></p></td>
@@ -446,7 +380,7 @@ rsync://raspbian.mirror.pcextreme.nl/raspbian/raspbian/</p></td>
 (ftp|rsync)://mirror.liteserver.nl/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Belgium</p></td>
 <td><p>Cu.be Solutions</p></td>
@@ -454,21 +388,21 @@ rsync://raspbian.mirror.pcextreme.nl/raspbian/raspbian/</p></td>
 rsync://raspbian.cu.be/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe</p></td>
 <td><p>Belgium</p></td>
 <td><p>Unix-Solutions BVBA</p></td>
 <td><p>(http|rsync)://mirror.unix-solutions.be/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe</p></td>
 <td><p>Belgium</p></td>
 <td><p>IT2GO</p></td>
 <td><p>(http|https)://raspbian.mirror.it2go.eu/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Norway</p></td>
 <td><p>The Student Society<br />
@@ -476,19 +410,12 @@ in Trondhjem</p></td>
 <td><p><a href="http://raspbian.trivini.no/raspbian">http://raspbian.trivini.no/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Norway</p></td>
 <td><p>Terrahost AS</p></td>
 <td><p><a href="http://mirror.terrahost.no/linux/raspbian/raspbian/">http://mirror.terrahost.no/linux/raspbian/raspbian/</a></p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>Switzerland</p></td>
-<td><p>Benjamin Schlageter</p></td>
-<td><p><a href="http://raspbian.kilrathy.net/raspbian">http://raspbian.kilrathy.net/raspbian</a></p></td>
-<td><p>unresolvable as of 2019-04-19</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -562,18 +489,11 @@ rsync://ftp.arnes.si/raspbian/</p></td>
 <td><p>Europe</p></td>
 <td><p>Austria</p></td>
 <td><p>Technical University of Graz</p></td>
-<td><p>(ftp|http|rsync)://ftp.tugraz.at/mirror/raspbian/raspbian</p></td>
-<td><p>rsync seems broken</p></td>
+<td><p>(ftp|http)://ftp.tugraz.at/mirror/raspbian/raspbian<br />
+rsync://ftp.tugraz.at/raspbian/raspbian</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>Europe</p></td>
-<td><p>Hungary</p></td>
-<td><p>Innobrand Ltd</p></td>
-<td><p><a href="http://raspbian.innobrand.hu/raspbian/">http://raspbian.innobrand.hu/raspbian/</a><br />
-rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
-<td><p>Unreachable as-of 201800822</p></td>
-</tr>
-<tr class="even">
 <td><p>Europe</p></td>
 <td><p>Hungary</p></td>
 <td><p>Quantum Mirror</p></td>
@@ -581,61 +501,54 @@ rsync://raspbian.innobrand.hu/raspbian/raspbian/</p></td>
 rsync://quantum-mirror.hu/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Denmark</p></td>
 <td><p>dotsrc.org</p></td>
 <td><p>(http|ftp|rsync)://mirrors.dotsrc.org/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Slovakia</p></td>
 <td><p>Wheel.sk</p></td>
 <td><p>(http|rsync)://mirror.wheel.sk/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Slovakia</p></td>
 <td><p>VNET,a.s</p></td>
 <td><p>(http|ftp|rsync)://mirror.vnet.sk/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Czech Republic</p></td>
 <td><p>vpsFree.cz</p></td>
 <td><p>(http|ftp|rsync)://mirror.vpsfree.cz/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Czech Republic</p></td>
 <td><p>Masaryk University, Faculty of Informatics</p></td>
 <td><p>(http|ftp|rsync)://ftp.fi.muni.cz/pub/linux/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Czech Republic</p></td>
 <td><p>Silicon Hill</p></td>
 <td><p>(http|https|ftp|rsync)://ftp.sh.cvut.cz/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Czech Republic</p></td>
 <td><p>dkm.cz</p></td>
 <td><p>(http|ftp|rsync)://mirror.dkm.cz/raspbian/raspbian/</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>Europe</p></td>
-<td><p>Russia</p></td>
-<td><p>Go-Parts</p></td>
-<td><p>(http|ftp)://mirrors-ru.go-parts.com/raspbian/</p></td>
-<td><p>Broken (redirecting to website) as of 25-OCT-2018</p></td>
 </tr>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
@@ -788,18 +701,11 @@ Linux Users Group</p></td>
 <tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
-<td><p>Go-Parts</p></td>
-<td><p>(http|ftp)://mirrors-usa.go-parts.com/raspbian/</p></td>
-<td><p>Broken as-of 25-OCT-2018</p></td>
-</tr>
-<tr class="even">
-<td><p>North America</p></td>
-<td><p>United States</p></td>
 <td><p>University of Oklahoma</p></td>
 <td><p>(http|ftp|rsync)://reflection.oss.ou.edu/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Lucid Networks</p></td>
@@ -807,21 +713,21 @@ Linux Users Group</p></td>
 rsync://raspbian.mirrors.lucidnetworks.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>University of Maryland</p></td>
 <td><p>(http|rsync)://mirror.umd.edu/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>West Virginia State University</p></td>
 <td><p><a href="http://raspbian.mirrors.wvstateu.edu/raspbian/">http://raspbian.mirrors.wvstateu.edu/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Cashan Stine</p></td>
@@ -829,42 +735,42 @@ rsync://raspbian.mirrors.lucidnetworks.net/raspbian/raspbian/</p></td>
 rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
 <td><p>Broken as-of 2020-06-06</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Canby Telcom</p></td>
 <td><p>(http|ftp|rsync)://mirror.web-ster.com/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>os6.org</p></td>
 <td><p>(http|rsync)://mirror.os6.org/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>UC Berkely Open Computing Facility</p></td>
 <td><p>(http|ftp|rsync)://mirrors.ocf.berkeley.edu/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Silicon Valley Web Hosting</p></td>
 <td><p>(http|rsync)://mirror.sjc02.svwh.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Syringa Networks</p></td>
 <td><p>(http|https|ftp|rsync)://mirrors.syringanetworks.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Constant.com</p></td>
@@ -872,35 +778,35 @@ rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
 rsync://raspbian.mirror.constant.com/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p><a href="/PhirePhly">PhirePhly</a> Design</p></td>
 <td><p><a href="http://raspbian.phirephly.design/raspbian/">http://raspbian.phirephly.design/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>GigeNET</p></td>
 <td><p><a href="http://mirrors.gigenet.com/raspbian/">http://mirrors.gigenet.com/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p><a href="/TeraSwitch">TeraSwitch</a> Inc.</p></td>
 <td><p>(http|https|rsync)://mirror.pit.teraswitch.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Purdue Linux Users Group</p></td>
 <td><p>(http|https|ftp|rsync)://plug-mirror.rcac.purdue.edu/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>Canada</p></td>
 <td><p>Manitoba Unix User Group</p></td>
@@ -908,14 +814,14 @@ rsync://raspbian.mirror.constant.com/raspbian/raspbian</p></td>
 <a href="ftp://ftp.muug.ca/mirror/raspbian/raspbian">ftp://ftp.muug.ca/mirror/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>Canada</p></td>
 <td><p>Colo-Serv Communications</p></td>
 <td><p><a href="http://raspbian.mirror.colo-serv.net/raspbian/">http://raspbian.mirror.colo-serv.net/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>Canada</p></td>
 <td><p><a href="/GloboTech">GloboTech</a></p></td>
@@ -923,7 +829,7 @@ rsync://raspbian.mirror.constant.com/raspbian/raspbian</p></td>
 rsync://raspbian.mirror.globo.tech/Raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>Canada</p></td>
 <td><p>Switch Inc</p></td>
@@ -931,7 +837,7 @@ rsync://raspbian.mirror.globo.tech/Raspbian/raspbian/</p></td>
 rsync://mirrors.switch.ca/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>Canada</p></td>
 <td><p>The Free Mirror Project</p></td>
@@ -939,14 +845,14 @@ rsync://mirrors.switch.ca/raspbian/</p></td>
 (ftp|rsync)://raspbian.freemirror.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>Greenland</p></td>
 <td><p>TELE-POST</p></td>
 <td><p>(http|rsync)://mirror.greennet.gl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Federal University<br />
@@ -955,14 +861,14 @@ UFMS</p></td>
 <td><p><a href="http://raspbian.ufms.br/raspbian/raspbian/">http://raspbian.ufms.br/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Universidade de São Paulo - USP</p></td>
 <td><p>(http|ftp|rsync)://linorg.usp.br/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Center for Scientific Computing and Free Software (C3SL), Federal University of Parana</p></td>
@@ -970,47 +876,40 @@ UFMS</p></td>
 (ftp|rsync)://raspbian.c3sl.ufpr.br/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>NB Telecom</p></td>
 <td><p>(http|rsync)://mirror.nbtelecom.com.br/raspberryPI/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Universidade Federal do Amazonas</p></td>
 <td><p><a href="http://mirror.ufam.edu.br/raspbian/raspbian/">http://mirror.ufam.edu.br/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America</p></td>
 <td><p>Colombia</p></td>
 <td><p>Corporacion Universitaria Minuto de Dios</p></td>
 <td><p>(http|rsync)://raspbian.uniminuto.edu/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Ecuador</p></td>
 <td><p>Consorcio Ecuatoriano para el Desarrollo de Internet Avanzada</p></td>
 <td><p>(http|https|rsync)://mirror.cedia.org.ec/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America</p></td>
 <td><p>Ecuador</p></td>
 <td><p>Escuela Politécnica Nacional</p></td>
 <td><p>(http|https|rsync)://mirror.epn.edu.ec</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>South America</p></td>
-<td><p>Chile</p></td>
-<td><p>STI UCHILE</p></td>
-<td><p><a href="http://mirror.uchile.cl/raspbian/">http://mirror.uchile.cl/raspbian/</a></p></td>
-<td><p>404 as-of 2019-04-19</p></td>
 </tr>
 <tr class="even">
 <td><p>South America</p></td>
@@ -1055,14 +954,6 @@ UFMS</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Oceania</p></td>
-<td><p>Australia</p></td>
-<td><p>Over The Wire</p></td>
-<td><p><a href="http://mirror.overthewire.com.au/pub/raspbian/raspbian">http://mirror.overthewire.com.au/pub/raspbian/raspbian</a><br />
-<a href="ftp://mirror.overthewire.com.au/pub/raspbian/raspbian">ftp://mirror.overthewire.com.au/pub/raspbian/raspbian</a></p></td>
-<td><p>404 as-of 2019-04-19</p></td>
-</tr>
-<tr class="odd">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Sky<code class="backtick"></code>Mesh Pty Ltd</p></td>
@@ -1070,20 +961,13 @@ UFMS</p></td>
 <a href="ftp://raspbian.skymesh.net.au/raspbian">ftp://raspbian.skymesh.net.au/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Internode</p></td>
 <td><p>(http|ftp)://mirror.internode.on.net/pub/raspbian/raspbian/<br />
 rsync://mirror.internode.on.net/raspbian/raspbian/</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>Oceania</p></td>
-<td><p>Australia</p></td>
-<td><p>Go-Parts</p></td>
-<td><p>(http|ftp)://mirrors-au.go-parts.com/raspbian/</p></td>
-<td><p>Broken as-of 25-OCT-2018</p></td>
 </tr>
 <tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
@@ -1183,52 +1067,37 @@ Sig<code class="backtick"></code>Labs</p></td>
 <tr class="odd">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
-<td><p>Cohesion Network Security Studio (CNSS)</p></td>
-<td><p><a href="http://raspbian.cnssuestc.org/raspbian/">http://raspbian.cnssuestc.org/raspbian/</a><br />
-rsync://raspbian.cnssuestc.org/raspbian</p></td>
-<td><p>unresolvable as of 2019-04-19</p></td>
-</tr>
-<tr class="even">
-<td><p>Asia</p></td>
-<td><p>China</p></td>
 <td><p>Unique Studio of Huazhong University of Science and Technology</p></td>
 <td><p>(http|rsync)://mirrors.hustunique.com/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>University of Science and Technology of China</p></td>
 <td><p>(http|rsync)://mirrors.ustc.edu.cn/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>SUN YAT-SEN University</p></td>
 <td><p><a href="http://mirror.sysu.edu.cn/raspbian/">http://mirror.sysu.edu.cn/raspbian/</a></p></td>
 <td><p>unresolvable as of 2019-05-25</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Beijing Foreign Studies University</p></td>
 <td><p>(https|rsync)://mirrors.bfsu.edu.cn/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>China</p></td>
 <td><p>Zhejiang University</p></td>
 <td><p><a href="http://mirrors.zju.edu.cn/raspbian/raspbian/">http://mirrors.zju.edu.cn/raspbian/raspbian/</a></p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p>Asia<sup>*</sup></p></td>
-<td><p>China</p></td>
-<td><p>Open Source Software Association of Chinese Academy of Sciences</p></td>
-<td><p><a href="http://mirrors.opencas.cn/raspbian/raspbian/">http://mirrors.opencas.cn/raspbian/raspbian/</a></p></td>
-<td><p>Currently ipv6 only, unresponive as-of 2019-04-19</p></td>
 </tr>
 <tr class="even">
 <td><p>Asia</p></td>
@@ -1254,53 +1123,46 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 <tr class="odd">
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
-<td><p>dnetwork</p></td>
-<td><p><a href="http://mirror.devunt.kr/raspbian/raspbian/">http://mirror.devunt.kr/raspbian/raspbian/</a></p></td>
-<td><p>unresolvable as-of 2019-05-25</p></td>
-</tr>
-<tr class="even">
-<td><p>Asia</p></td>
-<td><p>South Korea</p></td>
 <td><p><a href="/NeowizGames">NeowizGames</a> corp</p></td>
 <td><p>(http|ftp|rsync)://ftp.neowiz.com/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p>KAIST</p></td>
 <td><p>(http|ftp|rsync)://ftp.kaist.ac.kr/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>South Korea</p></td>
 <td><p>LANET</p></td>
 <td><p>(http|ftp)://ftp.lanet.kr/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>South Korea</p></td>
 <td><p>Premist</p></td>
 <td><p>(http|https)://mirror.premi.st/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>South Korea</p></td>
 <td><p>Harukasan</p></td>
 <td><p>(http|https|ftp|rsync)://ftp.harukasan.org/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>South Korea</p></td>
 <td><p>Yongbok.net</p></td>
 <td><p><a href="http://mirror.yongbok.net/raspbian/raspbian/">http://mirror.yongbok.net/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>JAIST</p></td>
@@ -1308,7 +1170,7 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 (http|rsync)://ftp.jaist.ac.jp/pub/Linux/raspbian-archive/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>WIDE Project Tsukuba NOC</p></td>
@@ -1316,35 +1178,35 @@ rsync://raspbian.cnssuestc.org/raspbian</p></td>
 rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Japan</p></td>
 <td><p>Yamagata University</p></td>
 <td><p><a href="http://ftp.yz.yamagata-u.ac.jp/pub/linux/raspbian/raspbian/">http://ftp.yz.yamagata-u.ac.jp/pub/linux/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Indonesia</p></td>
 <td><p>DATAUTAMA-NET-ID</p></td>
 <td><p>(http|rsync)://kartolo.sby.datautama.net.id/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>State Polytechnic of Banyuwangi</p></td>
 <td><p><a href="http://mirror.poliwangi.ac.id/raspbian/raspbian">http://mirror.poliwangi.ac.id/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>WANXP</p></td>
 <td><p>(http|ftp|rsync)://mirror.wanxp.id/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>Laboratorium Komputer ID</p></td>
@@ -1352,42 +1214,42 @@ rsync://ftp.tsukuba.wide.ad.jp/raspbian/raspbian/</p></td>
 rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Indonesia</p></td>
 <td><p>Telkom University</p></td>
 <td><p><a href="http://mirror.telkomuniversity.ac.id/raspbian/raspbian/">http://mirror.telkomuniversity.ac.id/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Israel</p></td>
 <td><p>Israel Internet Association (ISOC-IL)</p></td>
 <td><p>(http|ftp)://mirror.isoc.org.il/pub/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>India</p></td>
 <td><p>Digital Dreams Consulting Private Limited</p></td>
 <td><p><a href="http://raspbian.mirror.net.in/raspbian/raspbian/">http://raspbian.mirror.net.in/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Taiwan</p></td>
 <td><p>Yuan-Ze University</p></td>
 <td><p>(ftp|http|rsync)://ftp.yzu.edu.tw/Linux/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Taiwan</p></td>
 <td><p>Free Software Lab, NCHC</p></td>
 <td><p>(ftp|http)://free.nchc.org.tw/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia<sup>*</sup></p></td>
 <td><p>Taiwan</p></td>
 <td><p>Ubuntu-TW Local Team + OSS Planet</p></td>
@@ -1395,42 +1257,42 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <a href="ftp://mirror.ossplanet.net/mirror/raspbian/raspbian/">ftp://mirror.ossplanet.net/mirror/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Bangladesh</p></td>
 <td><p>dhakaCom Limited</p></td>
 <td><p>(http|ftp)://mirror.dhakacom.com/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Thailand</p></td>
 <td><p>Kasetsart University</p></td>
 <td><p>(http|rsync)://mirror1.ku.ac.th/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Thailand</p></td>
 <td><p>Khon Kaen University</p></td>
 <td><p>(http|ftp)://mirror.kku.ac.th/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Philippenes</p></td>
 <td><p>Rise</p></td>
 <td><p>(http|ftp)://mirror.rise.ph/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Philippenes</p></td>
 <td><p>DOST-ASTI</p></td>
 <td><p>(http|ftp)://mirror.pregi.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Vietnam</p></td>
 <td><p>Freedif</p></td>
@@ -1438,42 +1300,42 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 rsync://mirror.freedif.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Vietnam</p></td>
 <td><p>Vinahost</p></td>
 <td><p><a href="http://mirrors.vinahost.vn/raspbian/raspbian/">http://mirrors.vinahost.vn/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Vietnam</p></td>
 <td><p>VietIDC</p></td>
 <td><p><a href="http://rpi.vietidc.com/raspbian/">http://rpi.vietidc.com/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Armenia<sup>*</sup></p></td>
 <td><p>Academic Scientific Research Computer Network of Armenia (ASNET-AM)</p></td>
 <td><p><a href="http://mirrors.asnet.am/raspbian/raspbian/">http://mirrors.asnet.am/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Asia</p></td>
 <td><p>Iran</p></td>
 <td><p>Isfahan University of Technology</p></td>
 <td><p><a href="http://repo.iut.ac.ir/repo/raspbian/raspbian/">http://repo.iut.ac.ir/repo/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Asia</p></td>
 <td><p>Iran</p></td>
 <td><p>Sefroyek Pardaz Engineering Co Ltd.</p></td>
 <td><p><a href="http://mirror.0-1.cloud/raspbian/raspbian/">http://mirror.0-1.cloud/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
@@ -1483,7 +1345,7 @@ South Africa</p></td>
 <td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Africa'<sup>*</sup></p></td>
 <td><p>Kenya</p></td>
 <td><p>Liquid telecom</p></td>
