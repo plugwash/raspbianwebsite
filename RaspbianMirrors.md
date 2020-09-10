@@ -1096,7 +1096,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Beijing Foreign Studies University</p></td>
-<td><p>(https|rsync)://mirrors.bfsu.edu.cn/raspbian/</p></td>
+<td><p>(http|https|rsync)://mirrors.bfsu.edu.cn/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
