@@ -673,7 +673,7 @@ rsync://mirrors.pidginhost.com/Raspbian/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Ukraine</p></td>
 <td><p>Ivan Barabash</p></td>
-<td><p>(http|https)://fastmirror.pp.ua/raspbian/</p></td>
+<td><p>(http|https|rsync)://fastmirror.pp.ua/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
