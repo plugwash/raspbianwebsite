@@ -579,6 +579,21 @@ rsync://quantum-mirror.hu/raspbian</p></td>
 <td><p>(http|https|ftp)://mirror.truenetwork.ru/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
+</tbody>
+</table>
+
+||Europe<sup>\*</sup>||Russia||Axelname||(http|https|rsync)://mirror.axelname.ru/raspbian/
+|| ||
+
+<table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Poland</p></td>
