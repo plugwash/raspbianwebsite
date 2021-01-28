@@ -276,7 +276,7 @@ rsync://mirror.chaoticum.net/raspbian/raspbian/</p></td>
 <td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>PyrateLAN.party</p></td>
-<td><p>(http|https)://mirror.pyratelan.org/raspbian/</p></td>
+<td><p>(http|https)://mirror.pyratelan.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
