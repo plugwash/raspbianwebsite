@@ -1204,7 +1204,7 @@ Sig<code class="backtick"></code>Labs</p></td>
 <td><p>Asia</p></td>
 <td><p>China</p></td>
 <td><p>Shanghai Jiao Tong University Linux User Group (SJTUG)</p></td>
-<td><p><a href="https://mirrors.sjtug.sjtu.edu.cn/raspbian/raspbian/">https://mirrors.sjtug.sjtu.edu.cn/raspbian/raspbian/</a></p></td>
+<td><p>(http|https|rsync)://mirrors.sjtug.sjtu.edu.cn/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
