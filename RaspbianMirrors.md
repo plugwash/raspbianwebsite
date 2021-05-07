@@ -44,12 +44,12 @@ UK Mirror Service</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Europe</p></td>
+<td><p>Europe<sup>*</sup></p></td>
 <td><p>United Kingdom</p></td>
-<td><p>Go-Parts</p></td>
-<td><p>(http|ftp)://mirrors-uk.go-parts.com/raspbian/<br />
-rsync://mirrors-uk.go-parts.com/mirrors/raspbian/raspbian</p></td>
-<td><p>Broken as-of 25-OCT-2018</p></td>
+<td><p>Sargasso networks</p></td>
+<td><p><a href="http://raspbian.mirror.uk.sargasso.net/raspbian/">http://raspbian.mirror.uk.sargasso.net/raspbian/</a><br />
+rsync://raspbian.mirror.uk.sargasso.net/raspbian/raspbian</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
