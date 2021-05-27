@@ -1333,7 +1333,7 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <td><p>Asia</p></td>
 <td><p>India</p></td>
 <td><p>Jansons Institute of Technology</p></td>
-<td><p>(http|rsync)://mirror.jit.ac.in/raspbian/raspbian/</p></td>
+<td><p>(http|https|ftp|rsync)://mirror.jit.ac.in/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
