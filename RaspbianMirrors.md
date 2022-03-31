@@ -860,7 +860,7 @@ rsync://raspbian.mirror.constant.com/raspbian/raspbian</p></td>
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>GigeNET</p></td>
-<td><p><a href="http://mirrors.gigenet.com/raspbian/">http://mirrors.gigenet.com/raspbian/</a></p></td>
+<td><p>(http|https)://mirrors.gigenet.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
