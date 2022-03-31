@@ -719,27 +719,34 @@ rsync://mirrors.pidginhost.com/Raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Europe<sup>*</sup></p></td>
+<td><p>Luxembourg</p></td>
+<td><p><a href="http://raspbian.mirror.root.lu/">http://raspbian.mirror.root.lu/</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>the808.net</p></td>
 <td><p><a href="http://raspbian.the808.net/raspbian">http://raspbian.the808.net/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Leaseweb</p></td>
 <td><p><a href="http://mirror.us.leaseweb.net/raspbian/raspbian">http://mirror.us.leaseweb.net/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>nwlinux</p></td>
 <td><p><a href="http://raspbian.nwlinux.us/raspbian">http://raspbian.nwlinux.us/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Michigan Tech<br />
@@ -748,21 +755,21 @@ Linux Users Group</p></td>
 <a href="ftp://lug.mtu.edu/raspbian">ftp://lug.mtu.edu/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Computer Action Team - Portland State University</p></td>
 <td><p>(http|rsync)://mirrors.cat.pdx.edu/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Glenn <a href="/McGurrin">McGurrin</a></p></td>
 <td><p><a href="http://mirror.glennmcgurrin.com/raspbian/">http://mirror.glennmcgurrin.com/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>Lucid Networks</p></td>
@@ -770,21 +777,21 @@ Linux Users Group</p></td>
 rsync://raspbian.mirrors.lucidnetworks.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>University of Maryland</p></td>
 <td><p>(http|rsync)://mirror.umd.edu/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>West Virginia State University</p></td>
 <td><p><a href="http://raspbian.mirrors.wvstateu.edu/raspbian/">http://raspbian.mirrors.wvstateu.edu/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Cashan Stine</p></td>
@@ -792,42 +799,42 @@ rsync://raspbian.mirrors.lucidnetworks.net/raspbian/raspbian/</p></td>
 rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
 <td><p>Broken as-of 2020-06-06</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Canby Telcom</p></td>
 <td><p>(http|ftp|rsync)://mirror.web-ster.com/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>United States</p></td>
 <td><p>os6.org</p></td>
 <td><p>(http|rsync)://mirror.os6.org/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>UC Berkely Open Computing Facility</p></td>
 <td><p>(http|ftp|rsync)://mirrors.ocf.berkeley.edu/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Silicon Valley Web Hosting</p></td>
 <td><p>(http|rsync)://mirror.sjc02.svwh.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Syringa Networks</p></td>
 <td><p>(http|https|ftp|rsync)://mirrors.syringanetworks.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Constant.com</p></td>
@@ -835,35 +842,35 @@ rsync://raspbian-us.ngc292.space/raspbian_mirror/raspbian/</p></td>
 rsync://raspbian.mirror.constant.com/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p><a href="/PhirePhly">PhirePhly</a> Design</p></td>
 <td><p><a href="http://raspbian.phirephly.design/raspbian/">http://raspbian.phirephly.design/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>GigeNET</p></td>
 <td><p><a href="http://mirrors.gigenet.com/raspbian/">http://mirrors.gigenet.com/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p><a href="/TeraSwitch">TeraSwitch</a> Inc.</p></td>
 <td><p>(http|https|rsync)://mirror.pit.teraswitch.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>Purdue Linux Users Group</p></td>
 <td><p>(http|https|ftp|rsync)://plug-mirror.rcac.purdue.edu/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>United States</p></td>
 <td><p>fro.wtf</p></td>
@@ -871,7 +878,7 @@ rsync://raspbian.mirror.constant.com/raspbian/raspbian</p></td>
 rsync://raspbian.os.mirror.fro.wtf/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America<sup>*</sup></p></td>
 <td><p>Canada</p></td>
 <td><p>Manitoba Unix User Group</p></td>
@@ -879,7 +886,7 @@ rsync://raspbian.os.mirror.fro.wtf/raspbian/raspbian</p></td>
 <a href="ftp://ftp.muug.ca/mirror/raspbian/raspbian">ftp://ftp.muug.ca/mirror/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>Canada</p></td>
 <td><p><a href="/GloboTech">GloboTech</a></p></td>
@@ -887,7 +894,7 @@ rsync://raspbian.os.mirror.fro.wtf/raspbian/raspbian</p></td>
 rsync://raspbian.mirror.globo.tech/Raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>Canada</p></td>
 <td><p>Switch Inc</p></td>
@@ -895,7 +902,7 @@ rsync://raspbian.mirror.globo.tech/Raspbian/raspbian/</p></td>
 rsync://mirrors.switch.ca/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>Canada</p></td>
 <td><p>The Free Mirror Project</p></td>
@@ -903,14 +910,14 @@ rsync://mirrors.switch.ca/raspbian/</p></td>
 (ftp|rsync)://raspbian.freemirror.org/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>North America</p></td>
 <td><p>Greenland</p></td>
 <td><p>TELE-POST</p></td>
 <td><p>(http|rsync)://mirror.greennet.gl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>North America</p></td>
 <td><p>Mexico</p></td>
 <td><p>Galileo Martinez</p></td>
@@ -918,7 +925,7 @@ rsync://mirrors.switch.ca/raspbian/</p></td>
 rsync://raspbian.galileomtz.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Federal University<br />
@@ -927,14 +934,14 @@ UFMS</p></td>
 <td><p><a href="http://raspbian.ufms.br/raspbian/raspbian/">http://raspbian.ufms.br/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Universidade de São Paulo - USP</p></td>
 <td><p>(http|ftp|rsync)://linorg.usp.br/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Center for Scientific Computing and Free Software (C3SL), Federal University of Parana</p></td>
@@ -942,91 +949,91 @@ UFMS</p></td>
 (ftp|rsync)://raspbian.c3sl.ufpr.br/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>NB Telecom</p></td>
 <td><p>(http|rsync)://mirror.nbtelecom.com.br/raspberryPI/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Brazil</p></td>
 <td><p>Universidade Federal do Amazonas</p></td>
 <td><p><a href="http://mirror.ufam.edu.br/raspbian/raspbian/">http://mirror.ufam.edu.br/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America</p></td>
 <td><p>Colombia</p></td>
 <td><p>Corporacion Universitaria Minuto de Dios</p></td>
 <td><p>(http|rsync)://raspbian.uniminuto.edu/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Ecuador</p></td>
 <td><p>Consorcio Ecuatoriano para el Desarrollo de Internet Avanzada</p></td>
 <td><p>(http|https|rsync)://mirror.cedia.org.ec/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America</p></td>
 <td><p>Ecuador</p></td>
 <td><p>Escuela Politécnica Nacional</p></td>
 <td><p>(http|https|rsync)://mirror.epn.edu.ec</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America</p></td>
 <td><p>Chile</p></td>
 <td><p>Universidad de la Frontera</p></td>
 <td><p>(http|https|rsync)://mirror.ufro.cl/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America</p></td>
 <td><p>Chile</p></td>
 <td><p>Redlibre</p></td>
 <td><p><a href="http://raspbian.redlibre.cl/raspbian/">http://raspbian.redlibre.cl/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America</p></td>
 <td><p>Chile</p></td>
 <td><p><a href="/NetActuate">NetActuate</a></p></td>
 <td><p>(http|https|ftp|rsync)://mirror1.cl.netactuate.com/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America</p></td>
 <td><p>Argentina</p></td>
 <td><p>Cooperativa Telefónica de Villa Gobernador Gálvez Ltda</p></td>
 <td><p>(http|ftp|rsync)://mirrors.coopvgg.com.ar/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>South America<sup>*</sup></p></td>
 <td><p>Argentina</p></td>
 <td><p>Sysarmy</p></td>
 <td><p>(http|https|rsync)://mirrors.eze.sysarmy.com/raspbian/raspbian</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>South America</p></td>
 <td><p>Uruguay</p></td>
 <td><p>Facultad de Derecho, UdelaR</p></td>
 <td><p>(http|ftp|rsync)://espejito.fder.edu.uy/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Oceania</p></td>
 <td><p>Australia</p></td>
 <td><p>AARNet</p></td>
 <td><p><a href="http://mirror.aarnet.edu.au/pub/raspbian/raspbian">http://mirror.aarnet.edu.au/pub/raspbian/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Sky<code class="backtick"></code>Mesh Pty Ltd</p></td>
@@ -1034,7 +1041,7 @@ UFMS</p></td>
 <a href="ftp://raspbian.skymesh.net.au/raspbian">ftp://raspbian.skymesh.net.au/raspbian</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Internode</p></td>
@@ -1042,7 +1049,7 @@ UFMS</p></td>
 rsync://mirror.internode.on.net/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Digital Pacific</p></td>
@@ -1050,56 +1057,56 @@ rsync://mirror.internode.on.net/raspbian/raspbian/</p></td>
 rsync rsync://mirror.digitalpacific.com.au/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p><a href="/DataMossa">DataMossa</a></p></td>
 <td><p>(http|rsync)://mirror.datamossa.io/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>Australia</p></td>
 <td><p>Launtel</p></td>
 <td><p>(http|https|ftp)://mirror.launtel.net.au/repo/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Oceania</p></td>
 <td><p>Australia</p></td>
 <td><p>Real World Group</p></td>
 <td><p><a href="http://mirror.realcompute.io/raspbian/raspbian/">http://mirror.realcompute.io/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oceania</p></td>
 <td><p>New Caledonia</p></td>
 <td><p>OFFRATEL LAGOON</p></td>
 <td><p>(http|ftp|rsync)://mirror.lagoon.nc/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Oceania</p></td>
 <td><p>Vanuatu</p></td>
 <td><p>Telsat Broadband Ltd.</p></td>
 <td><p><a href="http://raspbian.telsatbb.vu/raspbian/raspbian/">http://raspbian.telsatbb.vu/raspbian/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oceania</p></td>
 <td><p>New Zealand</p></td>
 <td><p>REAP-ISP</p></td>
 <td><p>(http|ftp|rsync)://mirror.reap.net.nz/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>New Zealand</p></td>
 <td><p>Free Software Mirror Group</p></td>
 <td><p>(http|https|rsync)://mirror.fsmg.org.nz/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>New Zealand</p></td>
 <td><p>mirror.geek.nz</p></td>
@@ -1107,7 +1114,7 @@ rsync rsync://mirror.digitalpacific.com.au/raspbian/raspbian/</p></td>
 rsync://rsync.mirror.geek.nz/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Oceania<sup>*</sup></p></td>
 <td><p>New Zealand</p></td>
 <td><p>2degrees</p></td>
