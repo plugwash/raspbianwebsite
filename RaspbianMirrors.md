@@ -179,7 +179,7 @@ rsync://ftp.igh.cnrs.fr/raspbian/raspbian</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Europe</p></td>
+<td><p>Europe<sup>*</sup></p></td>
 <td><p>Germany</p></td>
 <td><p>axinja.com Webhosting</p></td>
 <td><p><a href="http://raspbian.mirror.axinja.net/raspbian/">http://raspbian.mirror.axinja.net/raspbian/</a></p></td>
