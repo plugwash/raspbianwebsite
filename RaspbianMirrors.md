@@ -1487,6 +1487,13 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>Asia</p></td>
+<td><p>Azerbaijan</p></td>
+<td><p>Yer hosting</p></td>
+<td><p>(http|https)://mirror.yer.az/raspbian/raspbian/</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
@@ -1496,7 +1503,7 @@ South Africa</p></td>
 <td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Africa'<sup>*</sup></p></td>
 <td><p>Kenya</p></td>
 <td><p>Liquid telecom</p></td>
