@@ -1494,6 +1494,13 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>Asia</p></td>
+<td><p>Malasia<sup>*</sup></p></td>
+<td><p>(http|https|rsync)://mirrors.gbnetwork.com/raspbian</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Africa</p></td>
 <td><p>South Africa</p></td>
 <td><p>TENET<br />
@@ -1503,7 +1510,7 @@ South Africa</p></td>
 <td><p><a href="http://raspbian.mirror.ac.za/raspbian/">http://raspbian.mirror.ac.za/raspbian/</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Africa'<sup>*</sup></p></td>
 <td><p>Kenya</p></td>
 <td><p>Liquid telecom</p></td>
