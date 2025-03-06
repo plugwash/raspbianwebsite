@@ -1503,8 +1503,8 @@ rsync://mirror.labkom.id/raspbian/raspbian/</p></td>
 <tr class="even">
 <td><p>Asia</p></td>
 <td><p>Malasia<sup>*</sup></p></td>
+<td><p>GB Network Solutions</p></td>
 <td><p>(http|https|rsync)://mirrors.gbnetwork.com/raspbian</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
