@@ -1,0 +1,16 @@
+site_name: Raspbian
+nav:
+   - Home: index.md
+   - FAQ: RaspbianFAQ.md
+   - Donate: RaspbianDonate.md
+   - Images: RaspbianImages.md
+   - Installer: RaspbianInstaller.md
+   - Repository: RaspbianRepository.md
+   - Mirrors: RaspbianMirrors.md
+   - Documentation: RaspbianDocumentation.md
+   - Forums: RaspbianForums.md
+   - Bugs: RaspbianBugs.md
+   - IRC: RaspbianIRC.md
+theme:
+  name: null
+  custom_dir: 'theme/'
