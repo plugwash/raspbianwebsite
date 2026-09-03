@@ -1,0 +1,203 @@
+<!--
+  This Basic theme serves as an example for how to create other
+  themes by demonstrating the features with minimal HTML and CSS.
+  Comments like this will be through the code to explain briefly
+  what each feature is and point you to the MkDocs documentation
+  to find out more.
+-->
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <!--
+    The page_title contains the title for a page as shown in the navigation.
+    Site name contains the name as defined in the mkdocs.yml
+  -->
+  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ config.site_name }}</title>
+
+  <!--
+    Just add a favicon.ico image to the docs.
+  -->
+     <link rel="shortcut icon" href="{{ "img/favicon.ico"|url }}">
+
+
+  <!--
+    You can include external assets of course, but be aware that it means the
+    documentation may not work well offline.
+  -->
+  <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="{{ "css/moniker/common.css"|url }}">
+  <link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="{{ "css/moniker/screen.css"|url }}">
+  <link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="{{ "css/moniker/print.css"|url }}">
+  <link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="{{ "css//moniker/projection.css"|url }}">
+
+  <link rel="stylesheet" href="{{ "css/theme.css"|url }}">
+
+  <!--
+    extra_css contains paths to CSS files in the users
+    documentation directory or a list of CSS files defined in
+    their mkdocs.yml.
+
+    http://www.mkdocs.org/user-guide/configuration/#extra_css
+  -->
+  {% for path in config.extra_css %}
+    <link href="{{ path|url }}" rel="stylesheet">
+  {% endfor %}
+
+  <script
+  src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+  integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+  crossorigin="anonymous"></script>
+
+  <!--
+    To include static assets from our theme, just make the path
+    relative to the root of the documentation with `|url`.
+  -->
+  <script src="{{ "js/theme.js"|url }}"></script>
+
+  {% block extrahead %}
+  {% endblock %}
+
+  <!--
+    extra_javascript contains paths to JavaScript files in the
+    users documentation directory or a list of JavaScript files
+    defined in their mkdocs.yml.
+
+    http://www.mkdocs.org/user-guide/configuration/#extra_javascript
+  -->
+  {% for script in config.extra_javascript %}
+    {{ script | script_tag }}
+  {% endfor %}
+
+  <!--
+    Include Google Analytics tracking code.
+
+    http://www.mkdocs.org/user-guide/configuration/#google_analytics
+  -->
+  {% if config.google_analytics %}
+  <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+      ga('create', '{{ config.google_analytics[0] }}', '{{ config.google_analytics[1] }}');
+      ga('send', 'pageview');
+  </script>
+  {% endif %}
+
+</head>
+
+<body>
+<div id="bytemarklogo"><font size=7 color=red><b>!!!FAILOVER SITE!!!</b></font><br><center>Hosted by Mythic Beasts</center></div>
+<div id="header"><div id="logo"><a href="/FrontPage"><img src="{{ "raspbian_logo.png"|url }}" alt="Raspbian Logo"></a></div></div>
+<div id="sidebar">
+<div class="sidepanel"><h1>Quick Links</h1>
+	<ul id="navibar">
+	<li class="wikilink current"><a href="/FrontPage">Home</a></li><li class="wikilink"><a href="/RaspbianFAQ">FAQ</a></li><li class="wikilink"><a href="/RaspbianDonate">Donate</a></li><li class="wikilink"><a href="/RaspbianImages">Images</a></li><li class="wikilink"><a href="/RaspbianInstaller">Installer</a></li><li class="wikilink"><a href="/RaspbianRepository">Repository</a></li><li class="wikilink"><a href="/RaspbianMirrors">Mirrors</a></li><li class="wikilink"><a href="/RaspbianDocumentation">Documentation</a></li><li class="wikilink"><a href="/RaspbianForums">Forums</a></li><li class="wikilink"><a href="/RaspbianBugs">Bugs</a></li><li class="wikilink"><a href="/RaspbianIRC">IRC</a></li><li class="wikilink"><a href="/RecentChanges">Changes</a></li><li class="wikilink"><a href="/FindPage">Find</a></li><li class="wikilink"><a href="/HelpContents">Help</a></li>
+  <!--
+    Create the navigation for the documentation.
+
+    Because we don't know how many levels deep the navigation is, it needs to
+    be included in it's own file so it can be recursive. Otherwise the theme
+    can also only support a specific number of levels.
+
+    See the nav.html file for more details about how this works.
+  -->
+  {% for nav_item in nav %}
+    {% include "nav.html" %}
+  {% endfor %}
+
+	</ul>
+</div>
+</div>
+<div id="page" lang="en" dir="ltr">
+
+  <h1>This is an example theme for MkDocs.</h1>
+
+  <p>
+    It is designed to be read by looking at the theme HTML which is heavily
+    commented. The easiest way to do that is by
+    <strong><a href="https://github.com/mkdocs/mkdocs-basic-theme/tree/master/basic_theme">
+    looking at the source on GitHub.</a></strong>. Otherwise this is just a
+    demonstration that the 
+
+  <hr/>
+
+  <h2>Support for search</h2>
+  <!--
+    Create a search form that sends the user to the search.html file - this is
+    the other file in the template which adds search to the theme. The only
+    requirement here is that there is a text input with the name 'q' and the
+    action and methods match below.
+  -->
+  <div role="search">
+    <form action="{{ "search.html"|url }}" method="get">
+      <input type="search" name="q" placeholder="Search docs" />
+    </form>
+  </div>
+
+  <hr/>
+
+  <h2>Next and previous links</h2>
+  <!--
+    Implement the previous and next links to cycle through the pages.
+  -->
+  {% if page.next_page or page.previous_page %}
+    <div>
+      {% if page.previous_page %}
+        <a href="{{ page.previous_page.url|url }}" title="{{ page.previous_page.title }}">&#8592; Previous Page</a>
+      {% else %}
+        &#8592; Previous Page
+      {% endif %}
+      -
+      {% if page.next_page %}
+        <a href="{{ page.next_page.url|url }}" title="{{ page.next_page.title }}"/>Next Page &#8594;</a>
+      {% else %}
+        Next Page &#8594;
+      {% endif %}
+    </div>
+  {% endif %}
+
+  <hr/>
+
+  <h2>Link to the source</h2>
+  <!--
+    Support repo URL
+  -->
+  {% if page and page.edit_url %}
+    <a href="{{ page.edit_url }}">Edit on {{ config.repo_name }}</a>
+  {% elif config.repo_url %}
+    <a href="{{ config.repo_url }}">{{ config.repo_name }}</a>
+  {% endif %}
+
+  <hr/>
+
+  <h2>Show the table of contents for the current page</h2>
+  <ul>
+  {% for toc_item in page.toc %}
+      <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+      {% for toc_item in toc_item.children %}
+          <li><a href="{{ toc_item.url }}">{{ toc_item.title }}</a></li>
+      {% endfor %}
+  {% endfor %}
+  </ul>
+
+  <hr/>
+
+  {% block content %}
+    {{ page.content }}
+  {% endblock %}
+
+  <hr/>
+
+  Built with <a href="https://www.mkdocs.org">MkDocs</a>.
+
+  <!--
+  MkDocs version      : {{ mkdocs_version }}
+  Docs Build Date UTC : {{ build_date_utc }}
+  -->
+
+</body>
+</html>
