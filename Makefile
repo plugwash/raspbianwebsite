@@ -1,8 +1,8 @@
 HOST:=$(shell hostname)
-ifneq (,$(filter bytemark,$(HOST)))
+ifneq (,$(findstring bytemark,$(HOST)))
   SITEFILE=theme/base.html.bytemark
 else
-  ifneq (,$(filter mythic,$(HOST)))
+  ifneq (,$(findstring mythic,$(HOST)))
     SITEFILE=theme/base.html.mythic
   else
     SITEFILE=theme/base.html.local
